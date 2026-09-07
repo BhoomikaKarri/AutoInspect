@@ -1,0 +1,852 @@
+{
+  "nodes": [
+    {
+      "image_name": "0ef033cc0b5ccc6b678a978ae2d8f892.png",
+      "central_focus": "Wing wall 3",
+      "image_description": "This image captures Wing wall 3, a reinforced concrete wall forming part of the bridge's substructure. The wall has a multi-tiered design with a textured concrete finish, situated on an earth embankment covered in grass and scattered small rocks at its base. Minor cracks are present at the top of the wing wall. Above the wing wall, a black metal railing, part of the bridge's barrier system, is visible. The scene suggests the transition from the bridge deck to the surrounding terrain.",
+      "edges": [
+        {
+          "connected_to": "Abutment",
+          "description_of_connection": "structurally connected to and supporting the bridge abutment"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing on the superstructure"
+        },
+        {
+          "connected_to": "Wing wall 4",
+          "description_of_connection": "part of the same wing wall system with similar characteristics"
+        }
+      ]
+    },
+    {
+      "image_name": "7dfcd212adca7725ec3aaddc9c0218fa.png",
+      "central_focus": "Abutment 2 bearings",
+      "image_description": "A close-up view of the bearings at Abutment 2, showing the connection between the bridge superstructure and the abutment. The bearings appear to be elastomeric, visible between the concrete abutment seat and the concrete girders. Some minor distortion is noted along these elastomeric bearings. The underside of the concrete deck is visible, and the abutment face shows some graffiti.",
+      "edges": [
+        {
+          "connected_to": "Abutment 2",
+          "description_of_connection": "located on the abutment seat of Abutment 2"
+        },
+        {
+          "connected_to": "Bridge Superstructure",
+          "description_of_connection": "supports the bridge superstructure, allowing for movement"
+        }
+      ]
+    },
+    {
+      "image_name": "7feb185d012bdef60a33df435aaa151b.png",
+      "central_focus": "Wing wall 4",
+      "image_description": "This image displays Wing wall 4, a reinforced concrete wall that is part of the bridge's substructure. The wall features a modular block-like design, set against a grassy slope with some light vegetation and trees. Minor cracks are present at the top of the wing wall. A pedestrian crossing sign is partially visible in the upper right. This wing wall appears similar in construction and condition to Wing wall 3.",
+      "edges": [
+        {
+          "connected_to": "Abutment",
+          "description_of_connection": "structurally connected to and supporting the bridge abutment"
+        },
+        {
+          "connected_to": "Wing wall 3",
+          "description_of_connection": "part of the same wing wall system and appears similar in condition"
+        }
+      ]
+    },
+    {
+      "image_name": "2db4f674e43485554dfd2791a48ffca3.png",
+      "central_focus": "Span 3 south fascia",
+      "image_description": "An upward-looking view of the south fascia of Span 3. The fascia consists of plain concrete girders forming the visible edge of the bridge deck. Streetlights and parts of the black metal railing are visible above the fascia. The underside of the concrete bridge deck and girders show a generally good condition. Isolated minor pop-out is noted on the north side, closer to Pier 2, and some minor cracking is present on the south side.",
+      "edges": [
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "forms the southern exterior face of Span 3"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "supports the bridge railing along its top edge"
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "an aesthetic and structural component of the bridge superstructure"
+        }
+      ]
+    },
+    {
+      "image_name": "2759da97968ae065f966329c3b581d41.png",
+      "central_focus": "Span 3 north fascia",
+      "image_description": "This image shows an upward view of the north fascia of Span 3. The concrete girders and the underside of the deck are clearly visible, appearing in good condition overall. Black metal railings and streetlights are positioned above the fascia. Isolated minor pop-out is noted on the north side, closer to Pier 2, and some minor cracking is present on the south side. The image provides a perspective of the bridge's structural integrity from below.",
+      "edges": [
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "forms the northern exterior face of Span 3"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "supports the bridge railing along its top edge"
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "an aesthetic and structural component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 3 south fascia",
+          "description_of_connection": "opposite side of Span 3"
+        }
+      ]
+    },
+    {
+      "image_name": "99be504f92d52f247e3e716aab7511b0.png",
+      "central_focus": "Span 2 north fascia",
+      "image_description": "An upward view of the north fascia of Span 2, featuring concrete girders and the underside of the bridge deck. The girders appear smooth and in good overall condition. Streetlights are visible along the bridge deck, as are sections of the black metal railing. Some minor cracking is noted on the south side of the fascia.",
+      "edges": [
+        {
+          "connected_to": "Span 2",
+          "description_of_connection": "forms the northern exterior face of Span 2"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "supports the bridge railing along its top edge"
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "an aesthetic and structural component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 2 south fascia",
+          "description_of_connection": "opposite side of Span 2"
+        }
+      ]
+    },
+    {
+      "image_name": "a5cca2280f64a2add3c76a20646925f9.png",
+      "central_focus": "Span 2",
+      "image_description": "An underneath view of Span 2, showcasing multiple concrete girders supporting the bridge deck. The girders appear clean and uniform, with metal formwork or bracing visible between some of them, indicating a box girder or similar construction type. The 10 box beams along approaches and 5 large Bulb T along main span look good.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "a primary component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "supported by Pier 1 at one end"
+        },
+        {
+          "connected_to": "Pier 2",
+          "description_of_connection": "supported by Pier 2 at the other end"
+        }
+      ]
+    },
+    {
+      "image_name": "2ca8f62e90a0254ed6a6d5a12b453d20.png",
+      "central_focus": "Span 3",
+      "image_description": "An underneath view of Span 3, showing several concrete girders supporting the bridge deck. The girders have a smooth, uniform appearance, with some signs of minor leakage at abutment 1 and isolated minor pop-out on the north side closer to Pier 2, and minor cracking on the south side of the fascia. The underside of the deck also appears in good condition, with embedded circular elements possibly indicating lighting or inspection points.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "a primary component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Pier 2",
+          "description_of_connection": "supported by Pier 2 at one end"
+        },
+        {
+          "connected_to": "Abutment 2",
+          "description_of_connection": "supported by Abutment 2 at the other end"
+        }
+      ]
+    },
+    {
+      "image_name": "3f2e9d2f0a66a3dd9f085ba9f75d5c1f.png",
+      "central_focus": "Abutment 2",
+      "image_description": "A view of Abutment 2 from below the bridge deck, showing the concrete abutment wall and the gravel-covered ground at its base. The abutment supports the bridge girders, which are visible directly above. The abutment has isolated minor vertical elements. Some minor wear is present on the abutment joint. The area around the abutment base is covered with various sizes of loose rocks and gravel.",
+      "edges": [
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "supports Span 3 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Abutment 2 bearings",
+          "description_of_connection": "contains the bearings for the bridge girders"
+        },
+        {
+          "connected_to": "Wing wall 4",
+          "description_of_connection": "adjacent to Wing wall 4"
+        }
+      ]
+    },
+    {
+      "image_name": "b6faa5005f219732d71d5e0431ba116e.png",
+      "central_focus": "Pier 2",
+      "image_description": "This image shows Pier 2, a concrete support structure for the bridge, situated near railway tracks. The pier has a clean, multi-sectioned appearance, with the lower part appearing to have recent maintenance or coating. The bridge girders are supported on top of the pier. Some minor cracks are present on Pier 2. The area around the base of the pier is covered with rocks, and active railway tracks are visible in the foreground, with Otter Creek flowing behind. This pier appears similar in condition to Pier 1.",
+      "edges": [
+        {
+          "connected_to": "Span 2",
+          "description_of_connection": "supports Span 2 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "supports Span 3 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "similar in condition to Pier 1"
+        },
+        {
+          "connected_to": "Otter Creek",
+          "description_of_connection": "located within or adjacent to Otter Creek"
+        }
+      ]
+    },
+    {
+      "image_name": "9a55330eb86f0605976d57a79643d5a3.png",
+      "central_focus": "Span 3 north fascia",
+      "image_description": "A side view of the north fascia of Span 3, extending over the bank. The concrete structure appears robust and well-maintained. A worker in a high-visibility vest is visible underneath the bridge, near the bank of the river, providing a sense of scale. The bridge railing, consisting of black metal balusters, runs along the top of the deck. Some minor cracking is present on the south side of the fascia. This is the same component as the previous 'Span 3 north fascia' but from a different angle.",
+      "edges": [
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "forms the northern exterior face of Span 3"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "supports the bridge railing along its top edge"
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "an aesthetic and structural component of the bridge superstructure"
+        }
+      ]
+    },
+    {
+      "image_name": "eaf224dd1201be70ae507b6518e6184e.png",
+      "central_focus": "Span 3 north sidewalk",
+      "image_description": "A view of the north sidewalk on Span 3, showing a smooth, grey concrete surface with a black metal railing running alongside. The railing, a 3-teardrop system, is in good condition with some minor scrapes and aluminum posts. The sidewalk appears generally clean, with some minor chips and scrapes. The bridge deck below is largely out of view.",
+      "edges": [
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "forms the north pedestrian path on Span 3"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing"
+        },
+        {
+          "connected_to": "Span 3 south sidewalk",
+          "description_of_connection": "opposite side of Span 3"
+        }
+      ]
+    },
+    {
+      "image_name": "936b3e4986afe00fdee0c31690246675.png",
+      "central_focus": "Abutment 2 joint",
+      "image_description": "This image shows the expansion joint located at Abutment 2 on the bridge's wearing surface. It is a linear strip of black seal across the gray asphalt pavement, designed to accommodate bridge movement. The asphalt surface around the joint appears to have some minor wear, with slight discoloration or texture variations. The Abutment 2 joint has some minor wear.",
+      "edges": [
+        {
+          "connected_to": "Span 3 wearing surface",
+          "description_of_connection": "forms a boundary with the asphalt wearing surface of Span 3"
+        },
+        {
+          "connected_to": "Bridge Deck",
+          "description_of_connection": "an integral component of the bridge deck structure"
+        },
+        {
+          "connected_to": "Pier 2 south joint",
+          "description_of_connection": "functionally similar to the Pier 2 south joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "8d488354a101cc7a86bd09ac7196578a.png",
+      "central_focus": "Span 3 south sidewalk",
+      "image_description": "A view of the south sidewalk on Span 3, featuring a grey concrete surface and a black metal railing running parallel to the roadway. The sidewalk appears to be in good condition with minor chips and scrapes. The railing, a 3-teardrop system, is in good condition with minor scrapes and aluminum posts. The roadway is visible to the left, and trees and vegetation line the riverbank in the background.",
+      "edges": [
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "forms the south pedestrian path on Span 3"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing"
+        },
+        {
+          "connected_to": "Span 3 north sidewalk",
+          "description_of_connection": "opposite side of Span 3"
+        }
+      ]
+    },
+    {
+      "image_name": "962cd1d6ae1793ec930cddf48722cfbb.png",
+      "central_focus": "Span 3 wearing surface",
+      "image_description": "This image shows the asphalt wearing surface of Span 3, characterized by a grey, slightly textured appearance with faint white and yellow lane markings. The surface exhibits moderate to heavier wheel track rutting and map cracking along approaches. An isolated minor pothole is present in the WB lane. The concrete sidewalk is visible on the right.",
+      "edges": [
+        {
+          "connected_to": "Bridge Deck",
+          "description_of_connection": "overlies and protects the bridge deck"
+        },
+        {
+          "connected_to": "Abutment 2 joint",
+          "description_of_connection": "adjacent to and traversed by the Abutment 2 joint"
+        },
+        {
+          "connected_to": "Pier 2 south joint",
+          "description_of_connection": "adjacent to and traversed by the Pier 2 south joint"
+        }
+      ]
+    },
+    {
+      "image_name": "5189c4440ccb953accd680c8f79961f0.png",
+      "central_focus": "Pier 2 south joint",
+      "image_description": "A close-up view of the expansion joint on the south sidewalk near Pier 2. This joint features a metal plate system embedded in the concrete, designed to accommodate movement. The joint has some minor wear on the plates and the plug joint has moderate wear and exposed pavement. The frame around the bolts is starting to break up. The concrete sidewalk surrounding the joint appears generally sound, though with some minor chips and scrapes.",
+      "edges": [
+        {
+          "connected_to": "Span 3 south sidewalk",
+          "description_of_connection": "forms a segment of the Span 3 south sidewalk"
+        },
+        {
+          "connected_to": "Pier 2",
+          "description_of_connection": "located directly above Pier 2"
+        },
+        {
+          "connected_to": "Abutment 2 joint",
+          "description_of_connection": "functionally similar to the Abutment 2 joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "78f0a51f1bc3df99b15d7b35df9e6883.png",
+      "central_focus": "Upstream channel",
+      "image_description": "An aerial view looking upstream along Otter Creek, which flows beneath the bridge. The channel shows moving water, with lush green trees and vegetation lining both banks. The water surface is generally smooth. The channel condition is described as good, with no scour. The bridge railing is visible in the foreground.",
+      "edges": [
+        {
+          "connected_to": "Otter Creek",
+          "description_of_connection": "is a section of Otter Creek"
+        },
+        {
+          "connected_to": "Bridge",
+          "description_of_connection": "flows underneath the bridge structure"
+        },
+        {
+          "connected_to": "Downstream channel",
+          "description_of_connection": "upstream from the downstream channel section"
+        }
+      ]
+    },
+    {
+      "image_name": "ef623e420e0a072c08bce4ca45dbe637.png",
+      "central_focus": "Span 2 sidewalk",
+      "image_description": "A view of the sidewalk on Span 2, featuring a grey concrete surface and a black metal railing running along the edge. The sidewalk surface appears clean with some minor chips and scrapes. The railing, a 3-teardrop system, is in good condition with some minor scrapes and aluminum posts. Light poles are also visible along the sidewalk, adding to the urban context.",
+      "edges": [
+        {
+          "connected_to": "Span 2",
+          "description_of_connection": "forms the pedestrian path on Span 2"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing"
+        },
+        {
+          "connected_to": "Span 1 south sidewalk",
+          "description_of_connection": "a continuation of the sidewalk system leading to Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "bcd07f278ce51c801b20a4dfdb3a761f.png",
+      "central_focus": "Pier 1 south sidewalk joint",
+      "image_description": "A close-up view of the expansion joint on the south sidewalk near Pier 1. This joint features a metal plate system embedded in the concrete, designed to accommodate movement. The joint has some minor wear on the plates and the plug joint has moderate wear and exposed pavement. The frame around the bolts is starting to break up. The concrete sidewalk surrounding the joint appears generally sound, though with some minor chips and scrapes.",
+      "edges": [
+        {
+          "connected_to": "Span 1 south sidewalk",
+          "description_of_connection": "forms a segment of the Span 1 south sidewalk"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "located directly above Pier 1"
+        },
+        {
+          "connected_to": "Pier 2 south joint",
+          "description_of_connection": "functionally similar to the Pier 2 south joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "12dd86dfc706c80c26143d45672d925b.png",
+      "central_focus": "Span 1 south sidewalk",
+      "image_description": "A view of the south sidewalk on Span 1, featuring a grey concrete surface and a black metal railing running along the edge. The sidewalk surface appears clean with some minor chips and scrapes. The railing, a 3-teardrop system, is in good condition with some minor scrapes and aluminum posts. Light poles are also visible along the sidewalk. This sidewalk is adjacent to the roadway and offers views of the river.",
+      "edges": [
+        {
+          "connected_to": "Span 1",
+          "description_of_connection": "forms the south pedestrian path on Span 1"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing"
+        },
+        {
+          "connected_to": "Pier 1 south sidewalk joint",
+          "description_of_connection": "contains the Pier 1 south sidewalk joint"
+        }
+      ]
+    },
+    {
+      "image_name": "88701c14321b6ee7ff7c5f1c931b831d.png",
+      "central_focus": "Pier 2 north sidewalk",
+      "image_description": "A close-up view of the expansion joint on the north sidewalk near Pier 2. This joint features a metal plate system embedded in the concrete, designed to accommodate movement. The joint has some minor wear on the plates and the plug joint has moderate wear and exposed pavement. The frame around the bolts is starting to break up. The concrete sidewalk surrounding the joint appears generally sound, though with some minor chips and scrapes.",
+      "edges": [
+        {
+          "connected_to": "Span 2 north sidewalk",
+          "description_of_connection": "forms a segment of the Span 2 north sidewalk"
+        },
+        {
+          "connected_to": "Pier 2",
+          "description_of_connection": "located directly above Pier 2"
+        },
+        {
+          "connected_to": "Pier 1 north sidewalk",
+          "description_of_connection": "functionally similar to the Pier 1 north sidewalk joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "4f43d9f159983427efbefc18a2352932.png",
+      "central_focus": "Pier 2 joint",
+      "image_description": "This image shows the expansion joint on the main roadway near Pier 2. It is a linear metal and rubber plate system embedded in the asphalt wearing surface, designed to accommodate bridge movement. The joint has some minor wear on the plates and the plug joint has moderate wear and exposed pavement. The frame around the bolts is starting to break up. The asphalt around the joint shows signs of repairs and minor rutting or depressions.",
+      "edges": [
+        {
+          "connected_to": "Span 2 wearing surface",
+          "description_of_connection": "forms a boundary with the asphalt wearing surface of Span 2"
+        },
+        {
+          "connected_to": "Pier 2",
+          "description_of_connection": "located directly above Pier 2"
+        },
+        {
+          "connected_to": "Pier 1 joint",
+          "description_of_connection": "functionally similar to the Pier 1 joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "bcf5f99a325e92e1b1a47929a0ce0950.png",
+      "central_focus": "Downstream channel",
+      "image_description": "An aerial view looking downstream along Otter Creek, revealing the river flowing past urban and industrial buildings, including a large brick factory building. The water surface appears calm but shows movement. The banks are lined with trees and some railway infrastructure. The channel condition is described as good, with no scour. The bridge railing is visible in the foreground.",
+      "edges": [
+        {
+          "connected_to": "Otter Creek",
+          "description_of_connection": "is a section of Otter Creek"
+        },
+        {
+          "connected_to": "Bridge",
+          "description_of_connection": "flows underneath the bridge structure"
+        },
+        {
+          "connected_to": "Upstream channel",
+          "description_of_connection": "downstream from the upstream channel section"
+        }
+      ]
+    },
+    {
+      "image_name": "3c1f8807a40b48d17e7ec93e93dfa488.png",
+      "central_focus": "Span 2 wearing surface",
+      "image_description": "This image shows the asphalt wearing surface of Span 2, characterized by a grey, slightly textured appearance with faint white and yellow lane markings. The surface exhibits moderate to heavier wheel track rutting and map cracking along approaches. An isolated minor pothole is present in the WB lane. The concrete sidewalk is visible on the right, separated by a curb. The entire surface appears to have experienced some wear.",
+      "edges": [
+        {
+          "connected_to": "Bridge Deck",
+          "description_of_connection": "overlies and protects the bridge deck"
+        },
+        {
+          "connected_to": "Pier 2 joint",
+          "description_of_connection": "adjacent to and traversed by the Pier 2 joint"
+        },
+        {
+          "connected_to": "Pier 1 joint",
+          "description_of_connection": "adjacent to and traversed by the Pier 1 joint"
+        }
+      ]
+    },
+    {
+      "image_name": "0657309d658a72014532357247c52881.png",
+      "central_focus": "Span 2 north rail",
+      "image_description": "A view of the black metal railing along the north side of Span 2. The railing consists of vertical balusters and horizontal rails, appearing sturdy and in good condition, although some minor scrapes are noted. The concrete sidewalk is visible beneath the railing, and buildings are present in the background. The railing is a 3-teardrop rail system with some minor scrapes, and aluminum post are good.",
+      "edges": [
+        {
+          "connected_to": "Span 2 north sidewalk",
+          "description_of_connection": "runs along the edge of the Span 2 north sidewalk"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "a component of the bridge railing system"
+        },
+        {
+          "connected_to": "Span 1 north sidewalk",
+          "description_of_connection": "a continuation of the railing system leading to Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "3bebd3d43edadd3cd196a65f821e8207.png",
+      "central_focus": "Pier 1 north sidewalk",
+      "image_description": "A close-up view of the expansion joint on the north sidewalk near Pier 1. This joint features a metal plate system embedded in the concrete, designed to accommodate movement. The joint has some minor wear on the plates and the plug joint has moderate wear and exposed pavement. The frame around the bolts is starting to break up. The concrete sidewalk surrounding the joint appears generally sound, though with some minor chips and scrapes. The bridge railing base is visible to the right.",
+      "edges": [
+        {
+          "connected_to": "Span 1 north sidewalk",
+          "description_of_connection": "forms a segment of the Span 1 north sidewalk"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "located directly above Pier 1"
+        },
+        {
+          "connected_to": "Pier 2 north sidewalk",
+          "description_of_connection": "functionally similar to the Pier 2 north sidewalk joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "95cb23583459feb5fac6d61b088a6dc3.png",
+      "central_focus": "Pier 1 joint",
+      "image_description": "This image shows the expansion joint on the main roadway near Pier 1. It is a linear metal and rubber plate system embedded in the asphalt wearing surface, designed to accommodate bridge movement. The joint has some minor wear on the plates and the plug joint has moderate wear and exposed pavement. The frame around the bolts is starting to break up. The asphalt around the joint shows signs of repairs and minor rutting or depressions.",
+      "edges": [
+        {
+          "connected_to": "Span 1 wearing surface",
+          "description_of_connection": "forms a boundary with the asphalt wearing surface of Span 1"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "located directly above Pier 1"
+        },
+        {
+          "connected_to": "Pier 2 joint",
+          "description_of_connection": "functionally similar to the Pier 2 joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "e1f642fb2f7274b1c5484d28504cf4c5.png",
+      "central_focus": "Span 1 north sidewalk",
+      "image_description": "A view of the north sidewalk on Span 1, featuring a grey concrete surface and a black metal railing running along the edge. The sidewalk surface appears clean with some minor chips and scrapes. The railing, a 3-teardrop system, is in good condition with some minor scrapes and aluminum posts. Light poles are also visible along the sidewalk, and a parking lot is visible below the bridge.",
+      "edges": [
+        {
+          "connected_to": "Span 1",
+          "description_of_connection": "forms the north pedestrian path on Span 1"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing"
+        },
+        {
+          "connected_to": "Pier 1 north sidewalk",
+          "description_of_connection": "contains the Pier 1 north sidewalk joint"
+        }
+      ]
+    },
+    {
+      "image_name": "d98ea10de95821ff45dda50763253e1f.png",
+      "central_focus": "Span 1 wearing surface",
+      "image_description": "This image shows the asphalt wearing surface of Span 1, characterized by a grey, slightly textured appearance with faint white and yellow lane markings. The surface exhibits moderate to heavier wheel track rutting and map cracking along approaches. An isolated minor pothole is present in the WB lane. The concrete sidewalk is visible on the left, separated by a curb. The entire surface appears to have experienced some wear.",
+      "edges": [
+        {
+          "connected_to": "Bridge Deck",
+          "description_of_connection": "overlies and protects the bridge deck"
+        },
+        {
+          "connected_to": "Abutment 1 joint",
+          "description_of_connection": "adjacent to and traversed by the Abutment 1 joint"
+        },
+        {
+          "connected_to": "Pier 1 joint",
+          "description_of_connection": "adjacent to and traversed by the Pier 1 joint"
+        }
+      ]
+    },
+    {
+      "image_name": "2660a5448557e0bc09ead27ac812f254.png",
+      "central_focus": "Abutment 1 curb seal",
+      "image_description": "A close-up view of the concrete curb and the seal at Abutment 1. The image shows the joint between two concrete sections of the sidewalk and curb, with a narrow dark line indicating a sealant or gap. The concrete surfaces show some minor chips and scrapes. The Abutment 1 curb should be sealed to prevent water infiltration.",
+      "edges": [
+        {
+          "connected_to": "Abutment 1",
+          "description_of_connection": "part of the Abutment 1 structure"
+        },
+        {
+          "connected_to": "Span 1 north sidewalk",
+          "description_of_connection": "forms the termination of the Span 1 north sidewalk at the abutment"
+        }
+      ]
+    },
+    {
+      "image_name": "d4b541e54b02599929f58d2f7dba4817.png",
+      "central_focus": "Abutment 1 joint",
+      "image_description": "This image displays the expansion joint at Abutment 1 on the bridge's wearing surface. It is a linear strip of black seal across the gray asphalt pavement, designed to accommodate bridge movement. The asphalt surface around the joint appears to have some minor wear, with slight discoloration or texture variations. The Abutment 1 joint has isolated minor wear.",
+      "edges": [
+        {
+          "connected_to": "Span 1 wearing surface",
+          "description_of_connection": "forms a boundary with the asphalt wearing surface of Span 1"
+        },
+        {
+          "connected_to": "Bridge Deck",
+          "description_of_connection": "an integral component of the bridge deck structure"
+        },
+        {
+          "connected_to": "Pier 1 joint",
+          "description_of_connection": "functionally similar to the Pier 1 joint in accommodating expansion"
+        }
+      ]
+    },
+    {
+      "image_name": "52bb985ad4d57fdd59bb3bfd96f366e5.png",
+      "central_focus": "Abutment 1 approach",
+      "image_description": "An overview of the bridge approach at Abutment 1, showing the transition from the road to the bridge deck. The roadway has two lanes in each direction, separated by a landscaped median with plants. The asphalt wearing surface appears to be in good condition with some minor rutting and map cracking along approaches. Bridge railings and streetlights are visible on both sides of the bridge. The alignment of the approach roadway is good.",
+      "edges": [
+        {
+          "connected_to": "Abutment 1",
+          "description_of_connection": "leads onto the Abutment 1 structure"
+        },
+        {
+          "connected_to": "Bridge Deck",
+          "description_of_connection": "connects the roadway to the bridge deck"
+        },
+        {
+          "connected_to": "Span 1 wearing surface",
+          "description_of_connection": "transitions into the Span 1 wearing surface"
+        }
+      ]
+    },
+    {
+      "image_name": "5a8a28259500fbd19ebc69db35f7b950.png",
+      "central_focus": "Span 1 north fascia",
+      "image_description": "An upward view of the north fascia of Span 1, featuring concrete girders and the underside of the bridge deck. The girders appear smooth and in good overall condition. Black metal railings and streetlights are positioned above the fascia. Below, a parking lot with several vehicles is visible.",
+      "edges": [
+        {
+          "connected_to": "Span 1",
+          "description_of_connection": "forms the northern exterior face of Span 1"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "supports the bridge railing along its top edge"
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "an aesthetic and structural component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 1 south fascia",
+          "description_of_connection": "opposite side of Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "365434877c64b356cd7f2e75731b4224.png",
+      "central_focus": "Span 2 south fascia",
+      "image_description": "An upward view of the south fascia of Span 2, featuring concrete girders and the underside of the bridge deck. The girders appear smooth and in good overall condition. Black metal railings and streetlights are positioned above the fascia. Some minor cracking is noted on the south side of the fascia.",
+      "edges": [
+        {
+          "connected_to": "Span 2",
+          "description_of_connection": "forms the southern exterior face of Span 2"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "supports the bridge railing along its top edge"
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "an aesthetic and structural component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 2 north fascia",
+          "description_of_connection": "opposite side of Span 2"
+        }
+      ]
+    },
+    {
+      "image_name": "34c222fa46cdb4482be3fb0d181e255a.png",
+      "central_focus": "Span 1 south fascia",
+      "image_description": "An upward view of the south fascia of Span 1, featuring concrete girders and the underside of the bridge deck. The girders appear smooth and in good overall condition. Black metal railings and streetlights are positioned above the fascia. Trees are visible in the foreground and background, indicating the natural surroundings below the bridge.",
+      "edges": [
+        {
+          "connected_to": "Span 1",
+          "description_of_connection": "forms the southern exterior face of Span 1"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "supports the bridge railing along its top edge"
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "an aesthetic and structural component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 1 north fascia",
+          "description_of_connection": "opposite side of Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "49f49930445b0e9a1386e6a5db936ff4.png",
+      "central_focus": "Pier 2",
+      "image_description": "This image shows Pier 2, a concrete support structure for the bridge, viewed from the river level. The pier has a clean, multi-sectioned appearance, with the lower part appearing to have recent maintenance or coating. The bridge girders are supported on top of the pier. Some minor cracks are present on Pier 2. The area around the base of the pier is covered with rocks, and the river flows in the foreground. This pier appears similar in condition to Pier 1.",
+      "edges": [
+        {
+          "connected_to": "Span 2",
+          "description_of_connection": "supports Span 2 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 3",
+          "description_of_connection": "supports Span 3 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Otter Creek",
+          "description_of_connection": "located within or adjacent to Otter Creek"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "similar in condition to Pier 1"
+        }
+      ]
+    },
+    {
+      "image_name": "18cfe3aa49456f53114a846b027bbb31.png",
+      "central_focus": "Pier 1 back wall",
+      "image_description": "An underneath view showcasing the back wall of Pier 1, a concrete element supporting the bridge structure. The wall has a uniform appearance, with the bridge girders and metal formwork visible directly above it. Minor cracks are present on Pier 1. The base of the wall is surrounded by loose rocks and debris, with some bags or objects leaning against it.",
+      "edges": [
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "a component of Pier 1"
+        },
+        {
+          "connected_to": "Bridge Girders",
+          "description_of_connection": "supports the bridge girders above it"
+        }
+      ]
+    },
+    {
+      "image_name": "7c214f83513a7f7a3fd9fb4d4575f7a2.png",
+      "central_focus": "Span 2",
+      "image_description": "An underneath view of Span 2, showcasing multiple concrete girders supporting the bridge deck. The girders appear clean and uniform, with metal formwork or bracing visible between some of them, indicating a box girder or similar construction type. The 10 box beams along approaches and 5 large Bulb T along main span look good. The image provides a comprehensive view of the underside of this span.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "a primary component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "supported by Pier 1 at one end"
+        },
+        {
+          "connected_to": "Pier 2",
+          "description_of_connection": "supported by Pier 2 at the other end"
+        }
+      ]
+    },
+    {
+      "image_name": "ce1c6a50f2df159777f9e53608534714.png",
+      "central_focus": "Pier 1",
+      "image_description": "This image shows Pier 1, a concrete support structure for the bridge, with a parking lot visible beneath it. The pier has a clean, multi-sectioned appearance. The bridge girders are supported on top of the pier. Some minor cracks are present on Pier 1. Multiple vehicles are parked under the bridge, indicating urban use of the space.",
+      "edges": [
+        {
+          "connected_to": "Span 1",
+          "description_of_connection": "supports Span 1 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Span 2",
+          "description_of_connection": "supports Span 2 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Pier 1 back wall",
+          "description_of_connection": "contains the Pier 1 back wall"
+        },
+        {
+          "connected_to": "Pier 2",
+          "description_of_connection": "similar in condition to Pier 2"
+        }
+      ]
+    },
+    {
+      "image_name": "c24979cfa7964587b25a7401b288221d.png",
+      "central_focus": "Wing wall 2",
+      "image_description": "An exterior view of Wing wall 2, a reinforced concrete retaining wall constructed with a textured, modular block-like pattern. The wall supports the bridge approach embankment. The concrete appears sound, though some minor staining or discoloration is visible in places. The top of the wall meets the bridge deck level, where a black metal railing and a streetlight are visible. This wing wall appears similar in construction to Wing wall 1.",
+      "edges": [
+        {
+          "connected_to": "Abutment",
+          "description_of_connection": "structurally connected to and supporting the bridge abutment"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing"
+        },
+        {
+          "connected_to": "Wing wall 1",
+          "description_of_connection": "part of the same wing wall system and appears similar in construction"
+        }
+      ]
+    },
+    {
+      "image_name": "8e623d76845c1f505bfd21b2b0b4b0a7.png",
+      "central_focus": "Wing wall 1",
+      "image_description": "An exterior view of Wing wall 1, a reinforced concrete retaining wall constructed with a textured, modular block-like pattern. The wall supports the bridge approach embankment. The concrete appears sound, though some minor staining or discoloration is visible in places. A silver pickup truck is parked near the base of the wall, providing scale. This wing wall appears similar in construction to Wing wall 2.",
+      "edges": [
+        {
+          "connected_to": "Abutment 1",
+          "description_of_connection": "structurally connected to and supporting Abutment 1"
+        },
+        {
+          "connected_to": "Bridge Railing",
+          "description_of_connection": "adjacent to the bridge railing"
+        },
+        {
+          "connected_to": "Wing wall 2",
+          "description_of_connection": "part of the same wing wall system and appears similar in construction"
+        }
+      ]
+    },
+    {
+      "image_name": "0baf66cc247037e471b5b4881f81afb4.png",
+      "central_focus": "Abutment 1 seat",
+      "image_description": "A view of the concrete abutment seat at Abutment 1, from underneath the bridge. The abutment seat supports the ends of the concrete girders. The girders and metal formwork are visible above the seat. Some minor leakage is noted at the bearing seat. The concrete abutment wall below the seat is constructed with textured, modular blocks. The abutment has some slight saturation.",
+      "edges": [
+        {
+          "connected_to": "Abutment 1",
+          "description_of_connection": "a component of Abutment 1"
+        },
+        {
+          "connected_to": "Bridge Girders",
+          "description_of_connection": "provides support for the bridge girders"
+        }
+      ]
+    },
+    {
+      "image_name": "4817b936a662bdc7466d447de151d639.png",
+      "central_focus": "Span 1",
+      "image_description": "An underneath view of Span 1, showcasing multiple concrete girders supporting the bridge deck. The girders appear clean and uniform, with metal formwork or bracing visible between some of them, indicating a box girder or similar construction type. The 10 box beams along approaches and 5 large Bulb T along main span look good. The underside of the deck also appears in good condition, with embedded circular elements possibly indicating lighting or inspection points.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "a primary component of the bridge superstructure"
+        },
+        {
+          "connected_to": "Abutment 1",
+          "description_of_connection": "supported by Abutment 1 at one end"
+        },
+        {
+          "connected_to": "Pier 1",
+          "description_of_connection": "supported by Pier 1 at the other end"
+        }
+      ]
+    },
+    {
+      "image_name": "bd7470342b152c41e06172511fb26512.png",
+      "central_focus": "Abutment 1",
+      "image_description": "This image shows Abutment 1, a concrete support structure for the bridge, with a parking lot visible beneath it. The abutment wall is constructed with textured, modular blocks. The bridge girders are supported on top of the abutment. Some minor leakage is noted at the bearing seat of Abutment 1. Multiple vehicles are parked under the bridge, indicating urban use of the space.",
+      "edges": [
+        {
+          "connected_to": "Span 1",
+          "description_of_connection": "supports Span 1 of the bridge superstructure"
+        },
+        {
+          "connected_to": "Abutment 1 seat",
+          "description_of_connection": "contains the Abutment 1 seat"
+        },
+        {
+          "connected_to": "Wing wall 1",
+          "description_of_connection": "adjacent to Wing wall 1"
+        }
+      ]
+    }
+  ]
+}

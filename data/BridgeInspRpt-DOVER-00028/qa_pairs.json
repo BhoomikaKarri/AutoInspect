@@ -1,0 +1,173 @@
+[
+  {
+    "question": "What is the condition rating for the bridge railing transitions given the presence of widespread minor or isolated moderate defects?",
+    "answer": "The report lists the B.C.06 Bridge Railing Transitions Condition Rating as \"SATISFACTORY - Widespread minor or isolated moderate defects.\" This corresponds to a condition rating of 6, Satisfactory.",
+    "reference_images": [
+      "de9c0245849b5833812a61bca374a3ba.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  },
+  {
+    "question": "Considering that both abutments have stones and boulders present in front for protection, what is the numerical rating for the channel protection?",
+    "answer": "The report indicates for B.C.10 Channel Protection Condition Rating (GOOD - Some minor defects.) that \"Both abutments have some stones and boulders present in front for protection.\" The rating is 7, Good.",
+    "reference_images": [
+      "272eb97695bbdcfb8570dc6bab986d01.png",
+      "05981d37d1f9311e7d47f7c648373c06.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "How is the alignment and elevation change of the approach roadway described between the two abutments, and what is the assigned alignment rating?",
+    "answer": "The report states for 72 - Approach Roadway Alignment that \"Roadway alignment is fairly straight from the abutment #1 approach with a moderate to significant elevation drop to structure. Abutment #2 approach \u201cT\u2019s\u201d up to roadway with a varying elevation changes.\" The alignment is rated 7, Better than present minimum criteria.",
+    "reference_images": [
+      "300ef9fc3f27c4f60752d7e1d715305f.png",
+      "fb4c06fffe0eb7d28650e28a3fa643b4.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Based on the observation of light abrasion along the lower portions of the concrete abutments and scattered hairline shrinkage cracks, what is the condition rating for the substructure?",
+    "answer": "According to the report for 60 - Substructure, \"Reinforced concrete abutment #1 is in fairly good condition having some light abrasion along the lower portions with a few scattered hairline shrinkage cracks.\" The substructure is rated 7, Good.",
+    "reference_images": [
+      "4733cc5f707a9679d8fe5f07e273cc37.png",
+      "ba05dcc0070f11aeb1e52aeb26b82b83.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Considering the leakage observed between precast units and the localized spall near midspan, what is the overall superstructure condition rating?",
+    "answer": "The superstructure has a rating of 7. Seven (7) precast concrete c-channel units are in fairly good condition having some light wearing. Saturation leakage with some efflorescence leakage and a few small rust stains are present scattered throughout between the units. Unit #4 near midspan has a small spall present that has exposed the steel reinforcing in beam #8.",
+    "reference_images": [
+      "e68276b4f7d84358ccac38c5762a1557.png",
+      "2787e82efd2535aba7fa3b96ae8e6c4a.png",
+      "e596598fa221be028a6b918c9645248c.png",
+      "3b428ec459f7c25e2b0fc2c6c2729919.png",
+      "85274f808d3f7093cea5e8a5cab4442d.png",
+      "fbdc1f6620b28f9c39e302d732c7f7b0.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Compare the types of cracking found on the reinforced concrete abutments versus the wing walls, and what is the final substructure condition rating?",
+    "answer": "The substructure has a condition rating of 7. Reinforced concrete abutment #1 is in fairly good condition having some light abrasion along the lower portions with a few scattered hairline shrinkage cracks. Reinforced concrete abutment #2 is in fairly good condition having some light abrasion along the lower portions with a few scattered hairline shrinkage cracks. Reinforced concrete wing walls are in fairly good condition having some scattered hairline map cracks.",
+    "reference_images": [
+      "4733cc5f707a9679d8fe5f07e273cc37.png",
+      "a25654f30329826f7fac45a6444d50d2.png",
+      "ba05dcc0070f11aeb1e52aeb26b82b83.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Considering the cracking on the asphalt wearing surface and the leakage between the underlying precast concrete units, what is the overall condition rating for the deck?",
+    "answer": "The deck is rated a 7. Precast concrete c-channel units are in fairly good condition. Saturation leakage, efflorescence leakage and a few scattered small rust stains are present between the units. The asphalt top surface has minor to moderate cracking scattered throughout and along the centerline.",
+    "reference_images": [
+      "e68276b4f7d84358ccac38c5762a1557.png",
+      "fb4c06fffe0eb7d28650e28a3fa643b4.png",
+      "37a6946f832c9e563091ba0710510982.png",
+      "f55c663964bda74102f1e6bd4bd7929d.png",
+      "6a89e6c8b0b96cef2d39b6ba314d7b10.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Given the recent installation of large stone riprap due to abutment settlement and the existing minor damage to bank protection, what is the assigned channel condition rating?",
+    "answer": "The channel condition rating is a 7. Bank protection is in need of minor repairs. River control devices and embankment protection have a little minor damage. Recent large stone riprap has been installed along the upstream side of abutment #1 behind the wingwall and along the channel edge due to movement / settlement of previous concrete abutment that was stabilizing the upstream embankment.",
+    "reference_images": [
+      "de07d81af4e3485ec30a609c42ea0c95.png",
+      "28f21c251dfadc8dba7a15e1c3ef7090.png",
+      "1e44fc7f2e9a4097ec7851c179e7fb5f.png",
+      "06ad13b6408b2df3e4fcaf7446ae5a39.png",
+      "4733cc5f707a9679d8fe5f07e273cc37.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Provide a combined assessment of the approach railing system by describing the damage to both the steel rails and the posts.",
+    "answer": "Galvanized steel beam rail is in satisfactory condition having minor to moderate scrapes and dents along the face of rail. Some heavier flattening of rail is present along the abutment #2 approaches with even some tearing present along the upstream side with post being disconnected. Galvanized steel posts with steel offsets are in satisfactory condition having a few small bends and dents from small plow impacts along the upper portions. A few posts have bends, twists and dents along the upstream side past abutment #1 due to recent flooding event.",
+    "reference_images": [
+      "7749661dac7fc71a79112753579baa3d.png",
+      "de9c0245849b5833812a61bca374a3ba.png",
+      "1009f1485cc94ec0448d56d29f9e8052.png",
+      "28f21c251dfadc8dba7a15e1c3ef7090.png",
+      "de07d81af4e3485ec30a609c42ea0c95.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "Compare the cracking observed in the precast concrete deck units with the cracking on the reinforced concrete abutments.",
+    "answer": "The deck's fascia units have small rust stains and cracking present along both the upstream and downstream sides. The reinforced concrete abutments #1 and #2 are in fairly good condition having a few scattered hairline shrinkage cracks.",
+    "reference_images": [
+      "e68276b4f7d84358ccac38c5762a1557.png",
+      "fb4c06fffe0eb7d28650e28a3fa643b4.png",
+      "4733cc5f707a9679d8fe5f07e273cc37.png",
+      "27707e24ab7a172b8fcbb59692a15fd8.png",
+      "442951ae72fef2053d343ebaf4fb7fc4.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "What is the condition of the asphalt deck wearing surface and what is its condition rating?",
+    "answer": "The asphalt wearing surface is rated a 5. It is in okay condition and nearing fair condition. Top surface has minor to moderate cracking scattered throughout and along the centerline.",
+    "reference_images": [
+      "e68276b4f7d84358ccac38c5762a1557.png",
+      "fb4c06fffe0eb7d28650e28a3fa643b4.png",
+      "37a6946f832c9e563091ba0710510982.png",
+      "f55c663964bda74102f1e6bd4bd7929d.png",
+      "6a89e6c8b0b96cef2d39b6ba314d7b10.png"
+    ],
+    "condition_rating": {
+      "score": 5
+    }
+  },
+  {
+    "question": "Describe the condition of the approach rail, including any notable damage, and provide its condition rating.",
+    "answer": "The approach rail received a rating of 5. Galvanized steel beam rail is in satisfactory condition having minor to moderate scrapes and dents along the face of rail. Some heavier flattening of rail is present along the abutment #2 approaches with even some tearing present along the upstream side with post being disconnected. Rail is short and measures ~26\" in height in multiple locations.",
+    "reference_images": [
+      "7749661dac7fc71a79112753579baa3d.png",
+      "de9c0245849b5833812a61bca374a3ba.png",
+      "1009f1485cc94ec0448d56d29f9e8052.png",
+      "111bb797db55b08a1c4e21b595fbe4f3.png"
+    ],
+    "condition_rating": {
+      "score": 5
+    }
+  },
+  {
+    "question": "Describe the scour condition at the downstream end of the structure and provide its associated condition rating.",
+    "answer": "The B.C.11 Scour Condition Rating is noted as 'Some minor scour,' as the 'Downstream end of structure has slightly exposed the tops / front faces of the abutment footings.' The NBI scour critical bridges rating is 5, Bridge foundations determined to be stable.",
+    "reference_images": [
+      "f55c663964bda74102f1e6bd4bd7929d.png",
+      "37a6946f832c9e563091ba0710510982.png"
+    ],
+    "condition_rating": {
+      "score": 5
+    }
+  },
+  {
+    "question": "What is the condition rating for the bridge railing transitions and what defects are noted?",
+    "answer": "The B.C.06 Bridge Railing Transitions Condition Rating is 6, SATISFACTORY, with \"Widespread minor or isolated moderate defects.\"",
+    "reference_images": [
+      "1009f1485cc94ec0448d56d29f9e8052.png",
+      "845903e554f8091b381b896c2804c795.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  }
+]

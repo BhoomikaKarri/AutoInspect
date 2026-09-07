@@ -1,0 +1,71 @@
+[
+  {
+    "question": "Considering the scattered transverse cracks on the deck surface and the pitting on the steel superstructure diagonals, what is the overall condition rating of the deck?",
+    "answer": "The top surface of deck has a few scattered transverse cracks that vary in width of hairline up to ~1/16\", while remaining superstructure diagonals have various light to minor previous pitting present; the deck itself is in very good condition with a rating of 8.",
+    "reference_images": [
+      "634670475bef6487772762dda07a4586.png",
+      "1ce834701256b155d833f7c394e6ec11.png",
+      "f0f1e21f943386ee97b18156bb80fe42.png"
+    ],
+    "condition_rating": {
+      "score": 8
+    }
+  },
+  {
+    "question": "Compare the forms of deterioration observed on Abutment 1 and Abutment 2, and provide the overall condition rating for the substructure.",
+    "answer": "Reinforced concrete abutment #1 has some light efflorescence leakage below the beams lower flanges, while reinforced concrete abutment #2 has some various hairline to light cracks with a few small areas of light efflorescence leakage surrounding the areas that were previously patched. Overall, the substructure is in good condition, with a rating of 7.",
+    "reference_images": [
+      "78cee67489e08d6686549d3a8ddaf8b1.png",
+      "0f6de571e2c72eb2be94eb4bc0a69cba.png",
+      "e3d402281b5f24f8e69a1dcedd9415fc.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Based on the observed pitting on the diagonals and top chords of the steel truss, what is the overall condition rating of the superstructure?",
+    "answer": "The superstructure exhibits light to minor previous pitting on the remaining diagonals and on the lower portions of top chord near the ends of the structure. Given these minor problems, the superstructure has a rating of 7, good condition.",
+    "reference_images": [
+      "f0f1e21f943386ee97b18156bb80fe42.png",
+      "94d183b9a1004226b171802c10973293.png",
+      "71dd40e065c7c7815fb3c26a351d5e27.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Considering the condition of the river banks and the placement of the abutments and pier, what is the overall channel condition rating?",
+    "answer": "Channel banks are well vegetated with large trees and brush growth. Abutment #1 is well out of channel, Abutment #2 is poured on ledge and out of channel, while the main span side of pier #1 is in contact with channel flow. The channel condition is rated 8, as banks are protected or well vegetated.",
+    "reference_images": [
+      "e458b7388ed8be26beb0588c4046526e.png",
+      "cd2c43ba764a287e5f4744c8c651e1dc.png",
+      "32e4ea92a397e092ad95648c591fa828.png"
+    ],
+    "condition_rating": {
+      "score": 8
+    }
+  },
+  {
+    "question": "Describe the geometric characteristics of the roadway alignment at the approaches and provide its condition rating.",
+    "answer": "The roadway alignment has a minor to moderate curve at both ends of structure with a \"S\" formation with a slight elevation drop from the Northern approach, resulting in an alignment rating of 5.",
+    "reference_images": [
+      "a901bd82d4fa5d08b34c9474b76977db.png",
+      "1f31f0a6612531b007df02c08e35ffd7.png"
+    ],
+    "condition_rating": {
+      "score": 5
+    }
+  },
+  {
+    "question": "Compare the observed deterioration on the exposed footing at Abutment #2 with the defects found on the Pier #1 shaft.",
+    "answer": "The reinforced concrete footing exposed at abutment #2 has some areas of surface scaling and various hairline cracks. Similarly, the reinforced concrete pier #1 shaft has a few scattered hairline cracks, and also exhibits minor abrasion progressing into concrete scaling along its lower portions.",
+    "reference_images": [
+      "0f6de571e2c72eb2be94eb4bc0a69cba.png",
+      "edfee52d35ccd33ee29f2a125e6230be.png",
+      "8a9285b22e59ccfcdcac774e110e06a7.png"
+    ],
+    "condition_rating": null
+  }
+]

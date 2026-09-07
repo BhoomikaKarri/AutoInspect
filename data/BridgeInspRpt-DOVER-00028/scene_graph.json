@@ -1,0 +1,1000 @@
+{
+  "nodes": [
+    {
+      "image_name": "ba05dcc0070f11aeb1e52aeb26b82b83.png",
+      "central_focus": "Upstream Abutment #1 Approach Rail",
+      "image_description": "The image shows the upstream approach rail for abutment #1, which is a galvanized steel beam guardrail. The rail appears to be moderately damaged with flattening and some bending along its length. The ground beneath the rail is covered with grass and fallen leaves, indicating an autumn season.",
+      "edges": [
+        {
+          "connected_to": "Upstream Abutment #1",
+          "description_of_connection": "The approach rail leads to and is part of the approach system for Upstream Abutment #1."
+        },
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "The approach rail runs alongside the roadway."
+        },
+        {
+          "connected_to": "Guardrail Posts",
+          "description_of_connection": "The rail is supported by and connected to guardrail posts."
+        }
+      ]
+    },
+    {
+      "image_name": "7749661dac7fc71a79112753579baa3d.png",
+      "central_focus": "Damaged Approach Rail along Downstream Side Abutment #2",
+      "image_description": "This image captures a damaged galvanized steel beam approach rail on the downstream side of abutment #2. The rail exhibits significant flattening, bends, and tearing, with some sections dislodged or broken. The surrounding area includes an asphalt roadway, grass, and trees with autumn foliage. A speed limit sign indicating '35' is visible in the background.",
+      "edges": [
+        {
+          "connected_to": "Downstream Abutment #2",
+          "description_of_connection": "The approach rail leads to and is part of the approach system for Downstream Abutment #2."
+        },
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "The approach rail runs alongside the roadway."
+        },
+        {
+          "connected_to": "Guardrail Posts",
+          "description_of_connection": "The rail is supported by and connected to guardrail posts, some of which appear dislodged."
+        }
+      ]
+    },
+    {
+      "image_name": "4caeffe23cb1505d8c7ac6faf7fd36ba.png",
+      "central_focus": "Damaged Approach Rial along Upstream Side Abutment #2",
+      "image_description": "The image shows the approach rail on the upstream side of abutment #2, displaying extensive damage including flattening, tearing, and potential broken connections. The galvanized steel beam rail is significantly deformed. Beyond the rail, there is concrete abutment and riprap along the channel.",
+      "edges": [
+        {
+          "connected_to": "Upstream Abutment #2",
+          "description_of_connection": "The approach rail leads to and is part of the approach system for Upstream Abutment #2."
+        },
+        {
+          "connected_to": "Concrete Abutment",
+          "description_of_connection": "The damaged approach rail is located adjacent to a concrete abutment."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment and riprap are located along the channel."
+        }
+      ]
+    },
+    {
+      "image_name": "e68276b4f7d84358ccac38c5762a1557.png",
+      "central_focus": "Superstructure towards Abutment #2 End",
+      "image_description": "A view looking up at the underside of the bridge superstructure towards abutment #2. Multiple precast concrete c-channel units are visible, forming the deck and superstructure. There are horizontal lines of rivets or fasteners along the bottom edge of these units. Some minor staining or efflorescence might be present, but the units appear generally robust.",
+      "edges": [
+        {
+          "connected_to": "Beam",
+          "description_of_connection": "The superstructure is composed of Prestressed Concrete Open Girders/Beams."
+        },
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "The superstructure extends towards and connects with Abutment #2."
+        },
+        {
+          "connected_to": "Deck",
+          "description_of_connection": "The c-channel units form part of the deck system."
+        }
+      ]
+    },
+    {
+      "image_name": "2787e82efd2535aba7fa3b96ae8e6c4a.png",
+      "central_focus": "Superstructure towards Abutment #1 End",
+      "image_description": "The image displays the underside of the bridge superstructure looking towards abutment #1. It features several parallel precast concrete c-channel units, which appear to be in good condition. Small, scattered dark spots or minor staining are visible on some units.",
+      "edges": [
+        {
+          "connected_to": "Beam",
+          "description_of_connection": "The superstructure is composed of Prestressed Concrete Open Girders/Beams."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The superstructure extends towards and connects with Abutment #1."
+        },
+        {
+          "connected_to": "Deck",
+          "description_of_connection": "The c-channel units form part of the deck system."
+        },
+        {
+          "connected_to": "e68276b4f7d84358ccac38c5762a1557.png",
+          "description_of_connection": "This view is a continuation of the superstructure view, but oriented towards Abutment #1."
+        }
+      ]
+    },
+    {
+      "image_name": "de07d81af4e3485ec30a609c42ea0c95.png",
+      "central_focus": "Newer Stone Riprap along the Upstream Side past Abutment #1",
+      "image_description": "This image captures newer stone riprap recently installed along the upstream side, past abutment #1. The riprap consists of large, irregular rocks piled against the concrete abutment and extending down towards the water. The installation appears somewhat haphazard, with rocks of varying sizes and shapes.",
+      "edges": [
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The riprap is placed adjacent to the concrete Abutment #1."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The riprap protects the channel bank near Abutment #1."
+        },
+        {
+          "connected_to": "Upstream Wingwall Abutment #1",
+          "description_of_connection": "The riprap is positioned behind the upstream wingwall of Abutment #1."
+        }
+      ]
+    },
+    {
+      "image_name": "28f21c251dfadc8dba7a15e1c3ef7090.png",
+      "central_focus": "Newer Stone Riprap along the Upstream Side past Abutment #1",
+      "image_description": "A different perspective showing the newer stone riprap installation along the upstream side, past abutment #1. The riprap is composed of a mixture of large and medium-sized stones, loosely arranged around the base of the concrete abutment. It appears to be a protective measure against erosion. Some parts of the riprap are positioned next to the bridge's approach rail system, indicating its proximity to the roadway.",
+      "edges": [
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The riprap is placed adjacent to the concrete Abutment #1."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The riprap protects the channel bank near Abutment #1."
+        },
+        {
+          "connected_to": "Approach Rail",
+          "description_of_connection": "The riprap is located near the bridge approach rail system."
+        },
+        {
+          "connected_to": "de07d81af4e3485ec30a609c42ea0c95.png",
+          "description_of_connection": "This image offers a slightly different angle of the same riprap installation."
+        }
+      ]
+    },
+    {
+      "image_name": "272eb97695bbdcfb8570dc6bab986d01.png",
+      "central_focus": "Newer Stone Riprap along the Upstream Side past Abutment #1 (Damaged Approach Posts)",
+      "image_description": "This image focuses on the newer stone riprap along the upstream side past abutment #1, particularly highlighting its proximity to damaged approach posts. The riprap, consisting of large, angular rocks, is piled up against the concrete structure and adjacent to the roadway. Several guardrail posts are visible, and some appear to be damaged or dislodged, likely due to previous events or impacts. The surrounding area shows dense vegetation with autumn colors.",
+      "edges": [
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The riprap is placed adjacent to the concrete Abutment #1."
+        },
+        {
+          "connected_to": "Approach Rail Posts",
+          "description_of_connection": "The riprap is located next to damaged approach rail posts."
+        },
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "The riprap and posts are located along the edge of the roadway."
+        },
+        {
+          "connected_to": "28f21c251dfadc8dba7a15e1c3ef7090.png",
+          "description_of_connection": "This view is a close-up, illustrating the impact on the approach posts."
+        }
+      ]
+    },
+    {
+      "image_name": "3f36fa674dcd3f3edb5ba36ec7b44998.png",
+      "central_focus": "Upstream Channel Elevation",
+      "image_description": "An upstream view of the bridge structure, showing the channel elevation. The bridge consists of a concrete superstructure resting on concrete abutments. The channel beneath is characterized by a rocky stream bed with flowing water. On the left, there's evidence of previous abutment movement or settlement, with dislodged concrete blocks and eroded soil. On the right, newer stone riprap is visible, placed against the abutment for protection. Trees with autumn foliage line the banks.",
+      "edges": [
+        {
+          "connected_to": "Bridge Structure",
+          "description_of_connection": "This image provides an overall view of the upstream side of the bridge structure."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The image shows the channel flowing beneath the bridge."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "Evidence of movement and settlement is visible at Abutment #1."
+        },
+        {
+          "connected_to": "Newer Stone Riprap",
+          "description_of_connection": "New stone riprap is installed to protect the abutment and channel bank."
+        }
+      ]
+    },
+    {
+      "image_name": "85d1b3bd59c544fa233c634400b5a811.png",
+      "central_focus": "Upstream Channel Elevation with Previous Abutment Movement / Settlement on Abutment #1 Side",
+      "image_description": "This image provides another view of the upstream channel elevation, emphasizing the signs of previous abutment movement and settlement on the Abutment #1 side. Large, displaced concrete blocks are evident near the water, suggesting structural shifting. The channel itself is rocky with clear, flowing water. The concrete bridge superstructure spans above, supported by concrete abutments. Fall foliage is prominent in the background.",
+      "edges": [
+        {
+          "connected_to": "Bridge Structure",
+          "description_of_connection": "This image provides an overall view of the upstream side of the bridge structure."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The image shows the channel flowing beneath the bridge."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "Evidence of movement and settlement is visible at Abutment #1."
+        },
+        {
+          "connected_to": "3f36fa674dcd3f3edb5ba36ec7b44998.png",
+          "description_of_connection": "This is a complementary view of the upstream channel elevation."
+        }
+      ]
+    },
+    {
+      "image_name": "4733cc5f707a9679d8fe5f07e273cc37.png",
+      "central_focus": "Previous Abutment Movement / Settlement along Abutment #1 Side",
+      "image_description": "A close-up view of the previous abutment movement and settlement along the Abutment #1 side. A large, multi-tiered concrete block, part of the abutment structure, has clearly shifted and tilted outwards into the channel. The base of the block is partially submerged in the flowing water, and riprap stones are scattered around its base. Erosion and soil disturbance are also visible around the displaced concrete.",
+      "edges": [
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "This image details the condition of Abutment #1, specifically showing signs of movement."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment settlement directly impacts the channel and its edge."
+        },
+        {
+          "connected_to": "Newer Stone Riprap",
+          "description_of_connection": "Some riprap is visible near the settled abutment, likely placed to mitigate further erosion."
+        },
+        {
+          "connected_to": "85d1b3bd59c544fa233c634400b5a811.png",
+          "description_of_connection": "This image provides a more detailed view of the settlement mentioned in the broader upstream channel elevation."
+        }
+      ]
+    },
+    {
+      "image_name": "1e44fc7f2e9a4097ec7851c179e7fb5f.png",
+      "central_focus": "Upstream Channel",
+      "image_description": "A view of the upstream channel, showing a person standing in the shallow, rocky stream. The channel bed is composed of various sized rocks and gravel, with water flowing around them. On the left, the concrete abutment of the bridge rises, with some riprap piled at its base. The banks are vegetated, and trees with colorful autumn leaves are visible in the background, suggesting a seasonal change. The person is wearing safety attire, indicating an inspection activity.",
+      "edges": [
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "This image provides a general view of the upstream channel."
+        },
+        {
+          "connected_to": "Abutment",
+          "description_of_connection": "The channel flows past the bridge abutment."
+        },
+        {
+          "connected_to": "Newer Stone Riprap",
+          "description_of_connection": "Riprap is visible along the channel bank near the abutment."
+        },
+        {
+          "connected_to": "Inspector",
+          "description_of_connection": "An inspector is present in the channel for assessment."
+        },
+        {
+          "connected_to": "3f36fa674dcd3f3edb5ba36ec7b44998.png",
+          "description_of_connection": "This is a close-up perspective of the channel shown in the upstream elevation image."
+        }
+      ]
+    },
+    {
+      "image_name": "27707e24ab7a172b8fcbb59692a15fd8.png",
+      "central_focus": "Upstream Channel",
+      "image_description": "This image shows a wider perspective of the upstream channel, with an inspector standing further downstream in the middle of the rocky stream. The water flows over a bed of various sized stones. The concrete abutment of the bridge is visible on the left, with riprap at its base. The banks are lined with trees, many showing vibrant autumn colors. The bridge structure is visible in the background, spanning the channel.",
+      "edges": [
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "This image provides a general view of the upstream channel."
+        },
+        {
+          "connected_to": "Abutment",
+          "description_of_connection": "The channel flows past the bridge abutment."
+        },
+        {
+          "connected_to": "Inspector",
+          "description_of_connection": "An inspector is present in the channel for assessment."
+        },
+        {
+          "connected_to": "1e44fc7f2e9a4097ec7851c179e7fb5f.png",
+          "description_of_connection": "This is a broader view of the same upstream channel section with the inspector."
+        }
+      ]
+    },
+    {
+      "image_name": "524ddbb25efefe8be2170b8e379bfa2d.png",
+      "central_focus": "Downstream elevation",
+      "image_description": "An overall view of the downstream side of the bridge and channel. The bridge superstructure is concrete, supported by concrete abutments. The channel features a rocky bed with flowing water. Trees with dense autumn foliage line both banks, creating a vibrant scene. A large log lies partially submerged in the foreground, indicating debris within the channel.",
+      "edges": [
+        {
+          "connected_to": "Bridge Structure",
+          "description_of_connection": "This image provides an overall view of the downstream side of the bridge structure."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The image shows the channel flowing beneath the bridge."
+        },
+        {
+          "connected_to": "Abutments",
+          "description_of_connection": "The channel flows between the bridge abutments."
+        },
+        {
+          "connected_to": "Debris",
+          "description_of_connection": "A log is present as debris in the channel."
+        }
+      ]
+    },
+    {
+      "image_name": "300ef9fc3f27c4f60752d7e1d715305f.png",
+      "central_focus": "Downstream of abutment 2",
+      "image_description": "This image shows the downstream side of abutment #2, where large rocks and boulders are scattered along the channel bank, forming a natural riprap. Some smaller rocks appear to be dislodged near the base of the concrete abutment. Trees with autumn leaves are visible on the bank, and a 'STOP' sign is partly visible near the top left corner, indicating the presence of a roadway above.",
+      "edges": [
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "This image provides a view of the downstream portion of Abutment #2."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment is located along the channel."
+        },
+        {
+          "connected_to": "Riprap",
+          "description_of_connection": "Natural riprap of large rocks protects the bank near Abutment #2."
+        },
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "A 'STOP' sign indicates proximity to a roadway above."
+        },
+        {
+          "connected_to": "524ddbb25efefe8be2170b8e379bfa2d.png",
+          "description_of_connection": "This is a detailed view of the downstream side, focusing on abutment #2."
+        }
+      ]
+    },
+    {
+      "image_name": "06ad13b6408b2df3e4fcaf7446ae5a39.png",
+      "central_focus": "Downstream of abutment 1",
+      "image_description": "The image shows the downstream side of abutment #1. The concrete abutment rises vertically from the rocky channel bed. A substantial accumulation of natural riprap and fallen debris, including leaves and branches, is present along the bank adjacent to the abutment. Trees with brilliant autumn colors are visible on the bank and in the background.",
+      "edges": [
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "This image provides a view of the downstream portion of Abutment #1."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment is located along the channel."
+        },
+        {
+          "connected_to": "Riprap",
+          "description_of_connection": "Natural riprap and debris accumulate along the bank near Abutment #1."
+        },
+        {
+          "connected_to": "524ddbb25efefe8be2170b8e379bfa2d.png",
+          "description_of_connection": "This is a detailed view of the downstream side, focusing on abutment #1."
+        },
+        {
+          "connected_to": "300ef9fc3f27c4f60752d7e1d715305f.png",
+          "description_of_connection": "This image is spatially opposite to the downstream view of abutment #2, showing the other end of the bridge."
+        }
+      ]
+    },
+    {
+      "image_name": "fb4c06fffe0eb7d28650e28a3fa643b4.png",
+      "central_focus": "Superstructure at abutment 1",
+      "image_description": "A close-up view of the underside of the bridge superstructure directly above abutment #1. Multiple concrete c-channel units are visible, forming the bridge deck. White efflorescence staining is noticeable on the underside of these units, particularly where they meet the abutment, indicating saturation leakage.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "This image details a specific section of the superstructure."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The superstructure connects directly to Abutment #1."
+        },
+        {
+          "connected_to": "Efflorescence",
+          "description_of_connection": "Efflorescence staining is present on the superstructure units near the abutment."
+        },
+        {
+          "connected_to": "Saturation Leakage",
+          "description_of_connection": "The efflorescence indicates saturation leakage from above."
+        }
+      ]
+    },
+    {
+      "image_name": "e596598fa221be028a6b918c9645248c.png",
+      "central_focus": "Deck & superstructure abutment 1",
+      "image_description": "A wider view of the underside of the deck and superstructure at abutment #1. Numerous parallel precast concrete c-channel units are clearly visible, extending across the span. The units generally appear to be in good condition, although some minor staining or discoloration may be present. The construction of the deck and superstructure is uniform.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "This image shows the overall structure of the superstructure at abutment 1."
+        },
+        {
+          "connected_to": "Deck",
+          "description_of_connection": "The c-channel units form the underside of the deck."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The superstructure is supported by Abutment #1."
+        },
+        {
+          "connected_to": "fb4c06fffe0eb7d28650e28a3fa643b4.png",
+          "description_of_connection": "This image provides a broader perspective of the superstructure elements."
+        }
+      ]
+    },
+    {
+      "image_name": "442951ae72fef2053d343ebaf4fb7fc4.png",
+      "central_focus": "Abutment 1",
+      "image_description": "The image shows Abutment #1 of the bridge from the channel level. It is a large, solid concrete structure supporting the bridge superstructure. The base of the abutment is surrounded by a mix of natural rocks and possibly some smaller riprap, where it meets the flowing stream. The concrete surface appears generally solid but may have some areas of staining or discoloration. Overhead, the underside of the c-channel superstructure units is visible.",
+      "edges": [
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "This image provides a comprehensive view of Abutment #1."
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "The abutment supports the superstructure overhead."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment is located directly adjacent to the channel."
+        },
+        {
+          "connected_to": "Riprap",
+          "description_of_connection": "Natural rocks and riprap are present at the base of the abutment."
+        },
+        {
+          "connected_to": "e596598fa221be028a6b918c9645248c.png",
+          "description_of_connection": "The underside of the deck shown in this image is supported by this abutment."
+        }
+      ]
+    },
+    {
+      "image_name": "f04a78100d5dfe746bb69339faa5483e.png",
+      "central_focus": "Downstream footing abutment 2",
+      "image_description": "A detailed view of the downstream footing of abutment #2, seen from the channel. The footing consists of a layered concrete structure, appearing to be partially undermined or eroded. An exposed wooden timber is visible at the very base of the footing, suggesting an older construction element. The area is surrounded by various sized rocks and debris, with leaf litter on the ground. The top of the footing is covered by soil and smaller stones.",
+      "edges": [
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "This image shows the footing, which is a critical component of Abutment #2."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The footing is directly exposed to the channel flow and its effects."
+        },
+        {
+          "connected_to": "Erosion",
+          "description_of_connection": "The footing shows signs of erosion and partial undermining."
+        },
+        {
+          "connected_to": "Wooden Timber",
+          "description_of_connection": "A wooden timber is exposed at the base of the footing."
+        }
+      ]
+    },
+    {
+      "image_name": "3b428ec459f7c25e2b0fc2c6c2729919.png",
+      "central_focus": "Downstream",
+      "image_description": "This image provides an upstream view of the channel from a downstream position, looking towards the bridge. The channel bottom is rocky with flowing water. The concrete bridge structure is visible in the distance, spanning the channel. Both banks are heavily wooded with trees displaying vibrant autumn colors. Sunlight filters through the trees, casting shadows on the water. No visible major defects are apparent in this general view.",
+      "edges": [
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "This image provides a general view of the channel."
+        },
+        {
+          "connected_to": "Bridge Structure",
+          "description_of_connection": "The channel leads to and passes under the bridge structure."
+        },
+        {
+          "connected_to": "Trees",
+          "description_of_connection": "Trees line the banks of the channel."
+        }
+      ]
+    },
+    {
+      "image_name": "e331567af169f414f9f2f990c7edf76b.png",
+      "central_focus": "Upstream",
+      "image_description": "This image shows a downstream view of the channel from an upstream position, looking towards the bridge. The channel flows over a rocky bed, with some larger boulders present. The concrete bridge structure is visible, spanning across the top of the frame. On the right bank, a corrugated metal pipe is partially visible, leading into the channel. Trees with autumn foliage line the banks, and the overall scene appears natural and serene.",
+      "edges": [
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "This image provides a general view of the channel."
+        },
+        {
+          "connected_to": "Bridge Structure",
+          "description_of_connection": "The channel leads to and passes under the bridge structure."
+        },
+        {
+          "connected_to": "Corrugated Metal Pipe",
+          "description_of_connection": "A pipe is visible on the right bank, discharging into the channel."
+        },
+        {
+          "connected_to": "3b428ec459f7c25e2b0fc2c6c2729919.png",
+          "description_of_connection": "This view is spatially opposite to the downstream channel view."
+        }
+      ]
+    },
+    {
+      "image_name": "37a6946f832c9e563091ba0710510982.png",
+      "central_focus": "Superstructure at abutment 2",
+      "image_description": "A close-up view of the underside of the bridge superstructure at abutment #2. Similar to abutment #1, this section also features multiple precast concrete c-channel units. White efflorescence staining is visible on the underside surfaces of these units, particularly near the interface with the abutment, indicating saturation leakage.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "This image details a specific section of the superstructure."
+        },
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "The superstructure connects directly to Abutment #2."
+        },
+        {
+          "connected_to": "Efflorescence",
+          "description_of_connection": "Efflorescence staining is present on the superstructure units near the abutment."
+        },
+        {
+          "connected_to": "Saturation Leakage",
+          "description_of_connection": "The efflorescence indicates saturation leakage from above."
+        },
+        {
+          "connected_to": "fb4c06fffe0eb7d28650e28a3fa643b4.png",
+          "description_of_connection": "This view is similar in nature to the superstructure view at abutment 1, showing similar conditions."
+        }
+      ]
+    },
+    {
+      "image_name": "85274f808d3f7093cea5e8a5cab4442d.png",
+      "central_focus": "Deck & superstructure abutment 2",
+      "image_description": "A wider view of the underside of the deck and superstructure at abutment #2. This image shows numerous parallel precast concrete c-channel units, which appear to be in generally sound condition. Minimal staining or discoloration is visible. The consistent pattern of the units indicates standard construction.",
+      "edges": [
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "This image shows the overall structure of the superstructure at abutment 2."
+        },
+        {
+          "connected_to": "Deck",
+          "description_of_connection": "The c-channel units form the underside of the deck."
+        },
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "The superstructure is supported by Abutment #2."
+        },
+        {
+          "connected_to": "37a6946f832c9e563091ba0710510982.png",
+          "description_of_connection": "This image provides a broader perspective of the superstructure elements at abutment 2."
+        },
+        {
+          "connected_to": "e596598fa221be028a6b918c9645248c.png",
+          "description_of_connection": "This view is similar in nature to the deck and superstructure view at abutment 1."
+        }
+      ]
+    },
+    {
+      "image_name": "a25654f30329826f7fac45a6444d50d2.png",
+      "central_focus": "Abutment 2",
+      "image_description": "This image captures Abutment #2 of the bridge from the channel level. It is a large concrete structure supporting the bridge deck. Sunlight casts dappled shadows across its face. The base of the abutment is surrounded by natural rocks and some loose riprap, where it meets the flowing stream. A corrugated metal pipe is partially visible on the left bank, suggesting a drainage feature.",
+      "edges": [
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "This image provides a comprehensive view of Abutment #2."
+        },
+        {
+          "connected_to": "Superstructure",
+          "description_of_connection": "The abutment supports the superstructure overhead."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment is located directly adjacent to the channel."
+        },
+        {
+          "connected_to": "Riprap",
+          "description_of_connection": "Natural rocks and riprap are present at the base of the abutment."
+        },
+        {
+          "connected_to": "Corrugated Metal Pipe",
+          "description_of_connection": "A corrugated metal pipe is visible on the bank near the abutment."
+        },
+        {
+          "connected_to": "85274f808d3f7093cea5e8a5cab4442d.png",
+          "description_of_connection": "The underside of the deck shown in this image is supported by this abutment."
+        },
+        {
+          "connected_to": "442951ae72fef2053d343ebaf4fb7fc4.png",
+          "description_of_connection": "This view is spatially opposite to Abutment #1."
+        }
+      ]
+    },
+    {
+      "image_name": "1e1992757ab2b43ffbeab74c2612cf71.png",
+      "central_focus": "Upstream of abutment 2",
+      "image_description": "This image shows the upstream side of abutment #2, with the channel flowing towards the viewer. The concrete abutment is on the right, and its base is surrounded by scattered rocks. On the left bank, there's a mix of vegetation and more rocks. A corrugated metal pipe is visible extending from the bank towards the channel, possibly for drainage. Trees with autumn leaves are present in the background.",
+      "edges": [
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "This image provides a view of the upstream portion of Abutment #2."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment is located along the channel."
+        },
+        {
+          "connected_to": "Riprap",
+          "description_of_connection": "Scattered rocks are present at the base of the abutment and along the bank."
+        },
+        {
+          "connected_to": "Corrugated Metal Pipe",
+          "description_of_connection": "A corrugated metal pipe is visible on the bank."
+        },
+        {
+          "connected_to": "a25654f30329826f7fac45a6444d50d2.png",
+          "description_of_connection": "This view is spatially opposite to the downstream view of Abutment #2."
+        }
+      ]
+    },
+    {
+      "image_name": "05981d37d1f9311e7d47f7c648373c06.png",
+      "central_focus": "At upstream wing wall abutment 1",
+      "image_description": "A close-up view of the upstream wing wall at abutment #1, showing significant movement and settlement. A large, multi-tiered concrete wing wall block has clearly shifted and tilted outwards into the channel, dislodging several large rocks at its base. The exposed underside of the concrete shows signs of erosion and distress. Loose rocks and debris are scattered around the displaced structure, and the water flows past it.",
+      "edges": [
+        {
+          "connected_to": "Wing Wall",
+          "description_of_connection": "This image details the condition of the upstream wing wall at Abutment #1."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The wing wall is an integral part of Abutment #1."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The wing wall settlement directly impacts the channel and its edge."
+        },
+        {
+          "connected_to": " Settlement along Abutment #1 Side",
+          "description_of_connection": "This image is a detailed view of the movement and settlement observed in the previous abutment images."
+        },
+        {
+          "connected_to": "Displacement",
+          "description_of_connection": "The movement of the wing wall has caused displacement of surrounding rocks."
+        }
+      ]
+    },
+    {
+      "image_name": "cab2c34194440f9e278d5551c757f612.png",
+      "central_focus": "Upstream of abutment 1",
+      "image_description": "This image shows a wider view of the upstream side of abutment #1, highlighting the shifted and tilted wing wall described previously. The multi-tiered concrete block is prominently displaced, with an accumulation of natural rocks and debris around its base. The channel flows past this area, and the bank is covered with sparse vegetation and trees, some with autumn leaves. The general condition indicates historical settlement and erosion.",
+      "edges": [
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "This image provides a view of the upstream portion of Abutment #1, including its wing wall."
+        },
+        {
+          "connected_to": "Wing Wall",
+          "description_of_connection": "The displaced wing wall is a central feature of this view."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The abutment is located along the channel."
+        },
+        {
+          "connected_to": " Settlement along Abutment #1 Side",
+          "description_of_connection": "This view encapsulates the overall impact of the abutment movement."
+        },
+        {
+          "connected_to": "05981d37d1f9311e7d47f7c648373c06.png",
+          "description_of_connection": "This is a broader view of the wing wall condition."
+        }
+      ]
+    },
+    {
+      "image_name": "57f32d2fd685b4d02b3934de792ed517.png",
+      "central_focus": "Upstream elevation",
+      "image_description": "This image presents a broad view of the upstream side of the bridge, capturing the entire structure and the surrounding natural environment. The concrete bridge spans across a rocky, flowing stream. Both banks are densely wooded with trees showcasing a vibrant mix of autumn colors. On the left, there's evidence of past erosion and concrete displacement, while on the right, newer riprap stones are visible, indicating recent protective measures. The overall impression is one of a bridge in a scenic, rural setting.",
+      "edges": [
+        {
+          "connected_to": "Bridge Structure",
+          "description_of_connection": "This image provides an overall view of the upstream side of the bridge structure."
+        },
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "The channel flows beneath the bridge structure."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "Previous erosion and concrete displacement are visible near Abutment #1."
+        },
+        {
+          "connected_to": "Newer Stone Riprap",
+          "description_of_connection": "Newer riprap is visible near the abutment on the right bank."
+        },
+        {
+          "connected_to": "Trees",
+          "description_of_connection": "Trees with autumn foliage line the banks."
+        },
+        {
+          "connected_to": "3f36fa674dcd3f3edb5ba36ec7b44998.png",
+          "description_of_connection": "This image provides a general overview of the scene described as 'Upstream Channel Elevation'."
+        }
+      ]
+    },
+    {
+      "image_name": "845903e554f8091b381b896c2804c795.png",
+      "central_focus": "Approach abutment 2",
+      "image_description": "The image shows the asphalt roadway approaching abutment #2. The road surface appears generally stable, but there are some visible cracks and patches, indicating wear and previous repairs. Metal guardrails line both sides of the roadway as it curves slightly. Trees with autumn foliage are visible in the background, and the overall setting is rural. A white pickup truck is parked on the shoulder in the distance.",
+      "edges": [
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "This image shows the approach roadway leading to abutment #2."
+        },
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "The roadway approaches Abutment #2."
+        },
+        {
+          "connected_to": "Metal Bridge Railing",
+          "description_of_connection": "Metal guardrails line the approach roadway."
+        },
+        {
+          "connected_to": "Patches",
+          "description_of_connection": "The roadway shows signs of cracking and previous patches."
+        },
+        {
+          "connected_to": "Trees",
+          "description_of_connection": "Trees with autumn foliage line the roadside."
+        }
+      ]
+    },
+    {
+      "image_name": "de9c0245849b5833812a61bca374a3ba.png",
+      "central_focus": "Downstream approach rail abutment 2",
+      "image_description": "This image captures the downstream approach rail near abutment #2. The galvanized steel beam guardrail shows moderate damage, including flattening and bending along its length. The rail is installed along an asphalt roadway, with grass and dry leaves covering the ground next to it. In the background, the bridge structure is faintly visible.",
+      "edges": [
+        {
+          "connected_to": "Approach Rail",
+          "description_of_connection": "This image details the condition of the downstream approach rail."
+        },
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "The approach rail is located near Abutment #2."
+        },
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "The rail borders the asphalt roadway."
+        },
+        {
+          "connected_to": "Damage",
+          "description_of_connection": "The approach rail exhibits flattening and bending."
+        },
+        {
+          "connected_to": "7749661dac7fc71a79112753579baa3d.png",
+          "description_of_connection": "This view is very similar to the 'Damaged Approach Rail along Downstream Side Abutment #2' image."
+        }
+      ]
+    },
+    {
+      "image_name": "1009f1485cc94ec0448d56d29f9e8052.png",
+      "central_focus": "Upstream approach rail abutment 2",
+      "image_description": "The image shows the upstream approach rail near abutment #2. The galvanized steel beam guardrail is significantly damaged, with visible flattening, twisting, and a gap where sections are dislodged or broken. The rail rests on grass and leaf litter adjacent to the asphalt roadway. The concrete bridge abutment and channel are visible in the background.",
+      "edges": [
+        {
+          "connected_to": "Approach Rail",
+          "description_of_connection": "This image details the condition of the upstream approach rail."
+        },
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "The approach rail is located near Abutment #2."
+        },
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "The rail borders the asphalt roadway."
+        },
+        {
+          "connected_to": "Damage",
+          "description_of_connection": "The approach rail exhibits significant flattening, twisting, and breakage."
+        },
+        {
+          "connected_to": "4caeffe23cb1505d8c7ac6faf7fd36ba.png",
+          "description_of_connection": "This view is very similar to the 'Damaged Approach Rial along Upstream Side Abutment #2' image."
+        }
+      ]
+    },
+    {
+      "image_name": "f55c663964bda74102f1e6bd4bd7929d.png",
+      "central_focus": "Deck & upstream rail from abutment 2",
+      "image_description": "A view of the bridge deck surface and the upstream metal bridge rail, taken from the perspective of abutment #2. The asphalt deck surface shows some cracking, indicating wear. The metal bridge rail is visible along the edge of the deck. In the background, the channel can be seen flowing under the bridge.",
+      "edges": [
+        {
+          "connected_to": "Deck",
+          "description_of_connection": "This image shows the surface condition of the deck."
+        },
+        {
+          "connected_to": "Upstream Rail",
+          "description_of_connection": "The upstream bridge rail is visible along the deck edge."
+        },
+        {
+          "connected_to": "Abutment #2",
+          "description_of_connection": "The view is taken from the vicinity of Abutment #2."
+        },
+        {
+          "connected_to": "Cracking",
+          "description_of_connection": "Cracking is visible on the asphalt deck surface."
+        }
+      ]
+    },
+    {
+      "image_name": "fbdc1f6620b28f9c39e302d732c7f7b0.png",
+      "central_focus": "Downstream",
+      "image_description": "An aerial-like view looking downstream into the channel from the bridge deck. The channel is rocky with flowing water. On the right bank, trees with bright autumn foliage create a colorful backdrop. The left bank is also vegetated. The water appears clear, and the rocks on the channel bed are visible. The bridge's concrete abutment is visible on the left.",
+      "edges": [
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "This image provides an overview of the downstream channel."
+        },
+        {
+          "connected_to": "Abutment",
+          "description_of_connection": "The bridge abutment is visible on the left side of the channel."
+        },
+        {
+          "connected_to": "Trees",
+          "description_of_connection": "Trees with autumn foliage line the banks."
+        },
+        {
+          "connected_to": "3b428ec459f7c25e2b0fc2c6c2729919.png",
+          "description_of_connection": "This is a view looking into the downstream channel."
+        }
+      ]
+    },
+    {
+      "image_name": "111bb797db55b08a1c4e21b595fbe4f3.png",
+      "central_focus": "Upstream",
+      "image_description": "An aerial-like view looking upstream into the channel from the bridge deck. The channel flows over a bed of various sized rocks and boulders, with clear water. Both banks are heavily vegetated with trees, many displaying autumn colors. A large, dark rock or log is present in the middle of the stream. A pipe, possibly a drainage culvert, is visible emerging from the right bank and entering the channel.",
+      "edges": [
+        {
+          "connected_to": "Channel",
+          "description_of_connection": "This image provides an overview of the upstream channel."
+        },
+        {
+          "connected_to": "Trees",
+          "description_of_connection": "Trees with autumn foliage line the banks."
+        },
+        {
+          "connected_to": "Culvert",
+          "description_of_connection": "A pipe emerges from the right bank into the channel."
+        },
+        {
+          "connected_to": "Debris",
+          "description_of_connection": "A large rock or log is present in the stream."
+        },
+        {
+          "connected_to": "e331567af169f414f9f2f990c7edf76b.png",
+          "description_of_connection": "This is a view looking into the upstream channel."
+        }
+      ]
+    },
+    {
+      "image_name": "8824318c74bb61863440d2c95cc6ac41.png",
+      "central_focus": "Downstream rail posts from abutment 1",
+      "image_description": "A view of the downstream bridge rail posts, taken from abutment #1. The galvanized steel posts are robust and anchored into the concrete structure or ground. The metal rail is attached to these posts. Scattered gravel and debris are visible on the deck surface near the posts. The channel flows below the bridge, and autumn trees line the banks in the background.",
+      "edges": [
+        {
+          "connected_to": "Bridge Rail Posts",
+          "description_of_connection": "This image focuses on the downstream bridge rail posts."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The posts are located near Abutment #1."
+        },
+        {
+          "connected_to": "Bridge Rail",
+          "description_of_connection": "The posts support the bridge rail."
+        },
+        {
+          "connected_to": "Deck",
+          "description_of_connection": "The posts are anchored near the deck surface."
+        }
+      ]
+    },
+    {
+      "image_name": "6a89e6c8b0b96cef2d39b6ba314d7b10.png",
+      "central_focus": "Deck & downstream rail from abutment 1",
+      "image_description": "A view of the bridge deck surface and the downstream metal bridge rail, taken from the perspective of abutment #1. The asphalt deck surface shows widespread cracking and some areas of repair. The metal bridge rail is visible along the edge of the deck. The background shows trees with autumn foliage.",
+      "edges": [
+        {
+          "connected_to": "Deck",
+          "description_of_connection": "This image shows the surface condition of the deck."
+        },
+        {
+          "connected_to": "Downstream Rail",
+          "description_of_connection": "The downstream bridge rail is visible along the deck edge."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The view is taken from the vicinity of Abutment #1."
+        },
+        {
+          "connected_to": "Repair",
+          "description_of_connection": "The deck surface shows widespread cracking and repairs."
+        },
+        {
+          "connected_to": "f55c663964bda74102f1e6bd4bd7929d.png",
+          "description_of_connection": "This view is similar to the 'Deck & upstream rail from abutment 2', but for the opposite abutment and side."
+        }
+      ]
+    },
+    {
+      "image_name": "e5ad8e2668a8d6790b2ee7e5fbc7a9de.png",
+      "central_focus": "Upstream approach rail posts abutment 1",
+      "image_description": "A close-up of the upstream approach rail posts near abutment #1. The galvanized steel posts support the approach rail, which is also visible. The ground around the posts consists of scattered rocks, gravel, and some soil. The abutment and bridge structure are in the background. The posts appear sturdy, but the surrounding material shows signs of previous disturbance.",
+      "edges": [
+        {
+          "connected_to": "Approach Rail Posts",
+          "description_of_connection": "This image focuses on the upstream approach rail posts."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The posts are located near Abutment #1."
+        },
+        {
+          "connected_to": "Approach Rail",
+          "description_of_connection": "The posts support the approach rail."
+        },
+        {
+          "connected_to": "Gravel",
+          "description_of_connection": "The ground around the posts is composed of scattered rocks and gravel."
+        },
+        {
+          "connected_to": "Bridge Structure",
+          "description_of_connection": "The bridge structure is visible in the background."
+        }
+      ]
+    },
+    {
+      "image_name": "3c18551b02325f4cbd1e2ac3fc31e9df.png",
+      "central_focus": "Upstream approach rail abutment 1",
+      "image_description": "The image shows the upstream approach rail leading to abutment #1. The galvanized steel beam guardrail is severely damaged, exhibiting extensive flattening, bending, and deformation along its length. A section of the rail appears completely dislodged from its original position. A person in a yellow safety vest is visible in the background, walking alongside the road. The area consists of asphalt roadway, grass, and trees with autumn foliage.",
+      "edges": [
+        {
+          "connected_to": "Approach Rail",
+          "description_of_connection": "This image details the condition of the upstream approach rail."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The approach rail leads to Abutment #1."
+        },
+        {
+          "connected_to": "Damage",
+          "description_of_connection": "The approach rail exhibits severe flattening, bending, and deformation."
+        },
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "The rail borders the asphalt roadway."
+        },
+        {
+          "connected_to": "Inspector",
+          "description_of_connection": "An inspector is visible near the rail."
+        },
+        {
+          "connected_to": "ba05dcc0070f11aeb1e52aeb26b82b83.png",
+          "description_of_connection": "This view is a detailed look at the damage mentioned for 'Upstream Abutment #1 Approach Rail'."
+        }
+      ]
+    },
+    {
+      "image_name": "2c7d751a7437988436c485014d259e04.png",
+      "central_focus": "Approach abutment 1",
+      "image_description": "The image shows the asphalt roadway approaching abutment #1. The road surface appears to have some visible cracks and possibly minor degradation. Metal guardrails line both sides of the roadway as it curves slightly. A person in a yellow safety vest is walking along the road, indicating inspection activity. A white vehicle is parked on the left side of the road. Trees with autumn foliage are visible in the background.",
+      "edges": [
+        {
+          "connected_to": "Roadway",
+          "description_of_connection": "This image shows the approach roadway leading to abutment #1."
+        },
+        {
+          "connected_to": "Abutment #1",
+          "description_of_connection": "The roadway approaches Abutment #1."
+        },
+        {
+          "connected_to": "Metal Bridge Railing",
+          "description_of_connection": "Metal guardrails line the approach roadway."
+        },
+        {
+          "connected_to": "Cracking",
+          "description_of_connection": "The roadway shows signs of cracking."
+        },
+        {
+          "connected_to": "Inspector",
+          "description_of_connection": "An inspector is present on the roadway."
+        },
+        {
+          "connected_to": "Vehicle",
+          "description_of_connection": "A vehicle is parked nearby, indicating an active inspection site."
+        },
+        {
+          "connected_to": "845903e554f8091b381b896c2804c795.png",
+          "description_of_connection": "This view is similar to the 'Approach abutment 2', but for the opposite abutment."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,979 @@
+{
+  "nodes": [
+    {
+      "image_name": "f68dad150642e4f00db8e64741175d92.png",
+      "central_focus": "Abutment #2 Footing Undermining / Scour below Structure between Beams #3 and #4",
+      "image_description": "Underwater view showing heavy undermining and scour below the spread footing of Abutment #2, specifically between Beams #3 and #4. The water is murky with a greenish tint, and the channel bottom is visible. The entire length of the footing is exposed due to the scouring action of the river.",
+      "edges": [
+        {
+          "connected_to": "4f575421e097a83011ef64196a8608f4.png",
+          "description_of_connection": "adjacent_to, shows an inspector measuring the undermining defect documented in this image."
+        },
+        {
+          "connected_to": "ed8e4a1b79ea59b2e26d77a4bdf43529.png",
+          "description_of_connection": "similar_to, another view of the undermining and scour below the structure at Abutment #2."
+        },
+        {
+          "connected_to": "79c4d44bae1dfc63b1fb9446edab2d6d.png",
+          "description_of_connection": "detail_view_of, this is a close-up of the scour condition at Abutment #2, which is shown in a wider view."
+        }
+      ]
+    },
+    {
+      "image_name": "4f575421e097a83011ef64196a8608f4.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #4",
+      "image_description": "A bridge inspector wearing chest waders and a high-visibility shirt is standing in the murky water beneath the bridge. They are using an orange and white measuring rod to probe the extent of undermining at the footing of Abutment #2, below Beam #4, demonstrating approximately 4'-0\" of penetration.",
+      "edges": [
+        {
+          "connected_to": "f68dad150642e4f00db8e64741175d92.png",
+          "description_of_connection": "adjacent_to, documents the measurement of the scour shown in the adjacent image."
+        },
+        {
+          "connected_to": "38460741d22598e552f3189c2fe47615.png",
+          "description_of_connection": "continuation_of, shows another view of the measurement process for the same defect."
+        },
+        {
+          "connected_to": "11ec91691281fc940770033cabc9d539.png",
+          "description_of_connection": "similar_to, shows a similar measurement being taken at a different beam location (Beam #5)."
+        }
+      ]
+    },
+    {
+      "image_name": "38460741d22598e552f3189c2fe47615.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #4",
+      "image_description": "An underwater close-up view of an orange and white measuring rod being used to demonstrate the depth of scour and undermining. The rod is inserted horizontally beneath the concrete footing, showing a significant penetration depth of approximately 4'-0\". The water is murky and greenish.",
+      "edges": [
+        {
+          "connected_to": "4f575421e097a83011ef64196a8608f4.png",
+          "description_of_connection": "detail_view_of, provides a closer look at the measurement being performed by the inspector."
+        },
+        {
+          "connected_to": "2562050b1d05c1fb655a4ac3f3f5b1d1.png",
+          "description_of_connection": "similar_to, another close-up underwater view of the measuring rod at the same location."
+        }
+      ]
+    },
+    {
+      "image_name": "2562050b1d05c1fb655a4ac3f3f5b1d1.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #4",
+      "image_description": "Underwater view showing an orange and white measuring rod probing the scour void beneath the footing at Abutment #2. The visibility is poor due to murky water, but the rod indicates a substantial undermined area.",
+      "edges": [
+        {
+          "connected_to": "38460741d22598e552f3189c2fe47615.png",
+          "description_of_connection": "similar_to, shows the same defect and measurement from a slightly different angle."
+        },
+        {
+          "connected_to": "eba55ec3565c1d25e90fd4b89c08cc11.png",
+          "description_of_connection": "adjacent_to, shows the vertical measurement of the scour in front of the same footing."
+        }
+      ]
+    },
+    {
+      "image_name": "eba55ec3565c1d25e90fd4b89c08cc11.png",
+      "central_focus": "~3'-2\" Scouring in Front of Abutment #2 Footing below Beam #4",
+      "image_description": "An underwater view looking down at the channel bottom in front of the Abutment #2 footing. A white and orange measuring rod is held vertically, indicating the scour depth from the top of the footing to the channel bottom is approximately 3'-2\". The channel bottom appears to be silty gravel.",
+      "edges": [
+        {
+          "connected_to": "2562050b1d05c1fb655a4ac3f3f5b1d1.png",
+          "description_of_connection": "adjacent_to, documents the vertical scour depth, while the other image shows the horizontal undermining penetration."
+        },
+        {
+          "connected_to": "6b916e5f4f2ae885e433903e0f465016.png",
+          "description_of_connection": "similar_to, another view showing the ~3'-2\" scouring in front of the Abutment #2 footing below Beam #4."
+        }
+      ]
+    },
+    {
+      "image_name": "8343bafba6af235cbbb31a7ca3308b18.png",
+      "central_focus": "Sink hole Northeast corner",
+      "image_description": "A view of the roadside edge at the northeast approach to the bridge. A small sinkhole or area of settlement is visible in the gravel shoulder behind the guardrail post. The asphalt edge is uneven, and loose gravel and pine needles are present. This settlement is reported to be ~2'-0\" round with a max depth of ~10\".",
+      "edges": [
+        {
+          "connected_to": "0f78f5ae24645b1b83c9f5f6e6f49fc8.png",
+          "description_of_connection": "detail_view_of, provides a close-up of the sinkhole located at the Northeast approach rail."
+        },
+        {
+          "connected_to": "29de85d92371f7fa4db636c54c45735d.png",
+          "description_of_connection": "adjacent_to, this defect is located on the approach shown in the wider view of the Abutment 2 (East) approach."
+        }
+      ]
+    },
+    {
+      "image_name": "1dea0be6ed0e9518fd49b3becaa2df13.png",
+      "central_focus": "Abutment 1",
+      "image_description": "View of the concrete Abutment 1 from the channel. The abutment stem shows some areas of minor to moderate abrasion and scaling along the channel flow line. Some various cracking and light efflorescence leakage is present on the abutment stem. The water is murky with pine needles floating on the surface.",
+      "edges": [
+        {
+          "connected_to": "f4a8fd2dd2cd89cb25c3c42d4128d0de.png",
+          "description_of_connection": "detail_view_of, a closer view of the north end of Abutment 1."
+        },
+        {
+          "connected_to": "f7d233b0883e72f4c9a1f23b87bc0f9c.png",
+          "description_of_connection": "detail_view_of, a closer view of the abutment face between Beams #2 and #3."
+        },
+        {
+          "connected_to": "79c4d44bae1dfc63b1fb9446edab2d6d.png",
+          "description_of_connection": "opposite_of, this shows Abutment 1, which is opposite Abutment 2 across the channel."
+        }
+      ]
+    },
+    {
+      "image_name": "02761563815cb89756f75e4afc5e4c4b.png",
+      "central_focus": "Downstream (South) elevation",
+      "image_description": "A view of the bridge's downstream (South) elevation from the riverbank. The image shows the concrete bridge superstructure, abutments, and the North Branch Wells River flowing underneath. The riverbed is rocky, and the banks are vegetated with bushes and trees. A white and orange range pole is visible for scale on the far abutment.",
+      "edges": [
+        {
+          "connected_to": "c6362f7375cef484f07989b339a8c7ec.png",
+          "description_of_connection": "similar_to, both are views of the downstream side of the bridge."
+        },
+        {
+          "connected_to": "8b0983f18f2e026d8972b3f3e6cc0333.png",
+          "description_of_connection": "opposite_of, this is the downstream elevation, opposite the upstream elevation."
+        },
+        {
+          "connected_to": "acd679989c49b463595543196878ea8b.png",
+          "description_of_connection": "similar_to, both images show the south elevation of the bridge."
+        }
+      ]
+    },
+    {
+      "image_name": "c6362f7375cef484f07989b339a8c7ec.png",
+      "central_focus": "Downstream fascia",
+      "image_description": "A direct elevation view of the bridge's downstream concrete fascia beam. The fascia has some hairline cracking. A galvanized steel beam rail with steel posts is mounted to the fascia. A range pole is visible on the left abutment. The river flows beneath the bridge in shadow.",
+      "edges": [
+        {
+          "connected_to": "02761563815cb89756f75e4afc5e4c4b.png",
+          "description_of_connection": "detail_view_of, this is a closer, more direct view of the downstream elevation."
+        },
+        {
+          "connected_to": "9019ae2cef2f4b230676d193ff29a7a8.png",
+          "description_of_connection": "opposite_of, this is the downstream fascia, opposite the upstream fascia."
+        }
+      ]
+    },
+    {
+      "image_name": "ebc0f88c3e117589d92ea6581e1260d1.png",
+      "central_focus": "Wingwall 4",
+      "image_description": "View of the concrete Wingwall 4 (downstream, Abutment 2 side). The wingwall shows areas of scaling and some light abrasion. The wall is adjacent to large riprap stones. The river water is visible at the base of the wingwall.",
+      "edges": [
+        {
+          "connected_to": "44e7331d876126434b84092350830bcf.png",
+          "description_of_connection": "adjacent_to, Wingwall 4 is part of the same abutment as Wingwall 2."
+        },
+        {
+          "connected_to": "56c69a50eaed92ae0e2c4feca4f0aeb1.png",
+          "description_of_connection": "opposite_of, Wingwall 4 is on the downstream side, opposite Wingwall 3 on the upstream side."
+        }
+      ]
+    },
+    {
+      "image_name": "44e7331d876126434b84092350830bcf.png",
+      "central_focus": "Wingwall 2",
+      "image_description": "View of the concrete Wingwall 2 (upstream, Abutment 2 side). The wingwall has areas of scaling and light abrasion. The area behind the wingwall is overgrown with weeds, ferns, and small bushes. The channel bed with small rocks and gravel is visible in the foreground.",
+      "edges": [
+        {
+          "connected_to": "ebc0f88c3e117589d92ea6581e1260d1.png",
+          "description_of_connection": "adjacent_to, Wingwall 2 is part of the same abutment (Abutment 2) as Wingwall 4."
+        },
+        {
+          "connected_to": "3180a4abd84897d78fb1c7ea567d232a.png",
+          "description_of_connection": "opposite_of, Wingwall 2 is on Abutment 2, opposite Wingwall 1 on Abutment 1."
+        }
+      ]
+    },
+    {
+      "image_name": "bc865eb5cf62b62921c0725383dea948.png",
+      "central_focus": "Downstream (South) channel",
+      "image_description": "View looking downstream from underneath the bridge. The water surface reflects the dark underside of the bridge deck. The far bank is visible, lined with riprap and vegetation. The channel flows away from the viewer.",
+      "edges": [
+        {
+          "connected_to": "2384a9a1e636d21da911278582cdc238.png",
+          "description_of_connection": "opposite_of, this view looks downstream, opposite of the upstream channel view."
+        },
+        {
+          "connected_to": "1e2269be575701b48625d2b773af7c1c.png",
+          "description_of_connection": "similar_to, both images show the downstream channel."
+        }
+      ]
+    },
+    {
+      "image_name": "943f9f700bc64218a5cbe08bdec30c73.png",
+      "central_focus": "Soffit & superstructure beams 3 thru 5 facing abutment 2",
+      "image_description": "View from below showing the concrete deck soffit and reinforced concrete T-beams (superstructure). Beams #3, #4, and #5 exhibit heavy spalling along their lower portions, exposing multiple layers of corroded longitudinal rebar and several rusted, thinned, or severed stirrups. This damage is located near Abutment 2.",
+      "edges": [
+        {
+          "connected_to": "e04060dd7f1d44f1d60c97477b1a54df.png",
+          "description_of_connection": "adjacent_to, shows adjacent beams (1-3) of the same superstructure."
+        },
+        {
+          "connected_to": "11c21e206dbfa49e4a9f6218a4fdbc7c.png",
+          "description_of_connection": "detail_view_of, a closer view of the damage on Beam #4."
+        },
+        {
+          "connected_to": "9ecf0d5e411177a5ea15f3daeec59c23.png",
+          "description_of_connection": "detail_view_of, a closer view of the damage on Beam #5."
+        }
+      ]
+    },
+    {
+      "image_name": "e04060dd7f1d44f1d60c97477b1a54df.png",
+      "central_focus": "Soffit & superstructure beams 1 thru 3 facing abutment 2",
+      "image_description": "View of the underside of the bridge, showing the concrete deck soffit and reinforced concrete T-beams 1, 2, and 3. The deck soffit has areas of honeycombing and small spalls exposing rebar. The beams have spalling at their ends over the abutment, with some exposed and corroded rebar.",
+      "edges": [
+        {
+          "connected_to": "943f9f700bc64218a5cbe08bdec30c73.png",
+          "description_of_connection": "adjacent_to, shows the adjacent set of beams (3-5) of the same superstructure."
+        },
+        {
+          "connected_to": "06f8b612c56f2dc2a148ce4c3d39ca4d.png",
+          "description_of_connection": "detail_view_of, shows a closer view of Beam #1."
+        },
+        {
+          "connected_to": "ca4ebef7f1c611c8c6f39c080a5efbb6.png",
+          "description_of_connection": "detail_view_of, shows spalling on Beam #2 near Abutment #2."
+        }
+      ]
+    },
+    {
+      "image_name": "79c4d44bae1dfc63b1fb9446edab2d6d.png",
+      "central_focus": "Abutment 2",
+      "image_description": "A view of the concrete Abutment 2 from within the channel. An inspector is standing in the water near the abutment. The abutment stem shows minor to moderate abrasion/scaling and a small vertical crack. A wooden log or pile is propped against the abutment. The water is murky.",
+      "edges": [
+        {
+          "connected_to": "1dea0be6ed0e9518fd49b3becaa2df13.png",
+          "description_of_connection": "opposite_of, shows Abutment 2, which is opposite Abutment 1."
+        },
+        {
+          "connected_to": "f68dad150642e4f00db8e64741175d92.png",
+          "description_of_connection": "overview_of, this image shows the abutment where the detailed scour and undermining is occurring."
+        },
+        {
+          "connected_to": "a18adbb3bb1003e4ffd6c37603ee05f3.png",
+          "description_of_connection": "contains, the footing shown in the other image is part of this abutment."
+        }
+      ]
+    },
+    {
+      "image_name": "56c69a50eaed92ae0e2c4feca4f0aeb1.png",
+      "central_focus": "Wingwall 3",
+      "image_description": "View of the concrete Wingwall 3 (upstream, Abutment 1 side). The wingwall shows some scaling and light abrasion. The wingwall is surrounded by large riprap stones and vegetation. The river is flowing past in the foreground.",
+      "edges": [
+        {
+          "connected_to": "3180a4abd84897d78fb1c7ea567d232a.png",
+          "description_of_connection": "adjacent_to, Wingwall 3 is part of the same abutment (Abutment 1) as Wingwall 1."
+        },
+        {
+          "connected_to": "ebc0f88c3e117589d92ea6581e1260d1.png",
+          "description_of_connection": "opposite_of, this wingwall is on the upstream side, opposite Wingwall 4 on the downstream side."
+        }
+      ]
+    },
+    {
+      "image_name": "9019ae2cef2f4b230676d193ff29a7a8.png",
+      "central_focus": "Upstream fascia",
+      "image_description": "A direct elevation view of the bridge's upstream concrete fascia beam. The fascia shows some hairline cracking. A galvanized steel beam rail with steel posts is mounted to the fascia. A range pole is visible on the abutment. The river, with a rocky bed, flows towards the viewer.",
+      "edges": [
+        {
+          "connected_to": "c6362f7375cef484f07989b339a8c7ec.png",
+          "description_of_connection": "opposite_of, this is the upstream fascia, opposite the downstream fascia."
+        },
+        {
+          "connected_to": "8b0983f18f2e026d8972b3f3e6cc0333.png",
+          "description_of_connection": "detail_view_of, this is a closer, more direct view of the upstream elevation."
+        }
+      ]
+    },
+    {
+      "image_name": "3180a4abd84897d78fb1c7ea567d232a.png",
+      "central_focus": "Wingwall 1",
+      "image_description": "View of the concrete Wingwall 1 (downstream, Abutment 1 side). The wingwall is in satisfactory condition with some scaling along the outer portions and light abrasion. The riverbed is rocky and the water is clear. Vegetation grows on the bank behind the wingwall.",
+      "edges": [
+        {
+          "connected_to": "56c69a50eaed92ae0e2c4feca4f0aeb1.png",
+          "description_of_connection": "adjacent_to, Wingwall 1 is part of the same abutment (Abutment 1) as Wingwall 3."
+        },
+        {
+          "connected_to": "44e7331d876126434b84092350830bcf.png",
+          "description_of_connection": "opposite_of, this wingwall is on Abutment 1, opposite Wingwall 2 on Abutment 2."
+        }
+      ]
+    },
+    {
+      "image_name": "8b0983f18f2e026d8972b3f3e6cc0333.png",
+      "central_focus": "Upstream (North) elevation",
+      "image_description": "A view of the bridge's upstream (North) elevation from the rocky riverbank. The image shows the concrete bridge superstructure and abutments over the North Branch Wells River. The riverbank is heavily vegetated, and a yellow road sign is visible on the far side.",
+      "edges": [
+        {
+          "connected_to": "02761563815cb89756f75e4afc5e4c4b.png",
+          "description_of_connection": "opposite_of, this is the upstream elevation, opposite the downstream elevation."
+        },
+        {
+          "connected_to": "9019ae2cef2f4b230676d193ff29a7a8.png",
+          "description_of_connection": "overview_of, this is a wider view of the upstream side of the bridge."
+        }
+      ]
+    },
+    {
+      "image_name": "f182ef8e11e46d26d2b78593b5e76865.png",
+      "central_focus": "Northwest approach rail",
+      "image_description": "View of the galvanized steel beam guardrail at the northwest approach. The end terminal is a flared, buffered end type. The rail is situated next to an asphalt roadway and surrounded by tall grass and weeds. A white house is visible in the background.",
+      "edges": [
+        {
+          "connected_to": "9f2a6f21cac872edfeca8e916a3fd322.png",
+          "description_of_connection": "opposite_of, this is the northwest approach rail, opposite the southwest approach rail."
+        },
+        {
+          "connected_to": "8dda87fded30345a1e3ff2bbedabfb2f.png",
+          "description_of_connection": "adjacent_to, this rail is part of the Abutment 1 (West) approach."
+        }
+      ]
+    },
+    {
+      "image_name": "9f2a6f21cac872edfeca8e916a3fd322.png",
+      "central_focus": "Southwest approach rail",
+      "image_description": "View along the galvanized steel beam guardrail at the southwest approach. The rail appears new and is in good condition. It is installed on the shoulder of an asphalt road. A yellow 'Branch Brook Rd' sign and wooded area are visible in the background.",
+      "edges": [
+        {
+          "connected_to": "f182ef8e11e46d26d2b78593b5e76865.png",
+          "description_of_connection": "opposite_of, this is the southwest approach rail, opposite the northwest approach rail."
+        },
+        {
+          "connected_to": "8dda87fded30345a1e3ff2bbedabfb2f.png",
+          "description_of_connection": "adjacent_to, this rail is part of the Abutment 1 (West) approach."
+        }
+      ]
+    },
+    {
+      "image_name": "8dda87fded30345a1e3ff2bbedabfb2f.png",
+      "central_focus": "Abutment 1 (West) approach",
+      "image_description": "View looking along the two-lane asphalt roadway approaching the bridge from the west (Abutment 1). The road has double yellow center lines. Guardrails are visible on both sides of the road. The alignment is fairly straight.",
+      "edges": [
+        {
+          "connected_to": "29de85d92371f7fa4db636c54c45735d.png",
+          "description_of_connection": "opposite_of, this is the west approach, opposite the east approach."
+        },
+        {
+          "connected_to": "e4c22daac12c0d6dc684593707fb3b44.png",
+          "description_of_connection": "contains, shows the area where the paving transition crack is located."
+        }
+      ]
+    },
+    {
+      "image_name": "e4c22daac12c0d6dc684593707fb3b44.png",
+      "central_focus": "Paving transition crack on abutment 1 approach",
+      "image_description": "A close-up view of the asphalt roadway surface at the approach to Abutment 1. A prominent transverse crack is visible across the lane, marking the transition from the approach pavement to the bridge deck.",
+      "edges": [
+        {
+          "connected_to": "7d05ec58bdc3662f889995969e3c4943.png",
+          "description_of_connection": "similar_to, another view of cracking on the wearing surface near Abutment 1."
+        },
+        {
+          "connected_to": "8dda87fded30345a1e3ff2bbedabfb2f.png",
+          "description_of_connection": "detail_view_of, a close-up of a feature on the Abutment 1 approach."
+        }
+      ]
+    },
+    {
+      "image_name": "7d05ec58bdc3662f889995969e3c4943.png",
+      "central_focus": "Wearing surface from abutment 1",
+      "image_description": "View of the asphalt wearing surface starting from Abutment 1. A transverse crack is visible at the corner of the image, and the pavement shows different textures, indicating a patch or transition. Double yellow lines are painted on the roadway.",
+      "edges": [
+        {
+          "connected_to": "e4c22daac12c0d6dc684593707fb3b44.png",
+          "description_of_connection": "similar_to, shows the same area of cracking on the asphalt wearing surface."
+        }
+      ]
+    },
+    {
+      "image_name": "104ee15dcd83b0ba5f7eae3e859a80bb.png",
+      "central_focus": "Downstream (South) bridge rail",
+      "image_description": "View from the roadway showing the downstream (south) side of the bridge. The galvanized steel beam rail and concrete curb are visible alongside the asphalt road. Beyond the rail, the river and far bank with rocks and vegetation can be seen.",
+      "edges": [
+        {
+          "connected_to": "d30ce353c6b34606e4aa8226ecf7dce1.png",
+          "description_of_connection": "opposite_of, this is the downstream rail, opposite the upstream rail."
+        }
+      ]
+    },
+    {
+      "image_name": "d30ce353c6b34606e4aa8226ecf7dce1.png",
+      "central_focus": "Upstream (North) bridge rail",
+      "image_description": "View from the roadway showing the upstream (north) side of the bridge. The galvanized steel beam rail and concrete curb are visible. In the background, across a grassy area, a white two-story house stands.",
+      "edges": [
+        {
+          "connected_to": "104ee15dcd83b0ba5f7eae3e859a80bb.png",
+          "description_of_connection": "opposite_of, this is the upstream rail, opposite the downstream rail."
+        }
+      ]
+    },
+    {
+      "image_name": "1e2269be575701b48625d2b773af7c1c.png",
+      "central_focus": "Downstream (South) channel",
+      "image_description": "View from the bridge looking down at the downstream (south) channel of the river. The water is clear, flowing over a bed of rocks and stones. The far bank is vegetated with trees and bushes.",
+      "edges": [
+        {
+          "connected_to": "bc865eb5cf62b62921c0725383dea948.png",
+          "description_of_connection": "similar_to, both images show the downstream channel."
+        },
+        {
+          "connected_to": "2384a9a1e636d21da911278582cdc238.png",
+          "description_of_connection": "opposite_of, this is the downstream channel, opposite the upstream channel view."
+        }
+      ]
+    },
+    {
+      "image_name": "2384a9a1e636d21da911278582cdc238.png",
+      "central_focus": "Upstream (North) channel",
+      "image_description": "View from the bridge looking down at the upstream (north) channel. The river flows over a rocky bed, with larger riprap stones lining the near bank. The banks are covered in green bushes and grass.",
+      "edges": [
+        {
+          "connected_to": "1e2269be575701b48625d2b773af7c1c.png",
+          "description_of_connection": "opposite_of, this is the upstream channel, opposite the downstream channel view."
+        }
+      ]
+    },
+    {
+      "image_name": "0f78f5ae24645b1b83c9f5f6e6f49fc8.png",
+      "central_focus": "Northeast approach rail",
+      "image_description": "View of the galvanized steel beam guardrail at the northeast corner of the bridge approach. The rail curves around the corner. The shoulder is unpaved and covered in gravel and overgrown with weeds. The sinkhole defect is located in this area.",
+      "edges": [
+        {
+          "connected_to": "8343bafba6af235cbbb31a7ca3308b18.png",
+          "description_of_connection": "overview_of, this image shows the location of the sinkhole detailed in the other image."
+        },
+        {
+          "connected_to": "7ef84105503e6968c6474bf320dc61b0.png",
+          "description_of_connection": "opposite_of, this is the northeast approach rail, opposite the southeast approach rail."
+        }
+      ]
+    },
+    {
+      "image_name": "7ef84105503e6968c6474bf320dc61b0.png",
+      "central_focus": "Southeast approach rail",
+      "image_description": "View of the galvanized steel beam guardrail at the southeast approach. The image focuses on the buffered end terminal, which has a yellow and black striped reflective marker. The rail is next to an asphalt road, and the shoulder is covered in gravel and overgrown grass.",
+      "edges": [
+        {
+          "connected_to": "0f78f5ae24645b1b83c9f5f6e6f49fc8.png",
+          "description_of_connection": "opposite_of, this is the southeast approach rail, opposite the northeast approach rail."
+        },
+        {
+          "connected_to": "29de85d92371f7fa4db636c54c45735d.png",
+          "description_of_connection": "adjacent_to, this rail is part of the Abutment 2 (East) approach."
+        }
+      ]
+    },
+    {
+      "image_name": "29de85d92371f7fa4db636c54c45735d.png",
+      "central_focus": "Abutment 2 (East) approach",
+      "image_description": "View looking along the two-lane asphalt roadway approaching the bridge from the east (Abutment 2). The road has double yellow center lines. A guardrail with a buffered end is visible on the left, and a road sign for 'Branch Brook Rd' is on the right.",
+      "edges": [
+        {
+          "connected_to": "8dda87fded30345a1e3ff2bbedabfb2f.png",
+          "description_of_connection": "opposite_of, this is the east approach, opposite the west approach."
+        },
+        {
+          "connected_to": "8343bafba6af235cbbb31a7ca3308b18.png",
+          "description_of_connection": "contains, the sinkhole defect is located on this approach."
+        }
+      ]
+    },
+    {
+      "image_name": "a18adbb3bb1003e4ffd6c37603ee05f3.png",
+      "central_focus": "Abutment #2 Footing from North Side",
+      "image_description": "Underwater view of the footing for Abutment #2, seen from the north side. The full length of the footing is exposed due to channel scour. The footing has minor abrasion throughout. The water is relatively clear, showing rocks on the channel floor.",
+      "edges": [
+        {
+          "connected_to": "e0310bedb8a6a8c9004a11f732e6c597.png",
+          "description_of_connection": "continuation_of, another view of the north end of the Abutment #2 footing."
+        },
+        {
+          "connected_to": "47cb80318cb9235298acf7c1113505dc.png",
+          "description_of_connection": "adjacent_to, shows the south end of the same footing."
+        }
+      ]
+    },
+    {
+      "image_name": "ed8e4a1b79ea59b2e26d77a4bdf43529.png",
+      "central_focus": "Abutment #2 Footing Undermining / Scour below Structure",
+      "image_description": "Underwater view showing the effect of scour and undermining beneath the footing of Abutment #2. A dark void is visible under the concrete footing. A piece of wood debris is propped against the abutment face. The riverbed is visible through the murky, greenish water.",
+      "edges": [
+        {
+          "connected_to": "f68dad150642e4f00db8e64741175d92.png",
+          "description_of_connection": "similar_to, another view of the undermining defect at Abutment #2."
+        },
+        {
+          "connected_to": "08d86e1d939e16c60eac5d123646547f.png",
+          "description_of_connection": "similar_to, shows the same general area of scour and undermining."
+        }
+      ]
+    },
+    {
+      "image_name": "08d86e1d939e16c60eac5d123646547f.png",
+      "central_focus": "Abutment #2 Footing Undermining / Scour below Structure below Beam #4",
+      "image_description": "An underwater photograph documenting the scour and undermining occurring at the footing of Abutment #2, located beneath Beam #4. The murky water obscures fine details, but a significant void is apparent under the concrete structure.",
+      "edges": [
+        {
+          "connected_to": "ed8e4a1b79ea59b2e26d77a4bdf43529.png",
+          "description_of_connection": "similar_to, shows a comparable view of the undermining at Abutment #2."
+        },
+        {
+          "connected_to": "8c7e3d1a0009fde44cff0cb380032be1.png",
+          "description_of_connection": "adjacent_to, shows a measuring rod being used to quantify the defect in this area."
+        }
+      ]
+    },
+    {
+      "image_name": "8c7e3d1a0009fde44cff0cb380032be1.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #4",
+      "image_description": "An orange and white measuring rod is submerged in the water, distorted by the ripples on the surface. The rod is probing the extent of undermining at Abutment #2's footing, indicating a penetration of approximately 4'-0\" below Beam #4.",
+      "edges": [
+        {
+          "connected_to": "08d86e1d939e16c60eac5d123646547f.png",
+          "description_of_connection": "adjacent_to, this image quantifies the scour shown in the previous view."
+        },
+        {
+          "connected_to": "8fc6796d09a46d4fea4c2da8077eedf7.png",
+          "description_of_connection": "similar_to, another view of the measurement being taken."
+        }
+      ]
+    },
+    {
+      "image_name": "8fc6796d09a46d4fea4c2da8077eedf7.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #4",
+      "image_description": "A close-up underwater view of an orange and white measuring rod inserted into the void caused by scour under the footing of Abutment #2. The rod indicates a penetration depth of about 4'-0\". Visibility in the water is poor.",
+      "edges": [
+        {
+          "connected_to": "8c7e3d1a0009fde44cff0cb380032be1.png",
+          "description_of_connection": "similar_to, another view of the same measurement procedure."
+        },
+        {
+          "connected_to": "540db99f99f3ffe2b621883c2cc51841.png",
+          "description_of_connection": "similar_to, another view of the same measurement."
+        }
+      ]
+    },
+    {
+      "image_name": "540db99f99f3ffe2b621883c2cc51841.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #4",
+      "image_description": "An orange and white measuring rod, distorted by water refraction, is used to measure the undermining beneath the footing at Abutment #2. The measurement is taken below Beam #4 and indicates approximately 4'-0\" of penetration.",
+      "edges": [
+        {
+          "connected_to": "8fc6796d09a46d4fea4c2da8077eedf7.png",
+          "description_of_connection": "similar_to, provides another perspective of the same measurement activity."
+        }
+      ]
+    },
+    {
+      "image_name": "11ec91691281fc940770033cabc9d539.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #5",
+      "image_description": "An inspector's hand holds an orange and white measuring rod, which is being inserted into the water to probe the undermining beneath the footing of Abutment #2. This measurement, taken below Beam #5, shows a penetration of approximately 4'-0\".",
+      "edges": [
+        {
+          "connected_to": "4f575421e097a83011ef64196a8608f4.png",
+          "description_of_connection": "similar_to, shows the same type of measurement being taken below a different beam (Beam #4)."
+        },
+        {
+          "connected_to": "9ecf0d5e411177a5ea15f3daeec59c23.png",
+          "description_of_connection": "affects, the undermining being measured here impacts Beam #5 at Abutment #2."
+        }
+      ]
+    },
+    {
+      "image_name": "0acb0c67670a667c4f887e4910eb27d2.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #3",
+      "image_description": "Underwater view of a measuring rod probing the scour void beneath the Abutment #2 footing, specifically below Beam #3. The rod indicates approximately 4'-0\" of horizontal penetration. Water clarity is poor.",
+      "edges": [
+        {
+          "connected_to": "22c5d05b932abb72ddc87d3625e23138.png",
+          "description_of_connection": "similar_to, another view of the same measurement below Beam #3."
+        },
+        {
+          "connected_to": "b6779b1f7c822b5b437fa10b155b7ea9.png",
+          "description_of_connection": "affects, this undermining measurement is related to the observed spalling on Beam #3 at Abutment #2."
+        }
+      ]
+    },
+    {
+      "image_name": "22c5d05b932abb72ddc87d3625e23138.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #3",
+      "image_description": "Underwater photograph showing an orange and white measuring rod inserted into the void under the Abutment #2 footing, below Beam #3. The penetration is measured at approximately 4'-0\". The surrounding water is murky.",
+      "edges": [
+        {
+          "connected_to": "0acb0c67670a667c4f887e4910eb27d2.png",
+          "description_of_connection": "similar_to, another view documenting the same undermining measurement."
+        }
+      ]
+    },
+    {
+      "image_name": "818d8ccd2975c69de3f8c5282a743164.png",
+      "central_focus": "~4'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #1",
+      "image_description": "Underwater view of the Abutment #2 footing below Beam #1. The water is murky, but the reflection on the surface and the visible riverbed indicate the location. This area has significant undermining, measured at approximately 4'-0\" of penetration.",
+      "edges": [
+        {
+          "connected_to": "1b1d5b78626721ce54d2d074223bf113.png",
+          "description_of_connection": "similar_to, another view of the measurement being taken in this location."
+        },
+        {
+          "connected_to": "1125194c4102947d69804ad31df60019.png",
+          "description_of_connection": "adjacent_to, shows the vertical scour measurement at the same location."
+        }
+      ]
+    },
+    {
+      "image_name": "1b1d5b78626721ce54d2d074223bf113.png",
+      "central_focus": "~1'-0\" of Penetration at Abutment #2 Footing Undermining / Scour below Structure below Beam #1",
+      "image_description": "Underwater view of an orange and white measuring rod probing the scour void beneath the Abutment #2 footing, below Beam #1. In this specific spot, the penetration is measured at approximately 1'-0\". The water is clear enough to see the rocky riverbed.",
+      "edges": [
+        {
+          "connected_to": "818d8ccd2975c69de3f8c5282a743164.png",
+          "description_of_connection": "continuation_of, documents a different measurement within the same scoured area shown in the other image."
+        }
+      ]
+    },
+    {
+      "image_name": "43fb83ad765bf05eaa26dfba2ebc292a.png",
+      "central_focus": "Cracking in Footing / Stem of Abutment #2 below Beam #1",
+      "image_description": "A close-up view of the concrete Abutment #2 stem, just above the water line, below Beam #1. A small vertical crack is present in the stem, and there is a horizontal joint or crack along the top of the footing. The concrete surface is weathered.",
+      "edges": [
+        {
+          "connected_to": "79c4d44bae1dfc63b1fb9446edab2d6d.png",
+          "description_of_connection": "detail_view_of, shows a specific crack on Abutment #2."
+        }
+      ]
+    },
+    {
+      "image_name": "1125194c4102947d69804ad31df60019.png",
+      "central_focus": "~3'-0\" to Top of Footing along Abutment #2 below Beam #1",
+      "image_description": "An inspector's legs in waders are visible while they use two measuring rods to demonstrate the scour depth at Abutment #2 below Beam #1. The vertical distance from the top of the footing to the channel bottom is measured at approximately 3'-0\".",
+      "edges": [
+        {
+          "connected_to": "1b1d5b78626721ce54d2d074223bf113.png",
+          "description_of_connection": "adjacent_to, shows the vertical scour measurement, while the other image shows the horizontal undermining measurement at the same beam location."
+        }
+      ]
+    },
+    {
+      "image_name": "e0e5c04a805cf67fa1f2a6a9b6060e36.png",
+      "central_focus": "~2'-10\"\" to Top of Footing along Abutment #2 below Beam #2",
+      "image_description": "An orange and white measuring rod is held vertically in the water to measure the scour depth at Abutment #2 below Beam #2. The measurement from the top of the footing to the channel bed is approximately 2'-10\". The rod is reflected in the water's surface.",
+      "edges": [
+        {
+          "connected_to": "5b24c921e5cedd9764d6ba9713c849a3.png",
+          "description_of_connection": "similar_to, another view documenting the same scour depth measurement."
+        },
+        {
+          "connected_to": "ca4ebef7f1c611c8c6f39c080a5efbb6.png",
+          "description_of_connection": "affects, the scour at this location impacts the stability of Beam #2's support."
+        }
+      ]
+    },
+    {
+      "image_name": "5b24c921e5cedd9764d6ba9713c849a3.png",
+      "central_focus": "~2'-10\" to Top of Footing along Abutment #2 below Beam #2",
+      "image_description": "Underwater view showing a measuring rod held against the rough, rocky face of the scoured channel bottom. The rod is used to measure the depth from the top of the footing at Abutment #2, below Beam #2, which is approximately 2'-10\".",
+      "edges": [
+        {
+          "connected_to": "e0e5c04a805cf67fa1f2a6a9b6060e36.png",
+          "description_of_connection": "similar_to, another perspective of the same 2'-10\" scour measurement."
+        }
+      ]
+    },
+    {
+      "image_name": "c948f4af8b190c453f8343534dfc5896.png",
+      "central_focus": "~2'-10\" to Top of Footing along Abutment #2 below Beam #5",
+      "image_description": "An underwater view of a measuring rod indicating the scour depth at Abutment #2, below Beam #5. The distance from the top of the footing to the uneven channel bottom is measured at approximately 2'-10\". The water is murky.",
+      "edges": [
+        {
+          "connected_to": "11ec91691281fc940770033cabc9d539.png",
+          "description_of_connection": "adjacent_to, shows the vertical scour measurement corresponding to the horizontal undermining measurement taken at Beam #5."
+        }
+      ]
+    },
+    {
+      "image_name": "6b916e5f4f2ae885e433903e0f465016.png",
+      "central_focus": "~3'-2\" Scouring in Front of Abutment #2 Footing below Beam #4",
+      "image_description": "Underwater view showing a measuring rod vertically placed against a pile of silty gravel at the base of the Abutment #2 footing. The rod measures the scour depth in front of the footing below Beam #4 as approximately 3'-2\".",
+      "edges": [
+        {
+          "connected_to": "eba55ec3565c1d25e90fd4b89c08cc11.png",
+          "description_of_connection": "similar_to, this is another angle of the same ~3'-2\" scour measurement."
+        },
+        {
+          "connected_to": "4f575421e097a83011ef64196a8608f4.png",
+          "description_of_connection": "adjacent_to, shows the vertical scour depth, while the other image shows the horizontal undermining at the same location."
+        }
+      ]
+    },
+    {
+      "image_name": "47cb80318cb9235298acf7c1113505dc.png",
+      "central_focus": "South End of Abutment #2 Footing",
+      "image_description": "An underwater view of the south end of the Abutment #2 footing. The concrete shows signs of heavier scaling and abrasion, with a loss of material. A measuring rod is placed near the footing. The channel bottom is sandy/silty.",
+      "edges": [
+        {
+          "connected_to": "e0310bedb8a6a8c9004a11f732e6c597.png",
+          "description_of_connection": "opposite_of, shows the south end of the footing, opposite the north end."
+        }
+      ]
+    },
+    {
+      "image_name": "e0310bedb8a6a8c9004a11f732e6c597.png",
+      "central_focus": "North End of Abutment #2 Footing",
+      "image_description": "Underwater view of the north end of the Abutment #2 footing. The concrete footing is exposed. An orange and white measuring rod stands vertically in the water next to the footing and a large stone. The channel bottom is sandy with some rocks.",
+      "edges": [
+        {
+          "connected_to": "47cb80318cb9235298acf7c1113505dc.png",
+          "description_of_connection": "opposite_of, shows the north end of the footing, opposite the south end."
+        },
+        {
+          "connected_to": "a18adbb3bb1003e4ffd6c37603ee05f3.png",
+          "description_of_connection": "continuation_of, another view of the north side of the Abutment #2 footing."
+        }
+      ]
+    },
+    {
+      "image_name": "11c21e206dbfa49e4a9f6218a4fdbc7c.png",
+      "central_focus": "Beam #4 at Abutment #2 with 3 Severed Stirrups",
+      "image_description": "A close-up view of spalling on the underside of reinforced concrete Beam #4 where it meets Abutment #2. A large section of concrete has broken away, exposing multiple layers of longitudinal rebar with moderate rust. At least three vertical steel stirrups are visibly severed.",
+      "edges": [
+        {
+          "connected_to": "74f9a168509556b4da013c5e9ab0d872.png",
+          "description_of_connection": "similar_to, another view of the same defect on Beam #4."
+        },
+        {
+          "connected_to": "943f9f700bc64218a5cbe08bdec30c73.png",
+          "description_of_connection": "detail_view_of, this is a close-up of the damage on Beam #4 shown in the wider superstructure view."
+        }
+      ]
+    },
+    {
+      "image_name": "74f9a168509556b4da013c5e9ab0d872.png",
+      "central_focus": "Beam #4 at Abutment #2 with 3 Severed Stirrups",
+      "image_description": "Another close-up of the spalled area on Beam #4 at the Abutment #2 end. The image clearly shows the exposed, corroded longitudinal reinforcing bars and the three severed stirrups. Some vegetation or debris is caught on the rebar.",
+      "edges": [
+        {
+          "connected_to": "11c21e206dbfa49e4a9f6218a4fdbc7c.png",
+          "description_of_connection": "similar_to, shows the same damage from a slightly different angle."
+        }
+      ]
+    },
+    {
+      "image_name": "9ecf0d5e411177a5ea15f3daeec59c23.png",
+      "central_focus": "Beam #5 at Abutment #2 with 3 Severed Stirrups",
+      "image_description": "A view of the end of reinforced concrete Beam #5 at Abutment #2. The lower portion of the beam has heavy spalling, exposing corroded longitudinal rebar. The report indicates three stirrups are severed in this location.",
+      "edges": [
+        {
+          "connected_to": "1b645b39f550c81b0cf39ad73ccfd407.png",
+          "description_of_connection": "similar_to, another view of the same defect on Beam #5."
+        },
+        {
+          "connected_to": "11c21e206dbfa49e4a9f6218a4fdbc7c.png",
+          "description_of_connection": "similar_to, shows a similar defect on the adjacent beam (Beam #4)."
+        }
+      ]
+    },
+    {
+      "image_name": "1b645b39f550c81b0cf39ad73ccfd407.png",
+      "central_focus": "Beam #5 at Abutment #2 with 3 Severed Stirrups",
+      "image_description": "A close-up photograph of the damaged end of reinforced concrete Beam #5 at Abutment #2. Heavy spalling has exposed the longitudinal rebar, which shows rust scaling. Several stirrups are thinned and severed.",
+      "edges": [
+        {
+          "connected_to": "9ecf0d5e411177a5ea15f3daeec59c23.png",
+          "description_of_connection": "similar_to, provides another perspective of the same damage on Beam #5."
+        }
+      ]
+    },
+    {
+      "image_name": "18637fb77b8a73aa4cc98c69c0a7edcf.png",
+      "central_focus": "Beam #5 at Midspan with 1 Severed Stirrup",
+      "image_description": "View of the underside of reinforced concrete Beam #5 at midspan. A section of concrete has spalled off, exposing two layers of longitudinal rebar. The rebar shows signs of corrosion. One stirrup within this spalled area is severed.",
+      "edges": [
+        {
+          "connected_to": "935235e752c96359ab62bfe1798156c6.png",
+          "description_of_connection": "similar_to, another view of the same midspan defect on Beam #5."
+        },
+        {
+          "connected_to": "9730d23aee88a2c7c14ea7fe33728acd.png",
+          "description_of_connection": "similar_to, shows a comparable midspan defect on Beam #3."
+        }
+      ]
+    },
+    {
+      "image_name": "935235e752c96359ab62bfe1798156c6.png",
+      "central_focus": "Beam #5 at Midspan with 1 Severed Stirrup",
+      "image_description": "A close-up of the spalled area at the midspan of Beam #5. The exposed longitudinal reinforcing bars show pitting and rust scaling. The end of a single severed stirrup is clearly visible.",
+      "edges": [
+        {
+          "connected_to": "18637fb77b8a73aa4cc98c69c0a7edcf.png",
+          "description_of_connection": "detail_view_of, a closer perspective of the same defect shown in the other image."
+        }
+      ]
+    },
+    {
+      "image_name": "b6779b1f7c822b5b437fa10b155b7ea9.png",
+      "central_focus": "Beam #3 at Abutment #2 with 5 Severed Stirrups",
+      "image_description": "View of the damaged end of reinforced concrete Beam #3 where it rests on Abutment #2. There is heavy spalling exposing longitudinal rebar. The report states there are five severed stirrups in this area, four of which are in consecutive order.",
+      "edges": [
+        {
+          "connected_to": "9730d23aee88a2c7c14ea7fe33728acd.png",
+          "description_of_connection": "adjacent_to, shows damage at the end of the beam, while the other image shows damage at its midspan."
+        },
+        {
+          "connected_to": "11c21e206dbfa49e4a9f6218a4fdbc7c.png",
+          "description_of_connection": "similar_to, shows a similar spalling defect on the adjacent beam (Beam #4)."
+        }
+      ]
+    },
+    {
+      "image_name": "9730d23aee88a2c7c14ea7fe33728acd.png",
+      "central_focus": "Beam #3 at Midspan with 6 Severed Stirrups",
+      "image_description": "View of a large spalled area on the underside of reinforced concrete Beam #3 at midspan. A significant portion of concrete is missing, exposing two layers of corroded longitudinal rebar. Six consecutive stirrups have been severed.",
+      "edges": [
+        {
+          "connected_to": "b6779b1f7c822b5b437fa10b155b7ea9.png",
+          "description_of_connection": "adjacent_to, shows damage at the midspan of the beam, while the other image shows damage at its end."
+        },
+        {
+          "connected_to": "18637fb77b8a73aa4cc98c69c0a7edcf.png",
+          "description_of_connection": "similar_to, shows a comparable midspan defect on Beam #5."
+        }
+      ]
+    },
+    {
+      "image_name": "ca4ebef7f1c611c8c6f39c080a5efbb6.png",
+      "central_focus": "Beam #2 at Abutment #2 with 4 Severed Stirrups",
+      "image_description": "View of the end of reinforced concrete Beam #2 at Abutment #2. There is a spalled area with exposed, corroded longitudinal rebar. The report indicates that four consecutive stirrups are severed at this location.",
+      "edges": [
+        {
+          "connected_to": "0a84f1689532480abb55395d9b5b4119.png",
+          "description_of_connection": "similar_to, another view of the same defect."
+        },
+        {
+          "connected_to": "b6779b1f7c822b5b437fa10b155b7ea9.png",
+          "description_of_connection": "similar_to, shows a comparable defect on the adjacent beam (Beam #3)."
+        }
+      ]
+    },
+    {
+      "image_name": "0a84f1689532480abb55395d9b5b4119.png",
+      "central_focus": "Beam #2 at Abutment #2 with 4 Severed Stirrups",
+      "image_description": "A close-up view of the spalling on Beam #2 at the Abutment #2 end. Exposed and rusted rebar is visible, along with the remnants of several severed stirrups. Debris is caught on the exposed steel.",
+      "edges": [
+        {
+          "connected_to": "ca4ebef7f1c611c8c6f39c080a5efbb6.png",
+          "description_of_connection": "detail_view_of, a closer look at the defect shown in the other image."
+        }
+      ]
+    },
+    {
+      "image_name": "06f8b612c56f2dc2a148ce4c3d39ca4d.png",
+      "central_focus": "Beam #1 from Abutment #1",
+      "image_description": "View of the underside of reinforced concrete Beam #1 where it meets Abutment #1. A spall is visible at the beam end, exposing a short section of corroded rebar. A horizontal crack runs along the bottom of the beam.",
+      "edges": [
+        {
+          "connected_to": "191609975dbf9faf366988d964cf6528.png",
+          "description_of_connection": "similar_to, shows a similar defect on the adjacent beam (Beam #2)."
+        }
+      ]
+    },
+    {
+      "image_name": "191609975dbf9faf366988d964cf6528.png",
+      "central_focus": "Beam #2 at Abutment #1",
+      "image_description": "View of the end of reinforced concrete Beam #2 at Abutment #1. There is a spalled area at the corner of the beam seat, exposing corroded rebar. The surrounding concrete is stained.",
+      "edges": [
+        {
+          "connected_to": "06f8b612c56f2dc2a148ce4c3d39ca4d.png",
+          "description_of_connection": "similar_to, shows a similar spalling defect on the adjacent beam (Beam #1)."
+        },
+        {
+          "connected_to": "b14bfdb8eb0607a529765b23a26cff94.png",
+          "description_of_connection": "adjacent_to, shows the adjacent beam (Beam #3) at the same abutment."
+        }
+      ]
+    },
+    {
+      "image_name": "b14bfdb8eb0607a529765b23a26cff94.png",
+      "central_focus": "Beam #3 at Abutment #1",
+      "image_description": "View of the corner where reinforced concrete Beam #3 meets Abutment #1. There are cracks and minor spalling at the beam end and in the corner of the abutment backwall.",
+      "edges": [
+        {
+          "connected_to": "191609975dbf9faf366988d964cf6528.png",
+          "description_of_connection": "adjacent_to, shows the adjacent beam (Beam #2) at the same abutment."
+        }
+      ]
+    },
+    {
+      "image_name": "5070ab1b315e5dc9cafc02b88fb02aa7.png",
+      "central_focus": "Beam #4 End at Abutment #1",
+      "image_description": "View of the end of reinforced concrete Beam #4 at Abutment #1. A section of concrete at the bottom corner has spalled, exposing a small area of rusted longitudinal rebar and a severed stirrup.",
+      "edges": [
+        {
+          "connected_to": "bca448dece7b48e38c16905d30617d4e.png",
+          "description_of_connection": "adjacent_to, shows the adjacent beam (Beam #5) with similar damage."
+        }
+      ]
+    },
+    {
+      "image_name": "bca448dece7b48e38c16905d30617d4e.png",
+      "central_focus": "Beam #5 End at Abutment #1 with 4 Severed Stirrups",
+      "image_description": "View of the end of reinforced concrete Beam #5 at Abutment #1. There is significant spalling along the bottom of the beam, exposing corroded longitudinal rebar. The report indicates four consecutive stirrups are severed in this location.",
+      "edges": [
+        {
+          "connected_to": "5070ab1b315e5dc9cafc02b88fb02aa7.png",
+          "description_of_connection": "adjacent_to, shows the adjacent beam (Beam #4) at the same abutment."
+        },
+        {
+          "connected_to": "1b645b39f550c81b0cf39ad73ccfd407.png",
+          "description_of_connection": "opposite_of, shows damage at the Abutment #1 end of the beam, opposite the damage at the Abutment #2 end."
+        }
+      ]
+    },
+    {
+      "image_name": "a9206321a74c59587c7e070e0607099d.png",
+      "central_focus": "Abutment #2 Footing North End",
+      "image_description": "View of the water surface near the north end of the Abutment #2 footing. The water is murky and has pine needles floating on it, indicating proximity to the bank.",
+      "edges": [
+        {
+          "connected_to": "e0310bedb8a6a8c9004a11f732e6c597.png",
+          "description_of_connection": "adjacent_to, provides a wider context for the area where the north end of the footing is located."
+        }
+      ]
+    },
+    {
+      "image_name": "f4a8fd2dd2cd89cb25c3c42d4128d0de.png",
+      "central_focus": "Abutment #1 North End below Beam #1",
+      "image_description": "A view of the concrete face of the north end of Abutment #1, located below Beam #1. The concrete surface shows weathering, minor cracking, and some moss or algae growth near the waterline.",
+      "edges": [
+        {
+          "connected_to": "1dea0be6ed0e9518fd49b3becaa2df13.png",
+          "description_of_connection": "detail_view_of, a close-up of a specific section of Abutment 1."
+        }
+      ]
+    },
+    {
+      "image_name": "f7d233b0883e72f4c9a1f23b87bc0f9c.png",
+      "central_focus": "Abutment #1 between Beams #2 and #3",
+      "image_description": "A close-up of the concrete face of Abutment #1, between Beams #2 and #3. The surface shows light efflorescence leakage in a pattern of fine cracks, and some algae or staining near the water level.",
+      "edges": [
+        {
+          "connected_to": "1dea0be6ed0e9518fd49b3becaa2df13.png",
+          "description_of_connection": "detail_view_of, a close-up of a specific section of Abutment 1 showing efflorescence."
+        }
+      ]
+    },
+    {
+      "image_name": "acd679989c49b463595543196878ea8b.png",
+      "central_focus": "South Elevation",
+      "image_description": "A wide view of the bridge's south (downstream) elevation. The concrete superstructure and abutments are visible, spanning a clear, rocky river. The surrounding area is green with trees and vegetation.",
+      "edges": [
+        {
+          "connected_to": "02761563815cb89756f75e4afc5e4c4b.png",
+          "description_of_connection": "similar_to, another view of the south/downstream elevation."
+        },
+        {
+          "connected_to": "8b0983f18f2e026d8972b3f3e6cc0333.png",
+          "description_of_connection": "opposite_of, this south elevation is opposite the north elevation view."
+        }
+      ]
+    }
+  ]
+}

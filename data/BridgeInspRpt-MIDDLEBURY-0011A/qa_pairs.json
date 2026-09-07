@@ -1,0 +1,170 @@
+[
+  {
+    "question": "Assess the condition of the bridge bearings, noting any distortion and the resulting numerical condition rating.",
+    "answer": "B.C.07 Bridge Bearings Condition Rating (7 - GOOD - Some minor defects.) Minor distortion along elastomeric bearings",
+    "reference_images": [
+      "0ef033cc0b5ccc6b678a978ae2d8f892.png",
+      "7feb185d012bdef60a33df435aaa151b.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Based on the moderate to heavier wheel track rutting and map cracking observed along the approaches, what is the condition rating for the bridge's wearing surface?",
+    "answer": "A21 - Deck Wearing Surface Condition (6 - SATISFACTORY - Widespread minor or isolated moderate defects.) Moderate to heavier wheel track rutting and map cracking along approaches Span 3 WB lane has an isolated minor pot hole.",
+    "reference_images": [
+      "3f2e9d2f0a66a3dd9f085ba9f75d5c1f.png",
+      "99be504f92d52f247e3e716aab7511b0.png",
+      "e1f642fb2f7274b1c5484d28504cf4c5.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  },
+  {
+    "question": "What is the observed condition and numerical rating of the box beams and Bulb T beams that make up the bridge's superstructure?",
+    "answer": "B.C.02 Superstructure Condition Rating (8 - VERY GOOD - Some inherent defects.) 10 box beams along approaches and 5 large Bulb T along main span look good.",
+    "reference_images": [
+      "2ca8f62e90a0254ed6a6d5a12b453d20.png",
+      "2db4f674e43485554dfd2791a48ffca3.png",
+      "7dfcd212adca7725ec3aaddc9c0218fa.png"
+    ],
+    "condition_rating": {
+      "score": 8
+    }
+  },
+  {
+    "question": "What signs of water leakage are noted at the bridge joints, and what corresponding issues are seen on the substructure elements below at the piers and abutments?",
+    "answer": "The Pier 2 joint has some minor leakage. Correspondingly, there is some leakage over pier 2. At Abutment 1, there is some leakage at the bearing seat, and the deck in span 3 has isolated minor leakage at abutment 1.",
+    "reference_images": [
+      "4f43d9f159983427efbefc18a2352932.png",
+      "5189c4440ccb953accd680c8f79961f0.png",
+      "b6faa5005f219732d71d5e0431ba116e.png",
+      "49f49930445b0e9a1386e6a5db936ff4.png",
+      "0baf66cc247037e471b5b4881f81afb4.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "Compare the types of wear and damage observed at the joints located at Pier 1 versus those at Pier 2.",
+    "answer": "The Pier 1 joint has some minor wear on the plates and the plug joint near the west header in the WB lane has moderate wear and exposed the pavement; the frame around the bolts is starting to break up. The Pier 2 joint also has some minor wear on the plates, and the header has some minor cracking, with some of the framing around the bolts in the WB lane having been broken.",
+    "reference_images": [
+      "2759da97968ae065f966329c3b581d41.png",
+      "4f43d9f159983427efbefc18a2352932.png",
+      "5189c4440ccb953accd680c8f79961f0.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "Considering the moderate wheel track rutting and map cracking on the approaches, along with wear and break-up at the pier joints, what is the overall condition rating for the bridge joints?",
+    "answer": "The wearing surface on the approaches has moderate to heavier wheel track rutting and map cracking. The Pier 1 joint has moderate wear on the plug joint which has exposed the pavement, and the frame around the bolts is starting to break up. The Pier 2 joint has minor wear on the plates and some broken framing around the bolts. Based on these widespread minor or isolated moderate defects, the bridge joints have a condition rating of 6.",
+    "reference_images": [
+      "962cd1d6ae1793ec930cddf48722cfbb.png",
+      "2660a5448557e0bc09ead27ac812f254.png",
+      "2759da97968ae065f966329c3b581d41.png",
+      "4f43d9f159983427efbefc18a2352932.png",
+      "5189c4440ccb953accd680c8f79961f0.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  },
+  {
+    "question": "Based on the cracking patterns observed on the pier seats, pier shafts, and wingwalls, what is the overall assessment of the substructure's concrete condition?",
+    "answer": "The substructure exhibits isolated minor cracks across several components. Wingwalls 3 and 4 have isolated minor cracks at the top. The seats for both Pier 1 and 2 have isolated minor cracks, and there is also an isolated minor crack on the shaft of Pier 1.",
+    "reference_images": [
+      "0ef033cc0b5ccc6b678a978ae2d8f892.png",
+      "7feb185d012bdef60a33df435aaa151b.png",
+      "b6faa5005f219732d71d5e0431ba116e.png",
+      "ce1c6a50f2df159777f9e53608534714.png",
+      "49f49930445b0e9a1386e6a5db936ff4.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "Describe the deterioration found on the deck sidewalks and the conditions of the adjacent curbs and fascia.",
+    "answer": "The deck sidewalks have some minor cracking on both sides, with isolated minor settlement on the NW side and an isolated moderate spall on the SW side near the approach rail end. The adjacent deck curbs exhibit minor chips and scrapes. The fascia has some minor cracking on the south side with an isolated minor pop out in span 3 on the north side.",
+    "reference_images": [
+      "eaf224dd1201be70ae507b6518e6184e.png",
+      "88701c14321b6ee7ff7c5f1c931b831d.png",
+      "12dd86dfc706c80c26143d45672d925b.png",
+      "936b3e4986afe00fdee0c31690246675.png",
+      "2db4f674e43485554dfd2791a48ffca3.png",
+      "9a55330eb86f0605976d57a79643d5a3.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "How do the conditions of the abutments, which exhibit leakage, compare to the piers, which show cracking and leakage, and what is the resulting substructure condition rating?",
+    "answer": "Abutment 1 has some leakage at the bearing seat and Abutment 2 has isolated minor vertical. The pier shafts and columns have an isolated minor crack on pier 1, and the pier seats for Pier 1 and 2 have isolated minor cracks. There is also some leakage over pier 2. Based on these some minor defects, the substructure is rated at 7 - GOOD.",
+    "reference_images": [
+      "0baf66cc247037e471b5b4881f81afb4.png",
+      "c24979cfa7964587b25a7401b288221d.png",
+      "7feb185d012bdef60a33df435aaa151b.png",
+      "4817b936a662bdc7466d447de151d639.png",
+      "bd7470342b152c41e06172511fb26512.png",
+      "d4b541e54b02599929f58d2f7dba4817.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Given the minor distortion along the elastomeric bearings, what related conditions are observed on the underlying abutment and pier seats?",
+    "answer": "While the elastomeric bearings show minor distortion, the underlying substructure shows signs of deterioration, including leakage at the bearing seat of Abutment 1 and isolated minor cracks on the seats of Pier 1 and 2.",
+    "reference_images": [
+      "7dfcd212adca7725ec3aaddc9c0218fa.png",
+      "0baf66cc247037e471b5b4881f81afb4.png",
+      "b6faa5005f219732d71d5e0431ba116e.png",
+      "ce1c6a50f2df159777f9e53608534714.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "What are the observed conditions on the concrete fascia, and what is its condition rating?",
+    "answer": "The concrete fascia has an isolated minor pop out on the north side of span 3 and some minor cracking on the south side. These some minor defects result in a condition rating of 7.",
+    "reference_images": [
+      "0ef033cc0b5ccc6b678a978ae2d8f892.png",
+      "9a55330eb86f0605976d57a79643d5a3.png",
+      "34c222fa46cdb4482be3fb0d181e255a.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "What types of concrete beams are used for the main span and the approach spans of the bridge?",
+    "answer": "As per the inspection report, there are 10 box beams along approaches and 5 large Bulb T along main span, which look good. The superstructure condition rating is 8, Very Good.",
+    "reference_images": [
+      "49f49930445b0e9a1386e6a5db936ff4.png",
+      "b6faa5005f219732d71d5e0431ba116e.png",
+      "7dfcd212adca7725ec3aaddc9c0218fa.png"
+    ],
+    "condition_rating": {
+      "score": 8
+    }
+  },
+  {
+    "question": "What specific condition is reported regarding the galvanized stay-in-place form work located at the first pier?",
+    "answer": "SIP form at pier 1 span 1 has isolated minor corrosion",
+    "reference_images": [
+      "b6faa5005f219732d71d5e0431ba116e.png",
+      "4f43d9f159983427efbefc18a2352932.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "How is the channel and its corresponding protection system described in the report?",
+    "answer": "VERY GOOD - Inherent defects only. VERY GOOD - Some inherent defects.",
+    "reference_images": [
+      "7c214f83513a7f7a3fd9fb4d4575f7a2.png",
+      "bd7470342b152c41e06172511fb26512.png"
+    ],
+    "condition_rating": {
+      "score": 8
+    }
+  }
+]

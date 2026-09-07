@@ -1,0 +1,755 @@
+{
+  "nodes": [
+    {
+      "image_name": "e458b7388ed8be26beb0588c4046526e.png",
+      "central_focus": "Upstream elevation of the bridge structure over the Missisquoi River.",
+      "image_description": "An upstream elevation view of the two-span bridge, featuring a green-painted steel thru-truss main span (Span 2) and a steel girder approach span (Span 1, not fully visible). The truss is supported by a concrete abutment with some graffiti on the right and a concrete pier on the left. The river flows below, and the banks are lined with dense trees under a clear sky.",
+      "edges": [
+        {
+          "connected_to": "67e58ee0ef2e6563511e384031c4a8c9.png",
+          "description_of_connection": "opposite_of the downstream view of the same span."
+        },
+        {
+          "connected_to": "51d996840218e25c05ed024b4ce7fcf8.png",
+          "description_of_connection": "overview_of the pier and approach span shown in more detail."
+        },
+        {
+          "connected_to": "0f6de571e2c72eb2be94eb4bc0a69cba.png",
+          "description_of_connection": "overview_of the abutment shown in more detail."
+        }
+      ]
+    },
+    {
+      "image_name": "8d38cfa480e1336d8729e9094b7fd730.png",
+      "central_focus": "Damaged section of downstream approach guardrail at Abutment 2.",
+      "image_description": "A close-up of a damaged galvanized steel W-beam guardrail on the downstream side approach to Abutment 2. The rail is bent and deformed, suggesting an impact. It is located on a grassy shoulder next to an asphalt surface, with fallen leaves on the ground.",
+      "edges": [
+        {
+          "connected_to": "a901bd82d4fa5d08b34c9474b76977db.png",
+          "description_of_connection": "detail_view_of a component within the broader approach scene."
+        }
+      ]
+    },
+    {
+      "image_name": "a901bd82d4fa5d08b34c9474b76977db.png",
+      "central_focus": "View of the roadway approaching the bridge at Abutment 2.",
+      "image_description": "A view from the roadway looking towards the entrance of the green steel truss bridge at Abutment 2. The two-lane asphalt road curves to the left onto the bridge. A damaged guardrail is visible on the right, and an intact guardrail is on the left. An 'EMERGENCY VEHICLE WEIGHT LIMIT' sign is posted. Trees line the background.",
+      "edges": [
+        {
+          "connected_to": "8d38cfa480e1336d8729e9094b7fd730.png",
+          "description_of_connection": "contains the damaged guardrail shown in detail."
+        },
+        {
+          "connected_to": "6691c979f50c7151ad26817bd53035d6.png",
+          "description_of_connection": "continuation_of the roadway onto the bridge deck."
+        },
+        {
+          "connected_to": "1f31f0a6612531b007df02c08e35ffd7.png",
+          "description_of_connection": "opposite_of the approach at the other end of the bridge (Abutment 1)."
+        }
+      ]
+    },
+    {
+      "image_name": "6691c979f50c7151ad26817bd53035d6.png",
+      "central_focus": "View of the concrete deck from Abutment 2.",
+      "image_description": "A perspective view looking down the length of the bridge deck from near Abutment 2. The concrete deck has longitudinal grooving and features a prominent expansion joint in the foreground. Faded double yellow lines run down the center. Strong shadows from the overhead truss structure are cast across the deck.",
+      "edges": [
+        {
+          "connected_to": "634670475bef6487772762dda07a4586.png",
+          "description_of_connection": "overview_of the deck surface where cracking is shown in detail."
+        },
+        {
+          "connected_to": "f5d988a6ce402a2aeaf75f70e2ab618c.png",
+          "description_of_connection": "opposite_of the view from the other end of the bridge."
+        },
+        {
+          "connected_to": "a901bd82d4fa5d08b34c9474b76977db.png",
+          "description_of_connection": "continuation_of the bridge deck from the road approach."
+        }
+      ]
+    },
+    {
+      "image_name": "e4a9c27bffaf88005c33bf6e30a91ee8.png",
+      "central_focus": "Upstream bearing at Abutment 2.",
+      "image_description": "An overhead close-up of the green-painted steel bearing assembly on the upstream side of Abutment 2. The bearing supports a riveted connection point of the truss vertical and diagonal members. The assembly is anchored to the concrete abutment seat. The river is visible below. The toes of the inspector's green rubber boots are visible.",
+      "edges": [
+        {
+          "connected_to": "ba4143c94060839fed15938ef68d2653.png",
+          "description_of_connection": "adjacent_to the downstream bearing at the same abutment."
+        },
+        {
+          "connected_to": "0f6de571e2c72eb2be94eb4bc0a69cba.png",
+          "description_of_connection": "detail_view_of a component supported by the abutment."
+        }
+      ]
+    },
+    {
+      "image_name": "ba4143c94060839fed15938ef68d2653.png",
+      "central_focus": "Downstream bearing at Abutment 2.",
+      "image_description": "An overhead close-up of the green-painted steel bearing assembly on the downstream side of Abutment 2. The fixed steel bearing supports a riveted gusset plate connection. The bearing is anchored with two large bolts to the concrete abutment seat. Some minor debris and cobwebs are present on the bearing assembly.",
+      "edges": [
+        {
+          "connected_to": "e4a9c27bffaf88005c33bf6e30a91ee8.png",
+          "description_of_connection": "adjacent_to the upstream bearing at the same abutment."
+        },
+        {
+          "connected_to": "0f6de571e2c72eb2be94eb4bc0a69cba.png",
+          "description_of_connection": "detail_view_of a component supported by the abutment."
+        }
+      ]
+    },
+    {
+      "image_name": "265103cecec8649fd35bb388cbb22687.png",
+      "central_focus": "Expansion joint at Abutment 2.",
+      "image_description": "A close-up view of the Vermont-type expansion joint and the adjacent green-painted steel truss members at Abutment 2. The joint trough is visible between the concrete deck and the concrete backwall. A steel drain scupper is also visible. A fallen leaf is on the truss member.",
+      "edges": [
+        {
+          "connected_to": "6691c979f50c7151ad26817bd53035d6.png",
+          "description_of_connection": "detail_view_of the expansion joint seen in the deck overview."
+        }
+      ]
+    },
+    {
+      "image_name": "f4300de4854cc9e2ba0718af91562976.png",
+      "central_focus": "Lateral bracing system of the truss from Portal 2.",
+      "image_description": "A view looking up at the overhead lateral and sway bracing system of the green steel truss, as seen from the portal at Abutment 2. The bracing consists of riveted lattice-style members forming an X-pattern. The sky is visible through the openings. The tops of trees are visible in the background.",
+      "edges": [
+        {
+          "connected_to": "87123f39d4696a68b275cf4c6a1f11d2.png",
+          "description_of_connection": "opposite_of the bracing view from the other portal."
+        },
+        {
+          "connected_to": "a901bd82d4fa5d08b34c9474b76977db.png",
+          "description_of_connection": "detail_view_of the superstructure above the roadway approach."
+        }
+      ]
+    },
+    {
+      "image_name": "80ce4fb2b287db4fd2edb499cfc70416.png",
+      "central_focus": "Close-up of the lattice-style top chord and portal bracing.",
+      "image_description": "A detailed close-up shot of the riveted lattice-style steel members that form the top chord and portal bracing of the truss. The sky is bright white in the background, highlighting the silhouette of the structural steel.",
+      "edges": [
+        {
+          "connected_to": "f4300de4854cc9e2ba0718af91562976.png",
+          "description_of_connection": "detail_view_of the construction of the bracing members."
+        },
+        {
+          "connected_to": "49f2d08b63e448e2418907657593334a.png",
+          "description_of_connection": "similar_to another detailed view of the portal bracing."
+        }
+      ]
+    },
+    {
+      "image_name": "cd2c43ba764a287e5f4744c8c651e1dc.png",
+      "central_focus": "View of the Missisquoi River looking downstream from the bridge.",
+      "image_description": "A view from the bridge looking downstream along the Missisquoi River. The river is wide with a gentle current. Both banks are heavily wooded with green deciduous trees. A distant mountain is visible on the horizon under a clear blue sky. A small portion of the green bridge railing is in the foreground.",
+      "edges": [
+        {
+          "connected_to": "32e4ea92a397e092ad95648c591fa828.png",
+          "description_of_connection": "opposite_of the upstream view from the bridge."
+        }
+      ]
+    },
+    {
+      "image_name": "32e4ea92a397e092ad95648c591fa828.png",
+      "central_focus": "View of the Missisquoi River looking upstream from the bridge.",
+      "image_description": "A view from the bridge looking upstream along the Missisquoi River. The river appears wider and the water shows reflections and shadows. The riverbanks are heavily forested. The shadow of the bridge superstructure is cast on the water surface. A portion of the green bridge railing is in the foreground.",
+      "edges": [
+        {
+          "connected_to": "cd2c43ba764a287e5f4744c8c651e1dc.png",
+          "description_of_connection": "opposite_of the downstream view from the bridge."
+        }
+      ]
+    },
+    {
+      "image_name": "87123f39d4696a68b275cf4c6a1f11d2.png",
+      "central_focus": "Lateral bracing system of the truss from Portal 1.",
+      "image_description": "A view looking up through the overhead lateral and sway bracing of the green steel truss, as seen from the portal at Abutment 1. The complex network of riveted lattice members is set against a clear blue sky and the tops of surrounding trees.",
+      "edges": [
+        {
+          "connected_to": "f4300de4854cc9e2ba0718af91562976.png",
+          "description_of_connection": "opposite_of the bracing view from the other portal."
+        },
+        {
+          "connected_to": "f5d988a6ce402a2aeaf75f70e2ab618c.png",
+          "description_of_connection": "detail_view_of the superstructure above the deck."
+        }
+      ]
+    },
+    {
+      "image_name": "f0f1e21f943386ee97b18156bb80fe42.png",
+      "central_focus": "Paint scraping on bridge railing and view of unrepaired diagonal member.",
+      "image_description": "A view showing a section of the green-painted steel box beam bridge railing where the paint is scraped off, exposing the metal underneath. Below the railing, a concrete drain scupper is visible. In the background, the river and opposite bank are seen. The report notes this shows a diagonal with section loss that was not replaced during rehab.",
+      "edges": [
+        {
+          "connected_to": "eb561aef0c7cb362466f2c112b6ffb11.png",
+          "description_of_connection": "opposite_of a repaired diagonal member, showing a contrasting condition."
+        }
+      ]
+    },
+    {
+      "image_name": "634670475bef6487772762dda07a4586.png",
+      "central_focus": "Typical transverse cracking on the Span 2 concrete deck.",
+      "image_description": "A close-up of the grooved concrete deck surface of Span 2, showing a fine transverse hairline crack. The deck also has some dark stains from fluid drips. Faded double yellow lines are visible. The shadow of the truss is cast over the deck.",
+      "edges": [
+        {
+          "connected_to": "1ce834701256b155d833f7c394e6ec11.png",
+          "description_of_connection": "similar_to the cracking observed on Span 1."
+        },
+        {
+          "connected_to": "6691c979f50c7151ad26817bd53035d6.png",
+          "description_of_connection": "detail_view_of a condition on the deck."
+        }
+      ]
+    },
+    {
+      "image_name": "49f2d08b63e448e2418907657593334a.png",
+      "central_focus": "Close-up of the lattice-style portal bracing.",
+      "image_description": "A detailed upward-looking view of the green-painted, riveted lattice steel bracing at Portal 1. The intricate diamond pattern of the steel members is clearly visible against a bright blue sky.",
+      "edges": [
+        {
+          "connected_to": "87123f39d4696a68b275cf4c6a1f11d2.png",
+          "description_of_connection": "detail_view_of the construction of the portal bracing."
+        },
+        {
+          "connected_to": "80ce4fb2b287db4fd2edb499cfc70416.png",
+          "description_of_connection": "similar_to another detailed view of the portal bracing."
+        }
+      ]
+    },
+    {
+      "image_name": "1ce834701256b155d833f7c394e6ec11.png",
+      "central_focus": "Typical transverse cracking on the Span 1 concrete deck.",
+      "image_description": "A close-up view of the grooved concrete deck surface, likely on the approach span (Span 1), showing faded double yellow lines. The surface appears to have some fine cracking and tire marks.",
+      "edges": [
+        {
+          "connected_to": "634670475bef6487772762dda07a4586.png",
+          "description_of_connection": "similar_to the cracking observed on Span 2."
+        },
+        {
+          "connected_to": "f5d988a6ce402a2aeaf75f70e2ab618c.png",
+          "description_of_connection": "detail_view_of a condition on the deck."
+        }
+      ]
+    },
+    {
+      "image_name": "78cee67489e08d6686549d3a8ddaf8b1.png",
+      "central_focus": "Downstream view of Abutment 1.",
+      "image_description": "A view of the reinforced concrete Abutment 1 from the downstream side. The abutment supports the green-painted steel girders of the approach span (Span 1). The abutment wall is constructed of formed concrete blocks. The surrounding area is grassy with some weeds and shrubs.",
+      "edges": [
+        {
+          "connected_to": "e3d402281b5f24f8e69a1dcedd9415fc.png",
+          "description_of_connection": "overview_of the abutment shown from a different angle."
+        },
+        {
+          "connected_to": "fbae00cb58bee60ab9255cfcee5fd1d7.png",
+          "description_of_connection": "adjacent_to the approach span it supports."
+        }
+      ]
+    },
+    {
+      "image_name": "51d996840218e25c05ed024b4ce7fcf8.png",
+      "central_focus": "Upstream view of Pier 1 and the approach span.",
+      "image_description": "An upstream view showing the reinforced concrete Pier 1 and the steel girder approach span (Span 1) it supports. The pier is made of formed concrete blocks and is situated at the edge of the river. The grassy riverbank is in the foreground.",
+      "edges": [
+        {
+          "connected_to": "8a9285b22e59ccfcdcac774e110e06a7.png",
+          "description_of_connection": "opposite_of the downstream view of the same pier."
+        },
+        {
+          "connected_to": "edfee52d35ccd33ee29f2a125e6230be.png",
+          "description_of_connection": "overview_of the pier."
+        }
+      ]
+    },
+    {
+      "image_name": "67e58ee0ef2e6563511e384031c4a8c9.png",
+      "central_focus": "Upstream elevation of Span 2.",
+      "image_description": "An upstream elevation view of the green-painted steel thru-truss (Span 2) over the Missisquoi River. The truss is supported by concrete substructures at each end. The river flows in the foreground, and the background is filled with dense green trees.",
+      "edges": [
+        {
+          "connected_to": "dade4bdafc80b3c645e4e8c7bf10c16e.png",
+          "description_of_connection": "similar_to another upstream elevation view."
+        },
+        {
+          "connected_to": "e458b7388ed8be26beb0588c4046526e.png",
+          "description_of_connection": "similar_to another upstream elevation view from a slightly different angle."
+        }
+      ]
+    },
+    {
+      "image_name": "0f6de571e2c72eb2be94eb4bc0a69cba.png",
+      "central_focus": "Upstream view of Abutment 2.",
+      "image_description": "An upstream view of the reinforced concrete Abutment 2. The abutment footing is founded on exposed ledge rock at the river's edge. The abutment supports the end of the green steel truss. The report notes some light efflorescence and hairline cracks on this abutment. The river has a visible current.",
+      "edges": [
+        {
+          "connected_to": "306dbd379c681428fed9833203e5f6f5.png",
+          "description_of_connection": "overview_of the abutment shown from underneath."
+        },
+        {
+          "connected_to": "e4a9c27bffaf88005c33bf6e30a91ee8.png",
+          "description_of_connection": "supports the bearing shown in detail."
+        }
+      ]
+    },
+    {
+      "image_name": "dade4bdafc80b3c645e4e8c7bf10c16e.png",
+      "central_focus": "Upstream elevation of Span 2 from the riverbank.",
+      "image_description": "An upstream elevation view of the green steel thru-truss bridge (Span 2) from the riverbank. The bridge spans the Missisquoi River. The near bank is covered in lush green vegetation, and the far bank is lined with trees. The truss is supported by a concrete pier and abutment.",
+      "edges": [
+        {
+          "connected_to": "67e58ee0ef2e6563511e384031c4a8c9.png",
+          "description_of_connection": "similar_to another upstream elevation view."
+        },
+        {
+          "connected_to": "1758ab6a7dcd4499764ad792030b8590.png",
+          "description_of_connection": "overview_of the bottom chord visible from this angle."
+        }
+      ]
+    },
+    {
+      "image_name": "1758ab6a7dcd4499764ad792030b8590.png",
+      "central_focus": "Upstream view of the bottom chord of Span 2.",
+      "image_description": "A low-angle view from the upstream side, looking at the underside of the steel truss (Span 2). The bottom chord, floor beams, and lateral bracing are visible. The green-painted steel structure is contrasted against the background of trees and bright sky. The concrete pier is on the left, and the abutment is on the right.",
+      "edges": [
+        {
+          "connected_to": "6e698cbf49d1debe78a639f6e3165ed4.png",
+          "description_of_connection": "opposite_of the downstream view of the bottom chord."
+        },
+        {
+          "connected_to": "dade4bdafc80b3c645e4e8c7bf10c16e.png",
+          "description_of_connection": "detail_view_of the underside of the bridge shown in the elevation."
+        }
+      ]
+    },
+    {
+      "image_name": "306dbd379c681428fed9833203e5f6f5.png",
+      "central_focus": "View from under the bridge at Abutment 2.",
+      "image_description": "A view from the river looking up at the underside of the bridge at Abutment 2. The shadow of the superstructure falls on the water's surface. The concrete abutment is founded on rock, and the riverbank is lined with trees. This view confirms the abutment is out of the main channel flow.",
+      "edges": [
+        {
+          "connected_to": "0f6de571e2c72eb2be94eb4bc0a69cba.png",
+          "description_of_connection": "detail_view_of the base of the abutment."
+        },
+        {
+          "connected_to": "ced390bffe82af1882e53f4a0dac27f6.png",
+          "description_of_connection": "adjacent_to the underside of the truss."
+        }
+      ]
+    },
+    {
+      "image_name": "ced390bffe82af1882e53f4a0dac27f6.png",
+      "central_focus": "Underside of the truss superstructure at Abutment 2.",
+      "image_description": "A low-angle, upward-looking view of the underside of the green steel truss superstructure near Abutment 2. The network of floor beams and lateral bracing is visible, along with the stay-in-place metal deck forms between stringers. The bright sky and trees are visible in the background.",
+      "edges": [
+        {
+          "connected_to": "668c8d38c36ae0003a984e1be6184c93.png",
+          "description_of_connection": "similar_to another underside view."
+        },
+        {
+          "connected_to": "306dbd379c681428fed9833203e5f6f5.png",
+          "description_of_connection": "adjacent_to the abutment it is near."
+        }
+      ]
+    },
+    {
+      "image_name": "6e698cbf49d1debe78a639f6e3165ed4.png",
+      "central_focus": "Downstream view of the bottom chord of Span 2.",
+      "image_description": "A low-angle view from the downstream side, looking at the underside of the steel truss (Span 2). The bottom chord, floor beams, and lateral bracing system are visible. The green-painted steel contrasts with the bright foliage in the background. The report notes the bottom chords were recently replaced.",
+      "edges": [
+        {
+          "connected_to": "1758ab6a7dcd4499764ad792030b8590.png",
+          "description_of_connection": "opposite_of the upstream view of the bottom chord."
+        }
+      ]
+    },
+    {
+      "image_name": "a049db912568cfc0b974e6214e8face2.png",
+      "central_focus": "Underside of Span 2 at the pier.",
+      "image_description": "A view from below looking at the connection of the green steel truss (Span 2) to the concrete pier. The bottom chord, floor beam, and lateral bracing are visible. Stay-in-place metal deck forms are present. The pier cap is visible below the steel.",
+      "edges": [
+        {
+          "connected_to": "8a9285b22e59ccfcdcac774e110e06a7.png",
+          "description_of_connection": "detail_view_of the pier seen in the wider shot."
+        },
+        {
+          "connected_to": "ec8e544ed65c00f5266fb4643deaa3dc.png",
+          "description_of_connection": "adjacent_to the pier bearings for the approach span."
+        }
+      ]
+    },
+    {
+      "image_name": "8a9285b22e59ccfcdcac774e110e06a7.png",
+      "central_focus": "Downstream view of Pier 1.",
+      "image_description": "A downstream view of the reinforced concrete Pier 1. The pier is constructed of formed concrete blocks and shows some staining. It is situated in the river, with the grassy bank visible on the right. The pier supports both the approach span and the main truss span.",
+      "edges": [
+        {
+          "connected_to": "51d996840218e25c05ed024b4ce7fcf8.png",
+          "description_of_connection": "opposite_of the upstream view of the same pier."
+        },
+        {
+          "connected_to": "a049db912568cfc0b974e6214e8face2.png",
+          "description_of_connection": "supports the superstructure shown in the detail view."
+        }
+      ]
+    },
+    {
+      "image_name": "fbae00cb58bee60ab9255cfcee5fd1d7.png",
+      "central_focus": "Downstream elevation of the approach span (Span 1).",
+      "image_description": "A downstream elevation view of the steel girder approach span (Span 1). The green-painted girders are supported by the concrete Pier 1 on the left and Abutment 1 on the right. The area under the bridge is grassy and vegetated.",
+      "edges": [
+        {
+          "connected_to": "51d996840218e25c05ed024b4ce7fcf8.png",
+          "description_of_connection": "opposite_of the upstream view of the same span."
+        },
+        {
+          "connected_to": "78cee67489e08d6686549d3a8ddaf8b1.png",
+          "description_of_connection": "adjacent_to the abutment it is supported by."
+        }
+      ]
+    },
+    {
+      "image_name": "df094a780fb98cddec5be8ee0b8abd7f.png",
+      "central_focus": "Underside of the approach span (Span 1) at Abutment 1.",
+      "image_description": "A view from underneath the approach span (Span 1) at Abutment 1. The green-painted steel girders and the stay-in-place metal deck forms are visible. The concrete abutment backwall is visible at the far end.",
+      "edges": [
+        {
+          "connected_to": "534635f80065e921ba97e536757e2255.png",
+          "description_of_connection": "similar_to another view of the approach span underside."
+        },
+        {
+          "connected_to": "e3d402281b5f24f8e69a1dcedd9415fc.png",
+          "description_of_connection": "adjacent_to the abutment."
+        }
+      ]
+    },
+    {
+      "image_name": "e3d402281b5f24f8e69a1dcedd9415fc.png",
+      "central_focus": "View of the slope protection at Abutment 1.",
+      "image_description": "A view of the ground underneath the approach span at Abutment 1. The slope under the bridge is composed of soil, gravel, and sparse vegetation, appearing stable. The concrete abutment is visible in the background.",
+      "edges": [
+        {
+          "connected_to": "78cee67489e08d6686549d3a8ddaf8b1.png",
+          "description_of_connection": "detail_view_of the ground condition at the base of the abutment."
+        },
+        {
+          "connected_to": "4c60959a80b9433dbb94569c453527de.png",
+          "description_of_connection": "adjacent_to the abutment structure."
+        }
+      ]
+    },
+    {
+      "image_name": "ec8e544ed65c00f5266fb4643deaa3dc.png",
+      "central_focus": "Bearings for the approach span (Span 1) on Pier 1.",
+      "image_description": "A view from below showing the steel bearings for the approach span (Span 1) where they rest on the concrete pier cap of Pier 1. Shadows obscure some details, but the simple steel bearing plates are visible under the girder flanges.",
+      "edges": [
+        {
+          "connected_to": "51d996840218e25c05ed024b4ce7fcf8.png",
+          "description_of_connection": "detail_view_of the bearings on the pier."
+        },
+        {
+          "connected_to": "13e5c41597214734bb34d6047063dc82.png",
+          "description_of_connection": "adjacent_to the superstructure they support."
+        }
+      ]
+    },
+    {
+      "image_name": "13e5c41597214734bb34d6047063dc82.png",
+      "central_focus": "Underside of the approach span (Span 1) superstructure.",
+      "image_description": "A view from below looking up at the superstructure of the approach span (Span 1) facing the pier. The green-painted steel girders and stay-in-place metal deck forms are visible. One girder shows some bulging in the metal formwork, as noted in the report.",
+      "edges": [
+        {
+          "connected_to": "ec8e544ed65c00f5266fb4643deaa3dc.png",
+          "description_of_connection": "is_supported_by the bearings shown in the adjacent view."
+        },
+        {
+          "connected_to": "df094a780fb98cddec5be8ee0b8abd7f.png",
+          "description_of_connection": "continuation_of the underside of the span."
+        }
+      ]
+    },
+    {
+      "image_name": "edfee52d35ccd33ee29f2a125e6230be.png",
+      "central_focus": "View of Pier 1 from the riverbank.",
+      "image_description": "A view of the concrete Pier 1 from the riverbank, looking from under the approach span. The pier is made of formed concrete blocks and has shadows cast upon it by the superstructure. The river is visible on the right, and the grassy bank is in the foreground.",
+      "edges": [
+        {
+          "connected_to": "51d996840218e25c05ed024b4ce7fcf8.png",
+          "description_of_connection": "detail_view_of the pier from a different angle."
+        }
+      ]
+    },
+    {
+      "image_name": "f5d988a6ce402a2aeaf75f70e2ab618c.png",
+      "central_focus": "View of the bridge deck from Abutment 1.",
+      "image_description": "A perspective view looking down the length of the bridge from the approach at Abutment 1. The two-lane roadway with double yellow center lines leads into the green steel truss portal. The concrete deck has longitudinal texturing. The bridge railing is visible on both sides.",
+      "edges": [
+        {
+          "connected_to": "6691c979f50c7151ad26817bd53035d6.png",
+          "description_of_connection": "opposite_of the view from Abutment 2."
+        },
+        {
+          "connected_to": "1ce834701256b155d833f7c394e6ec11.png",
+          "description_of_connection": "overview_of the deck area where cracking is detailed."
+        },
+        {
+          "connected_to": "a31dbf4f6c63a109fb9c628507c8159f.png",
+          "description_of_connection": "continuation_of the roadway approach."
+        }
+      ]
+    },
+    {
+      "image_name": "a31dbf4f6c63a109fb9c628507c8159f.png",
+      "central_focus": "Upstream rail and roadway approach at Span 1.",
+      "image_description": "A view of the transition from the asphalt roadway to the concrete bridge deck at the Span 1 approach. The green-painted steel bridge railing is visible on the left, connecting to the approach guardrail system. The forested riverbank is in the background.",
+      "edges": [
+        {
+          "connected_to": "f5d988a6ce402a2aeaf75f70e2ab618c.png",
+          "description_of_connection": "detail_view_of the edge of the deck shown in the wider view."
+        },
+        {
+          "connected_to": "47ca7fd79ebbf99e7001f8d75cdbd234.png",
+          "description_of_connection": "opposite_of the downstream rail approach."
+        }
+      ]
+    },
+    {
+      "image_name": "e874e0c82c2add09b9ec5693f0517199.png",
+      "central_focus": "Upstream view towards the bridge and 'Entering Quebec' sign.",
+      "image_description": "An upstream view showing the side of the bridge and the approach guardrail. A green sign indicates 'ENTERING PROVINCE OF QUEBEC'. Another sign marks 'BRIDGE 3 VT-105A'. The steel truss is visible in the background, spanning the river. This indicates the bridge's location at an international border.",
+      "edges": [
+        {
+          "connected_to": "1f31f0a6612531b007df02c08e35ffd7.png",
+          "description_of_connection": "adjacent_to the roadway approach, providing locational context."
+        }
+      ]
+    },
+    {
+      "image_name": "47ca7fd79ebbf99e7001f8d75cdbd234.png",
+      "central_focus": "Downstream rail and roadway approach at Span 1.",
+      "image_description": "A view of the transition from the asphalt roadway to the concrete bridge deck on the downstream side of the Span 1 approach. The shadow of the photographer is cast on the road. The green-painted bridge rail is visible on the right. A yellow-and-black striped warning sign is on a post.",
+      "edges": [
+        {
+          "connected_to": "a31dbf4f6c63a109fb9c628507c8159f.png",
+          "description_of_connection": "opposite_of the upstream rail approach."
+        }
+      ]
+    },
+    {
+      "image_name": "1f31f0a6612531b007df02c08e35ffd7.png",
+      "central_focus": "Roadway approach at Abutment 1 with traffic control devices.",
+      "image_description": "A view of the roadway approaching Abutment 1, looking towards the bridge. The lane is narrowed by orange traffic cones and yellow flexible delineator posts. In the background, a 'ROAD CLOSED' sign and gate are visible, indicating a border crossing point. The entrance to the green truss bridge is visible beyond the cones.",
+      "edges": [
+        {
+          "connected_to": "a901bd82d4fa5d08b34c9474b76977db.png",
+          "description_of_connection": "opposite_of the approach at Abutment 2."
+        },
+        {
+          "connected_to": "e874e0c82c2add09b9ec5693f0517199.png",
+          "description_of_connection": "shows the context for the border crossing signs."
+        }
+      ]
+    },
+    {
+      "image_name": "5821dcaff570becb849a82191a288dfe.png",
+      "central_focus": "Repaired lower portion of a diagonal truss member on the upstream side.",
+      "image_description": "A view from the bridge deck showing a section of the green-painted steel truss. This is Diagonal #6 on the upstream side, where the report notes the lower portion has been replaced as part of a recent rehabilitation project. The connection is bolted. The river is visible below and the opposite roadway is visible through the truss.",
+      "edges": [
+        {
+          "connected_to": "eb561aef0c7cb362466f2c112b6ffb11.png",
+          "description_of_connection": "similar_to another repaired diagonal member."
+        },
+        {
+          "connected_to": "f0f1e21f943386ee97b18156bb80fe42.png",
+          "description_of_connection": "opposite_of an unrepaired diagonal, showing a contrasting condition."
+        }
+      ]
+    },
+    {
+      "image_name": "eb561aef0c7cb362466f2c112b6ffb11.png",
+      "central_focus": "Repaired lower portion of a diagonal truss member on the downstream side.",
+      "image_description": "A view from the bridge deck showing a section of the green-painted steel truss. This is Diagonal #1 on the downstream side, where the report notes the lower portion has been replaced with new steel plating and bolts during a recent rehabilitation. The river and far treeline are visible through the truss.",
+      "edges": [
+        {
+          "connected_to": "5821dcaff570becb849a82191a288dfe.png",
+          "description_of_connection": "similar_to another repaired diagonal member on the opposite truss."
+        },
+        {
+          "connected_to": "f0f1e21f943386ee97b18156bb80fe42.png",
+          "description_of_connection": "opposite_of an unrepaired diagonal, showing a contrasting condition."
+        }
+      ]
+    },
+    {
+      "image_name": "94d183b9a1004226b171802c10973293.png",
+      "central_focus": "Minor pitting on the top chord at Abutment 2.",
+      "image_description": "A close-up view of the green-painted steel top chord on the downstream end at Abutment 2. The report notes some small areas of light to minor previous pitting are present on the lower portions of the top chord near the ends, which is visible here under the paint.",
+      "edges": [
+        {
+          "connected_to": "71dd40e065c7c7815fb3c26a351d5e27.png",
+          "description_of_connection": "detail_view_of a condition on the truss."
+        }
+      ]
+    },
+    {
+      "image_name": "71dd40e065c7c7815fb3c26a351d5e27.png",
+      "central_focus": "Downstream truss as viewed from the deck at Abutment 2.",
+      "image_description": "A view along the downstream steel truss from the deck near Abutment 2. The green-painted truss members, railing, and concrete deck are visible under bright sunlight, which creates strong shadows. The river and trees are visible to the right.",
+      "edges": [
+        {
+          "connected_to": "38e0c2cb8cbec1ddfecde411784f9de8.png",
+          "description_of_connection": "opposite_of the upstream truss view from the same location."
+        },
+        {
+          "connected_to": "6fc98de1fd8f872d931e48981867f447.png",
+          "description_of_connection": "continuation_of the view along the same truss."
+        }
+      ]
+    },
+    {
+      "image_name": "38e0c2cb8cbec1ddfecde411784f9de8.png",
+      "central_focus": "Upstream truss as viewed from the deck at Abutment 2.",
+      "image_description": "A view along the upstream steel truss from the deck near Abutment 2. The green-painted truss, railing, and concrete deck with yellow lines are visible. The sun creates long shadows from the truss members. The river is visible on the left.",
+      "edges": [
+        {
+          "connected_to": "71dd40e065c7c7815fb3c26a351d5e27.png",
+          "description_of_connection": "opposite_of the downstream truss view from the same location."
+        },
+        {
+          "connected_to": "9186b1d49113a8b368ca049a2d784bf4.png",
+          "description_of_connection": "continuation_of the view along the same truss."
+        }
+      ]
+    },
+    {
+      "image_name": "9186b1d49113a8b368ca049a2d784bf4.png",
+      "central_focus": "Upstream truss as viewed from the deck at Abutment 1.",
+      "image_description": "A view along the upstream steel truss from the deck near Abutment 1. The green-painted truss members and railing are seen against a background of green trees. The concrete deck with its grooved surface is in the foreground.",
+      "edges": [
+        {
+          "connected_to": "6fc98de1fd8f872d931e48981867f447.png",
+          "description_of_connection": "opposite_of the downstream truss view from the same location."
+        },
+        {
+          "connected_to": "38e0c2cb8cbec1ddfecde411784f9de8.png",
+          "description_of_connection": "continuation_of the view along the same truss from the opposite end."
+        }
+      ]
+    },
+    {
+      "image_name": "6fc98de1fd8f872d931e48981867f447.png",
+      "central_focus": "Downstream truss as viewed from the deck at Abutment 1.",
+      "image_description": "A view along the downstream steel truss from the deck near Abutment 1. The green-painted truss and railing are illuminated by the sun, with trees showing autumn colors in the background. The concrete deck surface is in the foreground.",
+      "edges": [
+        {
+          "connected_to": "9186b1d49113a8b368ca049a2d784bf4.png",
+          "description_of_connection": "opposite_of the upstream truss view from the same location."
+        },
+        {
+          "connected_to": "71dd40e065c7c7815fb3c26a351d5e27.png",
+          "description_of_connection": "continuation_of the view along the same truss from the opposite end."
+        }
+      ]
+    },
+    {
+      "image_name": "63151b420905aa7f8b6c1be442dc2c2a.png",
+      "central_focus": "Full view of the truss and deck from Abutment 1.",
+      "image_description": "A wide view looking across the entire length of the bridge from the roadway at Abutment 1. The green steel thru-truss structure, concrete deck with yellow center lines, and railings are all visible. The view extends to the other end of the bridge.",
+      "edges": [
+        {
+          "connected_to": "f5d988a6ce402a2aeaf75f70e2ab618c.png",
+          "description_of_connection": "similar_to another view from the same abutment."
+        },
+        {
+          "connected_to": "1f31f0a6612531b007df02c08e35ffd7.png",
+          "description_of_connection": "overview_of the approach area."
+        }
+      ]
+    },
+    {
+      "image_name": "4c60959a80b9433dbb94569c453527de.png",
+      "central_focus": "View of Abutment 1 from under the approach span.",
+      "image_description": "A view of the reinforced concrete Abutment 1, seen from the ground below the approach span. The abutment consists of a formed concrete backwall and footing. The underside of a green steel girder is visible at the top. The ground is a mix of dirt and grass with some weeds.",
+      "edges": [
+        {
+          "connected_to": "78cee67489e08d6686549d3a8ddaf8b1.png",
+          "description_of_connection": "similar_to another view of the same abutment."
+        },
+        {
+          "connected_to": "e3d402281b5f24f8e69a1dcedd9415fc.png",
+          "description_of_connection": "adjacent_to the ground condition at its base."
+        }
+      ]
+    },
+    {
+      "image_name": "534635f80065e921ba97e536757e2255.png",
+      "central_focus": "Underside of the approach span (Span 1).",
+      "image_description": "A view from below looking up at the superstructure of the approach span. It shows the green-painted steel girders and the stay-in-place metal deck forms between them. The report notes this span has four painted steel beams in good condition.",
+      "edges": [
+        {
+          "connected_to": "df094a780fb98cddec5be8ee0b8abd7f.png",
+          "description_of_connection": "similar_to another view of the approach span underside."
+        },
+        {
+          "connected_to": "13e5c41597214734bb34d6047063dc82.png",
+          "description_of_connection": "similar_to another view of the approach span underside."
+        }
+      ]
+    },
+    {
+      "image_name": "fb799bbebb231d2c3d8ef0a8a3f5e0c7.png",
+      "central_focus": "Typical transition rail from bridge to approach.",
+      "image_description": "A view of the transition between the green-painted steel bridge railing and the galvanized steel approach guardrail. The connection point and supporting post are visible. Green vegetation is growing at the base of the post. The asphalt and concrete deck surfaces meet at a joint.",
+      "edges": [
+        {
+          "connected_to": "980f1ba92929dc8a03fce5f585697a9f.png",
+          "description_of_connection": "detail_view_of the system shown in a wider view."
+        }
+      ]
+    },
+    {
+      "image_name": "980f1ba92929dc8a03fce5f585697a9f.png",
+      "central_focus": "Double nested transition guardrail.",
+      "image_description": "A close-up of the approach guardrail system, showing the double-nested (or 'nested') W-beam rail section used for added stiffness at the transition to the bridge. The galvanized steel posts are supported by pressure-treated timber block-outs. The surrounding vegetation is green.",
+      "edges": [
+        {
+          "connected_to": "fb799bbebb231d2c3d8ef0a8a3f5e0c7.png",
+          "description_of_connection": "overview_of this detailed component."
+        }
+      ]
+    },
+    {
+      "image_name": "8c562389d8357baf743691b225449115.png",
+      "central_focus": "Downstream elevation of the truss from Abutment 2.",
+      "image_description": "A low-angle elevation view of the green steel truss from the downstream side near Abutment 2. The view shows the side profile of the truss, including the bottom chord, verticals, and diagonals. The report confirms the bottom chords were recently replaced. The background shows trees and a bright sky.",
+      "edges": [
+        {
+          "connected_to": "6e698cbf49d1debe78a639f6e3165ed4.png",
+          "description_of_connection": "similar_to another view of the downstream side."
+        }
+      ]
+    },
+    {
+      "image_name": "668c8d38c36ae0003a984e1be6184c93.png",
+      "central_focus": "Underside of the truss superstructure.",
+      "image_description": "A wide, upward-looking view of the underside of the green steel truss superstructure. The full width of the bridge is captured, showing the floor beams, stringers, and the X-shaped lateral bracing system. Stay-in-place metal forms are visible. Trees are visible on both sides.",
+      "edges": [
+        {
+          "connected_to": "ced390bffe82af1882e53f4a0dac27f6.png",
+          "description_of_connection": "similar_to another underside view, providing a wider context."
+        }
+      ]
+    },
+    {
+      "image_name": "4258271efd66868b9a14538b703c2017.png",
+      "central_focus": "Upstream elevation of the bridge from Abutment 2.",
+      "image_description": "An upstream elevation view of the bridge, taken from the bank near Abutment 2. The bank is protected with large riprap stones. The green steel truss and the approach guardrail are visible. The river flows in the foreground. A rainbow lens flare is present in the image.",
+      "edges": [
+        {
+          "connected_to": "e458b7388ed8be26beb0588c4046526e.png",
+          "description_of_connection": "similar_to other upstream elevation views from different vantage points."
+        }
+      ]
+    }
+  ]
+}

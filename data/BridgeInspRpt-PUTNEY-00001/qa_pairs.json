@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What evidence of water infiltration is visible on the deck, and how has it affected the steel superstructure beams below, contributing to the superstructure's condition rating?",
+    "answer": "The deck has widespread minor cracking with efflorescence. The steel superstructure shows resulting damage where all beam ends over pier 3 have isolated moderate to heavy rust scale/corrosion with deep pitting/section loss, and Beam 1 of span 4 over pier 3 has two 1\"- 1-1/2\" perforations. The Superstructure Condition Rating is 4.",
+    "reference_images": [
+      "350ce9d017b7a305f4590de2dd9728b8.png",
+      "22b5d739a07c480779216488cea73818.png",
+      "87b6aef5da077311e86251fc464d964e.png",
+      "3242d0c6b0aef998ff68eb336025cd82.png"
+    ],
+    "condition_rating": {
+      "score": 4
+    }
+  },
+  {
+    "question": "Describe the interaction between bearing failures and concrete spalling at Pier 3, and what is the overall bridge bearings condition rating?",
+    "answer": "At Pier 3, the span 4 beam 2 bearing has rotated and settled due to spalling in the bridge seat and is only partially supporting beam 2. Additionally, span 4 beam 5's bearing steel shim plates have rotated 50% or more out from under the beam. These failures contribute to a Bridge Bearings Condition Rating of 4.",
+    "reference_images": [
+      "82cc1eb0dbcd9f60943569ef148c6415.png",
+      "061e8d745ef8e96b0eed4089de25b655.png",
+      "dc645afbefc67dfe3211d5efbdfd10f0.png",
+      "b01f3f69f170f58f9ab340dac96b8f5f.png"
+    ],
+    "condition_rating": {
+      "score": 4
+    }
+  },
+  {
+    "question": "Considering the deterioration observed across all pier caps and columns, what is the overall assessment and condition rating for the substructure?",
+    "answer": "The pier caps have spalling with exposed rebar and areas of stirrups are rusted through. Pier columns exhibit issues such as isolated moderate spalling on Pier 1, isolated moderate cracking and spalling with exposed rebar on Pier 2, and isolated moderate spalling on Pier 3. The overall Substructure Condition Rating is a 5, which is for pier deterioration as both abutments are relatively good.",
+    "reference_images": [
+      "f9dbb9a9970311921cef5cdd9e429b12.png",
+      "f2b2c2f031b6ec9b44fb26628224fd52.png",
+      "632d2923a5f592fba1603c1513130831.png",
+      "ec66d17e1255c312d99e96675560bde4.png"
+    ],
+    "condition_rating": {
+      "score": 5
+    }
+  },
+  {
+    "question": "Considering the widespread issues on the wearing surface and the condition of the bridge joints, evaluate the bridge's overall surface water management and provide the bridge joints' condition rating.",
+    "answer": "The deck wearing surface has widespread minor wheel rutting, patched areas and widespread moderate depressions with widespread moderate cracking. The bridge joints are also compromised, with the Pier 1 joint having an isolated major crack through the center of the joint, full depth NB lane and the Pier 3 joint having widespread moderate cracking through the center. These deficiencies contribute to a Bridge Joints Condition Rating of 4.",
+    "reference_images": [
+      "afb93d48b8b9b34b52789cb845e8cf52.png",
+      "7fa8917093151755ba88eec873ec3cfc.png",
+      "315f07a65a2ab5a504654c719a11eb5a.png",
+      "9cd43142422b8ddcdbeef0e82a7f2e48.png"
+    ],
+    "condition_rating": {
+      "score": 4
+    }
+  },
+  {
+    "question": "Describe the damage to the bridge railing posts and how it relates to the condition of the railing transition at the southeast corner. What is the metal bridge railing's condition rating?",
+    "answer": "The 3 tube railing has aluminum posts with some cracked through along the base, and posts 10-11 from abutment 2 south side are sheared off. Nearby, the southeast concrete parapet has settled back approximately 9\" and rail still attached. This contributes to a Metal Bridge Railing condition rating of 4.",
+    "reference_images": [
+      "bc6fd2bfe20b9bb356a5c4c4829852f6.png",
+      "9b09eb0884337dc5c36edd032d693f24.png",
+      "cc6995950d0e92df3e89f18f225ea8e4.png",
+      "a6e5bb975a081b08aa3ff64179048b84.png"
+    ],
+    "condition_rating": {
+      "score": 4
+    }
+  },
+  {
+    "question": "Synthesizing observations from across all four spans, including spalling, staining, cracking, and settlement, what is the overall condition and rating of the concrete deck?",
+    "answer": "The deck exhibits widespread deterioration: Span 1 has widespread moderate rust staining, widespread minor cracking with efflorescence, and isolated moderate spalling with exposed rebar. Spans 2, 3, and 4 also show widespread staining and spalling, with some settlement noted in Span 4 over pier 3 south side. This results in a Deck Condition Rating of 4.",
+    "reference_images": [
+      "350ce9d017b7a305f4590de2dd9728b8.png",
+      "6a1f04ead86f298095f124417bff6643.png",
+      "22b5d739a07c480779216488cea73818.png",
+      "9dde53b9db3e94da8393049ac868abea.png"
+    ],
+    "condition_rating": {
+      "score": 4
+    }
+  },
+  {
+    "question": "What is the condition of the approach roadway elements, including the guardrail and parapet, and what is the overall approach alignment rating?",
+    "answer": "The approach has galvanized W beams with isolated minor bends and scrapes. The southeast corner concrete parapet at approach has rotated to south approximately 9\". There is also isolated minor settlement on the south side. The overall approach roadway alignment is rated as 7.",
+    "reference_images": [
+      "a1c635e51faccb9b426117278ed4704b.png",
+      "a6e5bb975a081b08aa3ff64179048b84.png",
+      "593436be21cd8a7a8451ba1090d9d986.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  }
+]

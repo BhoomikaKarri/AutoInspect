@@ -1,0 +1,169 @@
+[
+  {
+    "question": "Describe the condition of the reinforced concrete wing walls.",
+    "answer": "Reinforced concrete wing walls are in satisfactory condition having some areas of scaling along the outer portions with some light abrasion present along the wing faces.",
+    "reference_images": [
+      "ebc0f88c3e117589d92ea6581e1260d1.png",
+      "44e7331d876126434b84092350830bcf.png",
+      "56c69a50eaed92ae0e2c4feca4f0aeb1.png",
+      "3180a4abd84897d78fb1c7ea567d232a.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "What is the condition of the asphalt wearing surface on the deck?",
+    "answer": "Asphalt is in good condition being new since 2023 inspection.",
+    "reference_images": [
+      "7d05ec58bdc3662f889995969e3c4943.png",
+      "104ee15dcd83b0ba5f7eae3e859a80bb.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "What is the condition of the galvanized steel beam rail on the bridge, and what is its condition rating?",
+    "answer": "The galvanized steel beam rail is in satisfactory condition with a rating of 6, having some freckling rust throughout with a few small dents and scrapes along the face of rail. Heavier corrosion along the rail is present near the area of connection.",
+    "reference_images": [
+      "104ee15dcd83b0ba5f7eae3e859a80bb.png",
+      "d30ce353c6b34606e4aa8226ecf7dce1.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  },
+  {
+    "question": "Based on the observed honeycombing and exposed steel in the deck soffit, and the heavy spalling with exposed rebar on the T-beams, what is the overall moisture-related damage assessment for the underside of the bridge?",
+    "answer": "Reinforced concrete deck is in okay condition having areas of honeycombing scattered throughout the deck soffit exposing course aggregate and steel reinforcing in multiple locations. Beam #3 and #5 have heavy spalling along the lower portions of beams exposing the first and second layer of longitudinal steel reinforcing that has minor to moderate rust scaling and pitting present.",
+    "reference_images": [
+      "943f9f700bc64218a5cbe08bdec30c73.png",
+      "e04060dd7f1d44f1d60c97477b1a54df.png",
+      "9730d23aee88a2c7c14ea7fe33728acd.png",
+      "18637fb77b8a73aa4cc98c69c0a7edcf.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "Compare the condition of the main bridge railing with the condition of the railing transitions at the four corners, noting any corrosion or damage. What is the condition rating for the bridge railing transitions?",
+    "answer": "The bridge railing transitions have a condition rating of 6. The main galvanized steel beam rail has some freckling rust throughout with a few small dents and scrapes, and heavier corrosion near connection areas. All four (4) corners transition into galvanized steel beam rail with heavy duty timber posts that have typical weathering and cracking. The transition rail also has freckling surface corrosion throughout.",
+    "reference_images": [
+      "104ee15dcd83b0ba5f7eae3e859a80bb.png",
+      "d30ce353c6b34606e4aa8226ecf7dce1.png",
+      "f182ef8e11e46d26d2b78593b5e76865.png",
+      "9f2a6f21cac872edfeca8e916a3fd322.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  },
+  {
+    "question": "Explain how the river's flow direction leads to scour at Abutment #2, and describe the extent of this scour, including undermining depths and variations. What is the scour condition rating?",
+    "answer": "The scour condition has a rating of 3. The North Branch of the Wells River flows at a sharp angle into the structure, directed at abutment #2. Consequently, Abutment #2 has areas of moderate to heavy scour along the footing. The depth measures ~3'-0\" below beam #1, ~2'-10\" below beam #2, ~3'-2\" below beam #4 and ~2'-10\" below beam #5. The undermining varies from ~1'-0\" below beam #1 to ~4'-0\" to beam #3 and stays at ~4'-0\" until beam #5.",
+    "reference_images": [
+      "bc865eb5cf62b62921c0725383dea948.png",
+      "f68dad150642e4f00db8e64741175d92.png",
+      "1125194c4102947d69804ad31df60019.png",
+      "eba55ec3565c1d25e90fd4b89c08cc11.png",
+      "0acb0c67670a667c4f887e4910eb27d2.png"
+    ],
+    "condition_rating": {
+      "score": 3
+    }
+  },
+  {
+    "question": "Describe how the scour at Abutment #2 has led to the footing being exposed and detail the condition of the exposed footing, including abrasion and material loss.",
+    "answer": "Abutment #2 has areas of moderate to heavy scour along the footing due to direction of channel which has resulted in the entire length of the footing being exposed. The exposed footing #2 has minor abrasion throughout. The south end of footing #2 has heavier scaling / abrasion present at end of wingwall with as much as ~2 to 3\" of loss of material in areas.",
+    "reference_images": [
+      "f68dad150642e4f00db8e64741175d92.png",
+      "47cb80318cb9235298acf7c1113505dc.png",
+      "e0310bedb8a6a8c9004a11f732e6c597.png",
+      "a9206321a74c59587c7e070e0607099d.png"
+    ],
+    "condition_rating": null
+  },
+  {
+    "question": "Explain the relationship between the differing levels of channel protection at each abutment and the resulting scour conditions. What is the condition rating for the channel protection?",
+    "answer": "The channel protection has a condition rating of 4. Abutment #1 has small build up of silt in front for protection while abutment #2 has little to no protection in front due to direction of channel flow. Due to the lack of protection in front of abutment #2 there is severe undermining and scouring present. Abutment #1 has small amount of localized scour along the upstream end.",
+    "reference_images": [
+      "f4a8fd2dd2cd89cb25c3c42d4128d0de.png",
+      "79c4d44bae1dfc63b1fb9446edab2d6d.png",
+      "f68dad150642e4f00db8e64741175d92.png",
+      "2384a9a1e636d21da911278582cdc238.png"
+    ],
+    "condition_rating": {
+      "score": 4
+    }
+  },
+  {
+    "question": "Based on the observed abrasion/scaling along the channel flow line, cracking and efflorescence on the stems, and the extensive undermining of the footing at Abutment #2, what is the overall assessment and condition rating for the substructure?",
+    "answer": "The substructure has a condition rating of 6. Reinforced concrete abutment #1 and #2 both have areas of minor to moderate abrasion / scaling along the channel flow line. Abutment #1 has various cracking with light efflorescence leakage, while Abutment #2 has a small vertical crack and light efflorescence leakage along a cold joint. Abutment #2 also has heavy undermining below the spread footing with the entire length of the footing exposed.",
+    "reference_images": [
+      "f7d233b0883e72f4c9a1f23b87bc0f9c.png",
+      "43fb83ad765bf05eaa26dfba2ebc292a.png",
+      "f68dad150642e4f00db8e64741175d92.png",
+      "ed8e4a1b79ea59b2e26d77a4bdf43529.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  },
+  {
+    "question": "Compare the extent of deterioration, specifically heavy spalling and the number of severed stirrups, on Beams #3 and #5 versus the other beams. What is the superstructure's overall condition rating?",
+    "answer": "The five reinforced concrete t-beams are in fair condition, earning a rating of 5. Beam #3 and #5 have heavy spalling along the lower portions of beams exposing the first and second layer of longitudinal steel reinforcing. Beam #3 has six (6) severed stirrups at midspan and another four (4) in consecutive order at the abutment #2 end. Beam #5 has three (3) consecutive severed stirrups at abutment #2, one (1) at midspan and four (4) consecutive severed stirrups at abutment #1. In comparison, Beam #2 has four (4) consecutive stirrups severed at the abutment #2 end, Beam #4 has three (3) severed stirrups at the abutment #2 end, and Beam #1 has no stirrups severed.",
+    "reference_images": [
+      "9ecf0d5e411177a5ea15f3daeec59c23.png",
+      "b6779b1f7c822b5b437fa10b155b7ea9.png",
+      "9730d23aee88a2c7c14ea7fe33728acd.png",
+      "ca4ebef7f1c611c8c6f39c080a5efbb6.png",
+      "74f9a168509556b4da013c5e9ab0d872.png"
+    ],
+    "condition_rating": {
+      "score": 5
+    }
+  },
+  {
+    "question": "What evidence of water damage, such as saturation and staining, is present on the deck soffit, and how does this potentially relate to the spalling and exposed steel observed at the beam ends over both abutments? What is the deck's condition rating?",
+    "answer": "The reinforced concrete deck is in okay condition with a rating of 6, having areas of honeycombing and multiple small spalls scattered throughout the bays. Bay #3 has areas of saturation near midspan with some staining present. Every beam has spalling at the beam ends over both abutments along the lower portions with steel reinforcing exposed having some rust scaling and stirrups thinning and some severed.",
+    "reference_images": [
+      "943f9f700bc64218a5cbe08bdec30c73.png",
+      "e04060dd7f1d44f1d60c97477b1a54df.png",
+      "b14bfdb8eb0607a529765b23a26cff94.png",
+      "5070ab1b315e5dc9cafc02b88fb02aa7.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  },
+  {
+    "question": "Describe how the river's flow impacts the conditions at Abutment #1 versus Abutment #2, noting scour and protection differences. What is the channel's condition rating?",
+    "answer": "The North Branch of the Wells River flows at a sharp angle into structure directed at abutment #2, resulting in a channel condition rating of 3. Abutment #1 has small build up of silt in front for protection and a small amount of localized scour along the upstream end. In contrast, abutment #2 has little to no protection in front due to direction of channel flow, and as a result, there is severe undermining and scouring present.",
+    "reference_images": [
+      "bc865eb5cf62b62921c0725383dea948.png",
+      "2384a9a1e636d21da911278582cdc238.png",
+      "f4a8fd2dd2cd89cb25c3c42d4128d0de.png",
+      "f68dad150642e4f00db8e64741175d92.png"
+    ],
+    "condition_rating": {
+      "score": 3
+    }
+  },
+  {
+    "question": "Describe the condition and provide the numerical rating for the concrete curbing, noting any specific surface wear or cracking observed.",
+    "answer": "The deck curb is rated 7, Good, described as being \"in fairly good condition having some hairline cracking present\" with the \"Front roadside face\" having \"some areas of concrete scaling / abrasion wear.\"",
+    "reference_images": [
+      "e0310bedb8a6a8c9004a11f732e6c597.png"
+    ],
+    "condition_rating": {
+      "score": 7
+    }
+  },
+  {
+    "question": "Based on the presence of honeycombing, staining, and scaling, what is the condition rating for the reinforced concrete backwalls (abutment end walls)?",
+    "answer": "The abutment end walls are assigned a rating of 6, Satisfactory, as the \"Typical reinforced concrete t-beam backwalls are in okay condition having small areas of honeycombing with staining and scaling scattered throughout.\"",
+    "reference_images": [
+      "f68dad150642e4f00db8e64741175d92.png",
+      "b6779b1f7c822b5b437fa10b155b7ea9.png"
+    ],
+    "condition_rating": {
+      "score": 6
+    }
+  }
+]

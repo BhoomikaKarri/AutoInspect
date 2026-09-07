@@ -1,0 +1,1081 @@
+{
+  "nodes": [
+    {
+      "image_name": "5a480d5a977fa7112ab6282ccde6c03f.png",
+      "central_focus": "Crushing of Steel Open Girder (Beam 3) over Pier 1, Span 1",
+      "image_description": "Close-up of a severely corroded and crushed steel beam end (Beam 3) resting on a concrete pier cap (Pier 1). The lower flange and web of the beam show significant section loss and deformation. Flakes of rust and deteriorated concrete are visible on the pier cap, indicating the severity of the crushing. This condition is described as isolated major crushing.",
+      "edges": [
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "is a detail view contained_in Span 1"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component supported_by Pier 1"
+        },
+        {
+          "connected_to": "38c4cd121f1e36ea58b29f4381dd433f.png",
+          "description_of_connection": "shows a condition similar_to the crushing on Beam 4"
+        },
+        {
+          "connected_to": "89e62a8460c5e0a7fcf89d8091b1262d.png",
+          "description_of_connection": "shows a condition similar_to the crushing on Beam 2"
+        },
+        {
+          "connected_to": "315f07a65a2ab5a504654c719a11eb5a.png",
+          "description_of_connection": "is a defect likely affected_by leakage from the Pier 1 joint"
+        }
+      ]
+    },
+    {
+      "image_name": "38c4cd121f1e36ea58b29f4381dd433f.png",
+      "central_focus": "Crushing of Steel Open Girder (Beam 4) over Pier 1, Span 1",
+      "image_description": "Close-up detail of a corroded anchor bolt and the bearing area for Beam 4 on Pier 1. The beam's lower flange and web exhibit widespread corrosion and section loss. A flashlight illuminates the area, highlighting the texture of the rust and peeling paint. This condition is noted as isolated major crushing.",
+      "edges": [
+        {
+          "connected_to": "5a480d5a977fa7112ab6282ccde6c03f.png",
+          "description_of_connection": "shows a condition similar_to the crushing on Beam 3"
+        },
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "is a detail view contained_in Span 1"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component supported_by Pier 1"
+        }
+      ]
+    },
+    {
+      "image_name": "89e62a8460c5e0a7fcf89d8091b1262d.png",
+      "central_focus": "Crushing of Steel Open Girder (Beam 2) over Pier 1, Span 1",
+      "image_description": "A view of the bearing area for Beam 2 over Pier 1, showing significant corrosion and crushing. The steel beam's lower flange and web are heavily rusted with peeling green paint. An anchor bolt is visible, also heavily corroded. This is identified as isolated major crushing.",
+      "edges": [
+        {
+          "connected_to": "5a480d5a977fa7112ab6282ccde6c03f.png",
+          "description_of_connection": "shows a condition similar_to the crushing on Beam 3"
+        },
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "is a detail view contained_in Span 1"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component supported_by Pier 1"
+        }
+      ]
+    },
+    {
+      "image_name": "27b8e13c47b86c54dda3ffa539472ec3.png",
+      "central_focus": "Timber Cribbing Shims at Pier 3, Bay 1",
+      "image_description": "View of temporary timber cribbing (shims) placed on a concrete pier cap. The wooden blocks are stacked to provide support. The report notes that this timber cribbing in bay 1 is no longer supporting between beams 1 and 2 as the bottom boards are rotted and need to be replaced.",
+      "edges": [
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of a component at Pier 3"
+        },
+        {
+          "connected_to": "1abb96aeac329fce69f616287b838d7a.png",
+          "description_of_connection": "is a detail of an element adjacent_to the Pier 3 south end"
+        }
+      ]
+    },
+    {
+      "image_name": "2874f7918cff53792b925213b87cfee8.png",
+      "central_focus": "Steel Beam Bearing (Beam 5) over Pier 3",
+      "image_description": "A view of the bearing for Beam 5 in Span 4, located over Pier 3. The bearing has rotated out and is mostly off the masonry plate. It is noted that the bearing needs to be placed back and anchored, and temporary support is required. Spalling is visible on the concrete pier cap corner.",
+      "edges": [
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of a component at Pier 3"
+        },
+        {
+          "connected_to": "dc645afbefc67dfe3211d5efbdfd10f0.png",
+          "description_of_connection": "is an alternate view of the same Bearing 5 over Pier 3"
+        }
+      ]
+    },
+    {
+      "image_name": "87b6aef5da077311e86251fc464d964e.png",
+      "central_focus": "Steel Beam End (Beam 1) over Pier 2",
+      "image_description": "View of the end of steel Beam 1 over Pier 2, showing heavy rust scale, deep pitting, and heavy section loss. The area around the old trough supporting angle brackets shows exposed black steel with visible minor deflection. Perforations are expected to develop soon.",
+      "edges": [
+        {
+          "connected_to": "6a1f04ead86f298095f124417bff6643.png",
+          "description_of_connection": "is a detail view contained_in Span 2"
+        },
+        {
+          "connected_to": "f2b2c2f031b6ec9b44fb26628224fd52.png",
+          "description_of_connection": "is a detail view of a component at Pier 2"
+        }
+      ]
+    },
+    {
+      "image_name": "3242d0c6b0aef998ff68eb336025cd82.png",
+      "central_focus": "Steel Beam End (Beam 1) at Pier 3, Span 4",
+      "image_description": "A close-up view of the steel beam end for Beam 1 in Span 4, located over Pier 3. The image shows two perforations just beyond the bearing area. The beam exhibits isolated moderate to heavy rust scale and corrosion with deep pitting and section loss. A hammer is visible for scale.",
+      "edges": [
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a detail view contained_in Span 4"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of a component at Pier 3"
+        }
+      ]
+    },
+    {
+      "image_name": "82cc1eb0dbcd9f60943569ef148c6415.png",
+      "central_focus": "Steel Beam Bearing (Beam 2) at Pier 3, Span 4",
+      "image_description": "Close view of the bearing for Beam 2 in Span 4, which has rotated and settled due to spalling in the concrete bridge seat. The bearing is only partially supporting the beam. Heavy rust scale and pitting are visible on the bearing assembly.",
+      "edges": [
+        {
+          "connected_to": "061e8d745ef8e96b0eed4089de25b655.png",
+          "description_of_connection": "is an alternate view of the same Beam 2 bearing"
+        },
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a detail view contained_in Span 4"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of a component at Pier 3"
+        }
+      ]
+    },
+    {
+      "image_name": "061e8d745ef8e96b0eed4089de25b655.png",
+      "central_focus": "Steel Beam Bearing (Beam 2) at Pier 3, Span 4, alternate view",
+      "image_description": "An alternate view of the rotated and settled bearing for Beam 2 in Span 4 over Pier 3. The image shows the spalling on the concrete bridge seat and the partial support condition. The steel components show heavy rust scale and pitting.",
+      "edges": [
+        {
+          "connected_to": "82cc1eb0dbcd9f60943569ef148c6415.png",
+          "description_of_connection": "is an alternate view of the same Beam 2 bearing"
+        },
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a detail view contained_in Span 4"
+        }
+      ]
+    },
+    {
+      "image_name": "4d051331725065980a17742228b8faed.png",
+      "central_focus": "Steel Beam Bearing (Beam 3) at Pier 3, Span 4",
+      "image_description": "View of the bearing for Beam 3 in Span 4 over Pier 3. The components, including shimmed plates and U-bracket connections, exhibit heavy rust scale, pitting, and minor to moderate section loss. The paint on the girder web above is peeling and bubbling.",
+      "edges": [
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a detail view contained_in Span 4"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of a component at Pier 3"
+        },
+        {
+          "connected_to": "3f51a8b7b93282d1dfaaa34fa2fb775d.png",
+          "description_of_connection": "is adjacent_to the bearing for Beam 4"
+        }
+      ]
+    },
+    {
+      "image_name": "3f51a8b7b93282d1dfaaa34fa2fb775d.png",
+      "central_focus": "Steel Beam Bearing (Beam 4) at Pier 3, Span 4",
+      "image_description": "A view of the bearing for Beam 4 in Span 4 over Pier 3. The bearing assembly shows heavy rust scale, pitting, and section loss. The concrete pier cap has staining and some spalling near the bearing seat.",
+      "edges": [
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a detail view contained_in Span 4"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of a component at Pier 3"
+        },
+        {
+          "connected_to": "dc645afbefc67dfe3211d5efbdfd10f0.png",
+          "description_of_connection": "is adjacent_to the bearing for Beam 5"
+        }
+      ]
+    },
+    {
+      "image_name": "dc645afbefc67dfe3211d5efbdfd10f0.png",
+      "central_focus": "Steel Beam Bearing (Beam 5) at Pier 3, Span 4",
+      "image_description": "View of the steel shim plates for the bearing of Beam 5, Span 4, over Pier 3. The plates have rotated significantly and are only partially resting under the beam's sole plate. The concrete pier cap shows spalling and exposed rebar.",
+      "edges": [
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a detail view contained_in Span 4"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of a component at Pier 3"
+        },
+        {
+          "connected_to": "2874f7918cff53792b925213b87cfee8.png",
+          "description_of_connection": "is an alternate view of the same Bearing 5 over Pier 3"
+        }
+      ]
+    },
+    {
+      "image_name": "808e2c14c5c54d7edebfeb9f1035064b.png",
+      "central_focus": "Reinforced Concrete Pier Cap at Pier 3 North End",
+      "image_description": "View of the north end of the concrete pier cap at Pier 3. The cap shows a large area of moderate spalling with exposed rebar. The rebar appears rusted. The concrete column below has some vertical cracking and surface deterioration.",
+      "edges": [
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of Pier 3"
+        },
+        {
+          "connected_to": "86ef5aea34a36b4ff3b8d1cbfdc0f6df.png",
+          "description_of_connection": "is visible in the North Profile"
+        },
+        {
+          "connected_to": "9f9c562f334c5a60f58d7389c55bc9b8.png",
+          "description_of_connection": "is the opposite_of the Pier 3 south end"
+        }
+      ]
+    },
+    {
+      "image_name": "9f9c562f334c5a60f58d7389c55bc9b8.png",
+      "central_focus": "Reinforced Concrete Pier Cap at Pier 3 South End",
+      "image_description": "View of the south end of the concrete pier cap at Pier 3. The cap shows some moderate spalling with exposed rebar and isolated moderate cracking under several beams. An inspector in a safety vest is visible below.",
+      "edges": [
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of Pier 3"
+        },
+        {
+          "connected_to": "e97bbca28ba27251fc4b5bb986bd4387.png",
+          "description_of_connection": "is visible in the South Profile"
+        },
+        {
+          "connected_to": "808e2c14c5c54d7edebfeb9f1035064b.png",
+          "description_of_connection": "is the opposite_of the Pier 3 north end"
+        },
+        {
+          "connected_to": "1abb96aeac329fce69f616287b838d7a.png",
+          "description_of_connection": "is an alternate view of the Pier 3 south end"
+        }
+      ]
+    },
+    {
+      "image_name": "1abb96aeac329fce69f616287b838d7a.png",
+      "central_focus": "Reinforced Concrete Pier Cap and Bearings at Pier 3 South End",
+      "image_description": "An alternate view of the south end of Pier 3, showing the concrete pier cap and multiple bearing assemblies. The cap has some spalling and staining. The bearings, some of which include timber shims, show signs of corrosion.",
+      "edges": [
+        {
+          "connected_to": "9f9c562f334c5a60f58d7389c55bc9b8.png",
+          "description_of_connection": "is an alternate view of the Pier 3 south end"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a detail view of Pier 3"
+        }
+      ]
+    },
+    {
+      "image_name": "9dde53b9db3e94da8393049ac868abea.png",
+      "central_focus": "Underside of Reinforced Concrete Deck at Span 4",
+      "image_description": "View of the underside of the reinforced concrete deck slab in Span 4, supported by green-painted steel girders. The concrete shows widespread moderate rust staining and some moderate spalling with exposed rebar in bays 2-3. There is widespread minor efflorescence.",
+      "edges": [
+        {
+          "connected_to": "22b5d739a07c480779216488cea73818.png",
+          "description_of_connection": "is a continuation_of Span 3"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a component supported_by Pier 3"
+        },
+        {
+          "connected_to": "f95ae0c2d9d69267c4d4dfb4f9496828.png",
+          "description_of_connection": "is a component supported_by Abutment 2"
+        },
+        {
+          "connected_to": "93c75ce331ea66d227b3779ff38983be.png",
+          "description_of_connection": "is the underside view of the Wearing surface span 4"
+        }
+      ]
+    },
+    {
+      "image_name": "f95ae0c2d9d69267c4d4dfb4f9496828.png",
+      "central_focus": "Reinforced Concrete Abutment 2",
+      "image_description": "View of the reinforced concrete Abutment 2, showing the abutment seat supporting the green-painted steel girders. The ground below is covered in riprap. The abutment is described as relatively good, with a minor vertical crack and efflorescence noted under one beam.",
+      "edges": [
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "supports Span 4"
+        },
+        {
+          "connected_to": "a1c635e51faccb9b426117278ed4704b.png",
+          "description_of_connection": "is the substructure for the Abutment 2 approach"
+        }
+      ]
+    },
+    {
+      "image_name": "86ef5aea34a36b4ff3b8d1cbfdc0f6df.png",
+      "central_focus": "North Profile of Bridge over Highway",
+      "image_description": "A wide-angle profile view of the north side of the bridge as it spans a multi-lane highway. The image shows the bridge's superstructure, piers, and abutments. Grassy slopes are on either side of the highway. A road sign for Putney is visible.",
+      "edges": [
+        {
+          "connected_to": "e97bbca28ba27251fc4b5bb986bd4387.png",
+          "description_of_connection": "is the opposite_of the South Profile"
+        },
+        {
+          "connected_to": "0eecb200fb199095c05286f4dc236281.png",
+          "description_of_connection": "is an overview_of the North Fascia"
+        },
+        {
+          "connected_to": "6a6c8dfef94c872e5678fc847f8eeea9.png",
+          "description_of_connection": "is an overview_of Pier 1 North"
+        },
+        {
+          "connected_to": "f2b2c2f031b6ec9b44fb26628224fd52.png",
+          "description_of_connection": "is an overview_of Pier 2"
+        },
+        {
+          "connected_to": "808e2c14c5c54d7edebfeb9f1035064b.png",
+          "description_of_connection": "is an overview_of Pier 3 North End"
+        }
+      ]
+    },
+    {
+      "image_name": "e97bbca28ba27251fc4b5bb986bd4387.png",
+      "central_focus": "South Profile of Bridge over Highway",
+      "image_description": "A wide-angle profile view of the south side of the bridge from the shoulder of the highway below. The image captures the full length of the bridge, showing all piers and abutments against a clear blue sky. The grassy slopes are visible.",
+      "edges": [
+        {
+          "connected_to": "86ef5aea34a36b4ff3b8d1cbfdc0f6df.png",
+          "description_of_connection": "is the opposite_of the North Profile"
+        },
+        {
+          "connected_to": "86dd3a0dad37b7f8a9ed0bbfc49ec68f.png",
+          "description_of_connection": "is an overview_of the South Fascia"
+        },
+        {
+          "connected_to": "f9dbb9a9970311921cef5cdd9e429b12.png",
+          "description_of_connection": "is an overview_of Pier 1 South"
+        },
+        {
+          "connected_to": "9f9c562f334c5a60f58d7389c55bc9b8.png",
+          "description_of_connection": "is an overview_of Pier 3 South End"
+        }
+      ]
+    },
+    {
+      "image_name": "ec66d17e1255c312d99e96675560bde4.png",
+      "central_focus": "Reinforced Concrete Pier 3",
+      "image_description": "View of the reinforced concrete Pier 3 from the side, showing the pier cap supported by four circular columns. The concrete columns have isolated moderate spalling and delamination. The pier cap also shows some moderate spalling with exposed rebar. The ground below the pier is covered in riprap.",
+      "edges": [
+        {
+          "connected_to": "808e2c14c5c54d7edebfeb9f1035064b.png",
+          "description_of_connection": "contains the Pier 3 north end"
+        },
+        {
+          "connected_to": "9f9c562f334c5a60f58d7389c55bc9b8.png",
+          "description_of_connection": "contains the Pier 3 south end"
+        },
+        {
+          "connected_to": "22b5d739a07c480779216488cea73818.png",
+          "description_of_connection": "supports Span 3"
+        },
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "supports Span 4"
+        }
+      ]
+    },
+    {
+      "image_name": "22b5d739a07c480779216488cea73818.png",
+      "central_focus": "Underside of Reinforced Concrete Deck at Span 3",
+      "image_description": "View from underneath the bridge looking at the concrete deck slab and steel girders of Span 3. The deck shows widespread moderate rust staining and isolated moderate spalling in bays 2-3-4. A patched area with wooden formwork is visible, part of a containment area to catch debris.",
+      "edges": [
+        {
+          "connected_to": "6a1f04ead86f298095f124417bff6643.png",
+          "description_of_connection": "is a continuation_of Span 2"
+        },
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a continuation_of Span 4"
+        },
+        {
+          "connected_to": "f2b2c2f031b6ec9b44fb26628224fd52.png",
+          "description_of_connection": "is a component supported_by Pier 2"
+        },
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is a component supported_by Pier 3"
+        }
+      ]
+    },
+    {
+      "image_name": "632d2923a5f592fba1603c1513130831.png",
+      "central_focus": "Reinforced Concrete Pier 1",
+      "image_description": "An overview of the reinforced concrete Pier 1, with a person in a safety vest standing below for scale. The pier consists of a cap supported by four round columns. The columns exhibit isolated minor to moderate spalling. The pier cap has moderate spalling with exposed rebar on both sides.",
+      "edges": [
+        {
+          "connected_to": "6a6c8dfef94c872e5678fc847f8eeea9.png",
+          "description_of_connection": "contains the Pier 1 north end"
+        },
+        {
+          "connected_to": "f9dbb9a9970311921cef5cdd9e429b12.png",
+          "description_of_connection": "contains the Pier 1 south end"
+        },
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "supports Span 1"
+        },
+        {
+          "connected_to": "6a1f04ead86f298095f124417bff6643.png",
+          "description_of_connection": "supports Span 2"
+        },
+        {
+          "connected_to": "5a480d5a977fa7112ab6282ccde6c03f.png",
+          "description_of_connection": "supports a beam with major crushing"
+        }
+      ]
+    },
+    {
+      "image_name": "f2b2c2f031b6ec9b44fb26628224fd52.png",
+      "central_focus": "Reinforced Concrete Pier 2",
+      "image_description": "View of the reinforced concrete Pier 2, showing the pier cap and columns. The pier cap has moderate spalling with exposed rebar. The columns exhibit isolated moderate cracking and spalling, with some exposed rebar. A highway guardrail is visible in the foreground.",
+      "edges": [
+        {
+          "connected_to": "6a1f04ead86f298095f124417bff6643.png",
+          "description_of_connection": "supports Span 2"
+        },
+        {
+          "connected_to": "22b5d739a07c480779216488cea73818.png",
+          "description_of_connection": "supports Span 3"
+        },
+        {
+          "connected_to": "86ef5aea34a36b4ff3b8d1cbfdc0f6df.png",
+          "description_of_connection": "is visible in the North Profile"
+        }
+      ]
+    },
+    {
+      "image_name": "6a1f04ead86f298095f124417bff6643.png",
+      "central_focus": "Underside of Reinforced Concrete Deck at Span 2",
+      "image_description": "View of the underside of the concrete deck slab in Span 2, showing widespread moderate rust staining. Bays 2-3-4 have some moderate spalling with exposed rebar and some minor cracking. Bay 1 has an area of isolated moderate spalling.",
+      "edges": [
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "is a continuation_of Span 1"
+        },
+        {
+          "connected_to": "22b5d739a07c480779216488cea73818.png",
+          "description_of_connection": "is a continuation_of Span 3"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a component supported_by Pier 1"
+        },
+        {
+          "connected_to": "f2b2c2f031b6ec9b44fb26628224fd52.png",
+          "description_of_connection": "is a component supported_by Pier 2"
+        }
+      ]
+    },
+    {
+      "image_name": "350ce9d017b7a305f4590de2dd9728b8.png",
+      "central_focus": "Underside of Reinforced Concrete Deck at Span 1",
+      "image_description": "View from below the bridge at Span 1, showing the concrete deck and steel girders supported by a concrete abutment. The deck has widespread moderate rust staining, widespread minor cracking with efflorescence, and an area of isolated moderate spalling with exposed rebar in bay 1. A temporary wooden support is visible.",
+      "edges": [
+        {
+          "connected_to": "ccc320ef6fcfda0be9f6784db9d72413.png",
+          "description_of_connection": "is a component supported_by Abutment 1"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a component supported_by Pier 1"
+        },
+        {
+          "connected_to": "6a1f04ead86f298095f124417bff6643.png",
+          "description_of_connection": "is a continuation_of Span 2"
+        },
+        {
+          "connected_to": "5a480d5a977fa7112ab6282ccde6c03f.png",
+          "description_of_connection": "contains a beam with major crushing"
+        }
+      ]
+    },
+    {
+      "image_name": "0eecb200fb199095c05286f4dc236281.png",
+      "central_focus": "North Fascia of Bridge Superstructure",
+      "image_description": "A view along the north fascia of the bridge. The green-painted steel fascia girder shows areas of peeling paint and corrosion. The concrete deck edge and columns of Pier 3 are visible. The concrete fascia has isolated moderate cracking. A white pipe runs along the underside of the deck.",
+      "edges": [
+        {
+          "connected_to": "86ef5aea34a36b4ff3b8d1cbfdc0f6df.png",
+          "description_of_connection": "is a detail view contained_in the North Profile"
+        },
+        {
+          "connected_to": "86dd3a0dad37b7f8a9ed0bbfc49ec68f.png",
+          "description_of_connection": "is the opposite_of the South Fascia"
+        }
+      ]
+    },
+    {
+      "image_name": "86dd3a0dad37b7f8a9ed0bbfc49ec68f.png",
+      "central_focus": "South Fascia of Bridge Superstructure",
+      "image_description": "A view along the south fascia of the bridge. The green-painted steel fascia girder has areas of peeling paint and moderate corrosion. The concrete deck edge, concrete parapet, and pier substructures are visible. The concrete fascia has isolated moderate cracking in span 2.",
+      "edges": [
+        {
+          "connected_to": "e97bbca28ba27251fc4b5bb986bd4387.png",
+          "description_of_connection": "is a detail view contained_in the South Profile"
+        },
+        {
+          "connected_to": "0eecb200fb199095c05286f4dc236281.png",
+          "description_of_connection": "is the opposite_of the North Fascia"
+        }
+      ]
+    },
+    {
+      "image_name": "f9dbb9a9970311921cef5cdd9e429b12.png",
+      "central_focus": "Reinforced Concrete Pier 1 South Side",
+      "image_description": "View from under the bridge showing the south side of Pier 1. An inspector is climbing a ladder towards the pier cap, which has spalling on its corner. The round concrete columns and the highway below are visible.",
+      "edges": [
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view contained_in the overview of Pier 1"
+        },
+        {
+          "connected_to": "6a6c8dfef94c872e5678fc847f8eeea9.png",
+          "description_of_connection": "is the opposite_of Pier 1 north side"
+        }
+      ]
+    },
+    {
+      "image_name": "6a6c8dfef94c872e5678fc847f8eeea9.png",
+      "central_focus": "Reinforced Concrete Pier 1 North Side",
+      "image_description": "View of the north side of Pier 1 from under the bridge. An inspector is partially visible on a ladder. The pier cap has moderate spalling with exposed rebar. The columns show isolated minor spalling. The ground is covered in riprap.",
+      "edges": [
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view contained_in the overview of Pier 1"
+        },
+        {
+          "connected_to": "f9dbb9a9970311921cef5cdd9e429b12.png",
+          "description_of_connection": "is the opposite_of Pier 1 south side"
+        }
+      ]
+    },
+    {
+      "image_name": "ccc320ef6fcfda0be9f6784db9d72413.png",
+      "central_focus": "Reinforced Concrete Abutment 1",
+      "image_description": "View of the reinforced concrete Abutment 1. The abutment seat supports the bridge girders. The ground below is covered with riprap and overgrown with dry brush. The abutment is noted to be in relatively good condition, with a minor vertical crack and efflorescence.",
+      "edges": [
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "supports Span 1"
+        },
+        {
+          "connected_to": "593436be21cd8a7a8451ba1090d9d986.png",
+          "description_of_connection": "is the substructure for the Abutment 1 approach"
+        }
+      ]
+    },
+    {
+      "image_name": "18c2eb8d6943386930f458cd3a3566fd.png",
+      "central_focus": "Steel Beam Bearing (Beam 3) at Pier 1",
+      "image_description": "Close-up of the bearing for Beam 3 on Pier 1. The steel girder shows heavy rust and section loss at the web and lower flange. The bearing itself is also heavily corroded. A white residue, likely efflorescence, is visible on the adjacent concrete.",
+      "edges": [
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component at Pier 1"
+        },
+        {
+          "connected_to": "5a480d5a977fa7112ab6282ccde6c03f.png",
+          "description_of_connection": "is an alternate view of the crushing at Beam 3 over Pier 1"
+        }
+      ]
+    },
+    {
+      "image_name": "b79a4c2dc998151b3cf569dd19989173.png",
+      "central_focus": "Deck Curb Seal at Pier 1 North Side",
+      "image_description": "A close-up top-down view of a joint in the concrete curb on the north side of the bridge deck, located above Pier 1. A vertical crack runs through the joint filler and the adjacent concrete. The shadow of the photographer is visible.",
+      "edges": [
+        {
+          "connected_to": "315f07a65a2ab5a504654c719a11eb5a.png",
+          "description_of_connection": "is a detail view of the area near the Pier 1 joint"
+        },
+        {
+          "connected_to": "bc6fd2bfe20b9bb356a5c4c4829852f6.png",
+          "description_of_connection": "is a defect on the north side rail"
+        }
+      ]
+    },
+    {
+      "image_name": "afb93d48b8b9b34b52789cb845e8cf52.png",
+      "central_focus": "Asphalt Wearing Surface at Span 1, Westbound Lane",
+      "image_description": "View of the asphalt wearing surface on the bridge deck in the westbound lane of Span 1. The surface shows widespread minor wheel rutting, multiple patched areas of varying shapes, and areas of cracking.",
+      "edges": [
+        {
+          "connected_to": "3399b83ab4b24338374c23fca3087517.png",
+          "description_of_connection": "is an alternate view of the Wearing Surface in Span 1"
+        },
+        {
+          "connected_to": "38e0353a1e544dd710521f5045fe8561.png",
+          "description_of_connection": "is a continuation_of the wearing surface in Span 2 westbound"
+        },
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "is the topside view of Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "38e0353a1e544dd710521f5045fe8561.png",
+      "central_focus": "Pothole in Asphalt Wearing Surface at Span 2, Westbound Lane",
+      "image_description": "Close-up of a pothole in the asphalt wearing surface in the westbound lane of Span 2. The pothole shows deterioration of the asphalt down to a lower layer. This is an example of the widespread moderate depressions and cracking on the deck.",
+      "edges": [
+        {
+          "connected_to": "b2721ab751831b0d81d6b2d613f97740.png",
+          "description_of_connection": "is a defect visible in the overview of Wearing Surface Span 2"
+        },
+        {
+          "connected_to": "afb93d48b8b9b34b52789cb845e8cf52.png",
+          "description_of_connection": "is a continuation_of the defects on the Wearing Surface in Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "c988d44ecfb860e9f7bfbd5aa601f9ca.png",
+      "central_focus": "Deck Curb Seal at Pier 2 North Side",
+      "image_description": "Top-down view of a joint in the concrete curb on the north side of the bridge deck, located over Pier 2. A fine crack is visible in the joint filler. The shadow of the photographer is present.",
+      "edges": [
+        {
+          "connected_to": "f9fd008dc6191722497cf94b4491c01d.png",
+          "description_of_connection": "is a detail view of the area near the Pier 2 joint"
+        },
+        {
+          "connected_to": "bc6fd2bfe20b9bb356a5c4c4829852f6.png",
+          "description_of_connection": "is a defect on the north side rail"
+        }
+      ]
+    },
+    {
+      "image_name": "bc6fd2bfe20b9bb356a5c4c4829852f6.png",
+      "central_focus": "Metal Bridge Railing on North Side",
+      "image_description": "View along the metal bridge railing on the north side of the deck. The railing is a 3-tube aluminum design with aluminum posts and an attached chain-link fence. The report notes some posts are cracked through along the base and posts 10-11 are sheared off.",
+      "edges": [
+        {
+          "connected_to": "9b09eb0884337dc5c36edd032d693f24.png",
+          "description_of_connection": "is the opposite_of the south side rail"
+        },
+        {
+          "connected_to": "b79a4c2dc998151b3cf569dd19989173.png",
+          "description_of_connection": "is adjacent_to the Pier 1 north curb seal"
+        }
+      ]
+    },
+    {
+      "image_name": "877af896d06c4a68e5e8cb9653ea6a0c.png",
+      "central_focus": "Concrete Abutment Curb Joint",
+      "image_description": "Close-up of a joint between the concrete curb on the bridge and the approach curb. There is a significant gap and vertical displacement. A galvanized W-beam guardrail is bolted to the concrete parapet.",
+      "edges": [
+        {
+          "connected_to": "a1c635e51faccb9b426117278ed4704b.png",
+          "description_of_connection": "is a detail view from the Abutment 2 approach"
+        },
+        {
+          "connected_to": "d42797a9404d4e9d94629d61223a9bd5.png",
+          "description_of_connection": "is a detail of the area near the Abutment 2 joint"
+        }
+      ]
+    },
+    {
+      "image_name": "a1c635e51faccb9b426117278ed4704b.png",
+      "central_focus": "Abutment 2 Bridge Approach",
+      "image_description": "View looking along the bridge deck from the Abutment 2 approach. An inspector in a yellow vest is visible on the sidewalk. The asphalt roadway, double yellow center lines, and metal bridge railings on both sides are in view.",
+      "edges": [
+        {
+          "connected_to": "f95ae0c2d9d69267c4d4dfb4f9496828.png",
+          "description_of_connection": "is the approach to the structure supported_by Abutment 2"
+        },
+        {
+          "connected_to": "593436be21cd8a7a8451ba1090d9d986.png",
+          "description_of_connection": "is the opposite_of the Abutment 1 approach"
+        }
+      ]
+    },
+    {
+      "image_name": "d42797a9404d4e9d94629d61223a9bd5.png",
+      "central_focus": "Sealed Joint in Asphalt at Abutment 2",
+      "image_description": "View of a wide, dark asphalt/sealant patch across the bridge deck at the Abutment 2 joint. The joint has widespread minor abrasion. The surrounding asphalt shows some cracking and unevenness.",
+      "edges": [
+        {
+          "connected_to": "a1c635e51faccb9b426117278ed4704b.png",
+          "description_of_connection": "is a detail view from the Abutment 2 approach"
+        },
+        {
+          "connected_to": "93c75ce331ea66d227b3779ff38983be.png",
+          "description_of_connection": "is adjacent_to Wearing Surface Span 4"
+        }
+      ]
+    },
+    {
+      "image_name": "93c75ce331ea66d227b3779ff38983be.png",
+      "central_focus": "Asphalt Wearing Surface at Span 4",
+      "image_description": "A perspective view of the asphalt wearing surface in Span 4. The surface appears uneven with some patched areas and minor cracking visible. The view is looking along the length of the bridge.",
+      "edges": [
+        {
+          "connected_to": "d42797a9404d4e9d94629d61223a9bd5.png",
+          "description_of_connection": "is adjacent_to the Abutment 2 joint"
+        },
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is the topside view of Span 4"
+        }
+      ]
+    },
+    {
+      "image_name": "e1802e11d92f8470776cfe2d3815adc9.png",
+      "central_focus": "Deck Drain Clogged with Debris",
+      "image_description": "Close-up view of a deck drain opening on the asphalt surface. The drain is clogged with leaves and other debris. The drain pipes are noted to have heavy rusting, deep pitting, and random perforation along their lower ends.",
+      "edges": [
+        {
+          "connected_to": "9dde53b9db3e94da8393049ac868abea.png",
+          "description_of_connection": "is a component contained_in the deck"
+        }
+      ]
+    },
+    {
+      "image_name": "9cd43142422b8ddcdbeef0e82a7f2e48.png",
+      "central_focus": "Sealed Joint in Asphalt at Pier 3",
+      "image_description": "A view of the asphalt patch over the deck joint at Pier 3. The joint itself has widespread moderate cracking through the center. The asphalt patch is wide and covers the joint area.",
+      "edges": [
+        {
+          "connected_to": "7fa8917093151755ba88eec873ec3cfc.png",
+          "description_of_connection": "is adjacent_to the Wearing Surface of Span 3"
+        }
+      ]
+    },
+    {
+      "image_name": "7fa8917093151755ba88eec873ec3cfc.png",
+      "central_focus": "Asphalt Wearing Surface at Span 3, Eastbound Lane",
+      "image_description": "View of the asphalt wearing surface in the eastbound lane of Span 3. The surface shows extensive cracking and some patched areas, indicative of widespread moderate cracking and depressions.",
+      "edges": [
+        {
+          "connected_to": "13118d61729e90e424cb77cdb44d9d0f.png",
+          "description_of_connection": "is an alternate view of Wearing Surface Span 3"
+        },
+        {
+          "connected_to": "22b5d739a07c480779216488cea73818.png",
+          "description_of_connection": "is the topside view of Span 3"
+        }
+      ]
+    },
+    {
+      "image_name": "13118d61729e90e424cb77cdb44d9d0f.png",
+      "central_focus": "Asphalt Wearing Surface at Span 3",
+      "image_description": "A wider perspective of the asphalt wearing surface at Span 3, showing cracks, patches, and general unevenness across both lanes. A person is visible in the distance on the bridge.",
+      "edges": [
+        {
+          "connected_to": "7fa8917093151755ba88eec873ec3cfc.png",
+          "description_of_connection": "is an alternate view of Wearing Surface Span 3"
+        },
+        {
+          "connected_to": "22b5d739a07c480779216488cea73818.png",
+          "description_of_connection": "is the topside view of Span 3"
+        }
+      ]
+    },
+    {
+      "image_name": "4863b353380285c45862f006156ef004.png",
+      "central_focus": "Metal Bridge Railing Post 28, South Side",
+      "image_description": "Close-up of Post 28 on the south side bridge railing. The view from the bridge deck looks down towards the highway below. The aluminum post and 3-tube rail are intact, with a chain-link fence attached.",
+      "edges": [
+        {
+          "connected_to": "9b09eb0884337dc5c36edd032d693f24.png",
+          "description_of_connection": "is a component of the Rail on the south side"
+        },
+        {
+          "connected_to": "50a34c59993fbd35a43d3bdf496d0f7d.png",
+          "description_of_connection": "is adjacent_to Post 27"
+        }
+      ]
+    },
+    {
+      "image_name": "50a34c59993fbd35a43d3bdf496d0f7d.png",
+      "central_focus": "Metal Bridge Railing Post 27, South Side",
+      "image_description": "View of Post 27 on the south side bridge railing. The railing casts a distinct shadow pattern on the concrete curb. The post, rails, and chain-link fence appear intact.",
+      "edges": [
+        {
+          "connected_to": "9b09eb0884337dc5c36edd032d693f24.png",
+          "description_of_connection": "is a component of the Rail on the south side"
+        },
+        {
+          "connected_to": "4863b353380285c45862f006156ef004.png",
+          "description_of_connection": "is adjacent_to Post 28"
+        },
+        {
+          "connected_to": "3ff3919f8aba2b327c7420aaa1495c3b.png",
+          "description_of_connection": "is adjacent_to Post 26"
+        }
+      ]
+    },
+    {
+      "image_name": "3ff3919f8aba2b327c7420aaa1495c3b.png",
+      "central_focus": "Metal Bridge Railing Post 26, South Side",
+      "image_description": "View of Post 26 on the south side bridge railing, showing the base connection to the concrete deck. The post and rail system cast shadows on the deck. The hardware shows some surface rust.",
+      "edges": [
+        {
+          "connected_to": "9b09eb0884337dc5c36edd032d693f24.png",
+          "description_of_connection": "is a component of the Rail on the south side"
+        },
+        {
+          "connected_to": "50a34c59993fbd35a43d3bdf496d0f7d.png",
+          "description_of_connection": "is adjacent_to Post 27"
+        }
+      ]
+    },
+    {
+      "image_name": "9b09eb0884337dc5c36edd032d693f24.png",
+      "central_focus": "Metal Bridge Railing, South Side of Span 3",
+      "image_description": "A perspective view along the south side railing in the vicinity of Span 3. The aluminum tube railing and attached chain-link fence are visible, along with the concrete curb and asphalt roadway.",
+      "edges": [
+        {
+          "connected_to": "cc6995950d0e92df3e89f18f225ea8e4.png",
+          "description_of_connection": "is a continuation_of the south side rail in Span 2"
+        },
+        {
+          "connected_to": "bc6fd2bfe20b9bb356a5c4c4829852f6.png",
+          "description_of_connection": "is the opposite_of the north side rail"
+        }
+      ]
+    },
+    {
+      "image_name": "f9fd008dc6191722497cf94b4491c01d.png",
+      "central_focus": "Sealed Joint in Asphalt at Pier 2",
+      "image_description": "View of the asphalt patch covering the deck joint at Pier 2. The joint has some minor abrasion. The surrounding asphalt shows signs of patching and cracking.",
+      "edges": [
+        {
+          "connected_to": "f6a0e1cdf76eeb301888be9b8b306cd4.png",
+          "description_of_connection": "is adjacent_to the wearing surface of Span 2"
+        }
+      ]
+    },
+    {
+      "image_name": "f6a0e1cdf76eeb301888be9b8b306cd4.png",
+      "central_focus": "Asphalt Wearing Surface at Span 2, Eastbound Lane",
+      "image_description": "View of the asphalt wearing surface in the eastbound lane of Span 2. The surface shows signs of widespread cracking, rutting, and previous patching, indicating widespread moderate defects.",
+      "edges": [
+        {
+          "connected_to": "b2721ab751831b0d81d6b2d613f97740.png",
+          "description_of_connection": "is an alternate view of Wearing Surface Span 2"
+        },
+        {
+          "connected_to": "6a1f04ead86f298095f124417bff6643.png",
+          "description_of_connection": "is the topside view of Span 2"
+        }
+      ]
+    },
+    {
+      "image_name": "b2721ab751831b0d81d6b2d613f97740.png",
+      "central_focus": "Asphalt Wearing Surface at Span 2",
+      "image_description": "A wider view of the wearing surface across both lanes of Span 2. The asphalt has multiple patches, cracks, and signs of rutting. The railing and curb are visible on the right.",
+      "edges": [
+        {
+          "connected_to": "f6a0e1cdf76eeb301888be9b8b306cd4.png",
+          "description_of_connection": "is an alternate view of Wearing Surface Span 2"
+        },
+        {
+          "connected_to": "38e0353a1e544dd710521f5045fe8561.png",
+          "description_of_connection": "contains a pothole"
+        },
+        {
+          "connected_to": "6a1f04ead86f298095f124417bff6643.png",
+          "description_of_connection": "is the topside view of Span 2"
+        }
+      ]
+    },
+    {
+      "image_name": "cc6995950d0e92df3e89f18f225ea8e4.png",
+      "central_focus": "Metal Bridge Railing, South Side of Span 2",
+      "image_description": "A view along the south side railing in the vicinity of Span 2. The aluminum tube railing is attached to posts, with a chain-link fence also present. The railing casts shadows on the concrete curb.",
+      "edges": [
+        {
+          "connected_to": "9b09eb0884337dc5c36edd032d693f24.png",
+          "description_of_connection": "is a continuation_of the south side rail in Span 3"
+        },
+        {
+          "connected_to": "bc6fd2bfe20b9bb356a5c4c4829852f6.png",
+          "description_of_connection": "is the opposite_of the north side rail"
+        }
+      ]
+    },
+    {
+      "image_name": "315f07a65a2ab5a504654c719a11eb5a.png",
+      "central_focus": "Sealed Joint in Asphalt at Pier 1",
+      "image_description": "Top-down view of a wide, irregular asphalt patch covering the deck joint over Pier 1. The report indicates this joint has an isolated major crack through the center, full depth in the northbound lane. This leakage affects the beam ends below.",
+      "edges": [
+        {
+          "connected_to": "de45affb19d93fa9ef3d533108e0d10a.png",
+          "description_of_connection": "is similar_to the sealed joint at Abutment 1"
+        },
+        {
+          "connected_to": "5a480d5a977fa7112ab6282ccde6c03f.png",
+          "description_of_connection": "affects the condition of the beam ends below"
+        }
+      ]
+    },
+    {
+      "image_name": "3399b83ab4b24338374c23fca3087517.png",
+      "central_focus": "Asphalt Wearing Surface at Span 1",
+      "image_description": "View of the asphalt wearing surface in Span 1, showing multiple patched areas, depressions, and cracking. A large, dark patch from the joint seal at Abutment 1 is visible in the foreground.",
+      "edges": [
+        {
+          "connected_to": "afb93d48b8b9b34b52789cb845e8cf52.png",
+          "description_of_connection": "is an alternate view of the Wearing Surface in Span 1"
+        },
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "is the topside view of Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "de45affb19d93fa9ef3d533108e0d10a.png",
+      "central_focus": "Sealed Joint in Asphalt at Abutment 1",
+      "image_description": "Close-up view of a meandering asphalt patch over the deck joint at Abutment 1. The joint shows minor abrasion with partial pavement. The surrounding asphalt is cracked.",
+      "edges": [
+        {
+          "connected_to": "315f07a65a2ab5a504654c719a11eb5a.png",
+          "description_of_connection": "is similar_to the sealed joint at Pier 1"
+        },
+        {
+          "connected_to": "593436be21cd8a7a8451ba1090d9d986.png",
+          "description_of_connection": "is located on the Abutment 1 approach"
+        }
+      ]
+    },
+    {
+      "image_name": "a6e5bb975a081b08aa3ff64179048b84.png",
+      "central_focus": "Approach Wingwall (Wing wall 2)",
+      "image_description": "View of the southeast concrete wingwall and parapet at the approach. The parapet has settled and rotated, and the attached galvanized W-beam guardrail is bent. The report notes the southeast corner has rotated approximately 9 inches to the south.",
+      "edges": [
+        {
+          "connected_to": "86dd3a0dad37b7f8a9ed0bbfc49ec68f.png",
+          "description_of_connection": "is adjacent_to the south fascia"
+        }
+      ]
+    },
+    {
+      "image_name": "593436be21cd8a7a8451ba1090d9d986.png",
+      "central_focus": "Abutment 1 Bridge Approach",
+      "image_description": "View from the Abutment 1 approach looking onto the bridge. An inspector is visible on the right shoulder next to a pedestrian crossing sign. The two-lane asphalt road with metal railings is visible.",
+      "edges": [
+        {
+          "connected_to": "ccc320ef6fcfda0be9f6784db9d72413.png",
+          "description_of_connection": "is the approach to the structure supported_by Abutment 1"
+        },
+        {
+          "connected_to": "a1c635e51faccb9b426117278ed4704b.png",
+          "description_of_connection": "is the opposite_of the Abutment 2 approach"
+        },
+        {
+          "connected_to": "de45affb19d93fa9ef3d533108e0d10a.png",
+          "description_of_connection": "contains the Abutment 1 joint"
+        }
+      ]
+    },
+    {
+      "image_name": "efa8fa4b9fa098dbd98ff87b4e91ad54.png",
+      "central_focus": "Crushing at Steel Beam End (Beam 3), Pier 1, Span 1",
+      "image_description": "A close-up view showing severe corrosion and crushing at the end of a steel beam. The lower flange is heavily deteriorated with significant section loss. A hammer is visible, providing scale and indicating an inspection in progress. This is identified as isolated major crushing.",
+      "edges": [
+        {
+          "connected_to": "26bd149a6f0365415dd7fe67bb69c217.png",
+          "description_of_connection": "is an alternate view of the crushing at Beam 3"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component at Pier 1"
+        }
+      ]
+    },
+    {
+      "image_name": "26bd149a6f0365415dd7fe67bb69c217.png",
+      "central_focus": "Crushing at Steel Beam 3 over Pier 1, Span 1",
+      "image_description": "An illuminated close-up view of the crushed end of Beam 3 over Pier 1. The image highlights the severe section loss and delamination of the steel in the lower flange and web. This is described as isolated major crushing.",
+      "edges": [
+        {
+          "connected_to": "efa8fa4b9fa098dbd98ff87b4e91ad54.png",
+          "description_of_connection": "is an alternate view of the crushing at Beam 3"
+        },
+        {
+          "connected_to": "5a480d5a977fa7112ab6282ccde6c03f.png",
+          "description_of_connection": "is an alternate view of the crushing at Beam 3"
+        }
+      ]
+    },
+    {
+      "image_name": "0f8e432479c47fabd2384596f9e1998d.png",
+      "central_focus": "Crushing at Steel Beam 4 over Pier 1, Span 1",
+      "image_description": "Close-up of the crushed and heavily corroded end of Beam 4 over Pier 1. The anchor bolt is almost consumed by rust, and the beam's lower flange shows significant section loss and deformation. This condition is noted as isolated major crushing.",
+      "edges": [
+        {
+          "connected_to": "38c4cd121f1e36ea58b29f4381dd433f.png",
+          "description_of_connection": "is an alternate view of the crushing at Beam 4"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component at Pier 1"
+        }
+      ]
+    },
+    {
+      "image_name": "9a47ba3d9d7ec5beb7720d885373aef1.png",
+      "central_focus": "Steel Beam 5 over Pier 1, Span 1",
+      "image_description": "View of the end of Beam 5 over Pier 1, showing isolated moderate corrosion. There is rust staining and some peeling of the green paint on the web, and the lower flange has surface corrosion.",
+      "edges": [
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component at Pier 1"
+        },
+        {
+          "connected_to": "350ce9d017b7a305f4590de2dd9728b8.png",
+          "description_of_connection": "is a detail view contained_in Span 1"
+        }
+      ]
+    },
+    {
+      "image_name": "3ce826b1c8c38639f64ac00433508ffc.png",
+      "central_focus": "Crushing at Steel Beam 2 over Pier 1, Span 1",
+      "image_description": "A flashlight illuminates the severely crushed and corroded end of Beam 2 over Pier 1. There is heavy section loss on the lower flange and web, with delaminated rust layers visible. This condition is identified as isolated major crushing.",
+      "edges": [
+        {
+          "connected_to": "89e62a8460c5e0a7fcf89d8091b1262d.png",
+          "description_of_connection": "is an alternate view of the crushing at Beam 2"
+        },
+        {
+          "connected_to": "632d2923a5f592fba1603c1513130831.png",
+          "description_of_connection": "is a detail view of a component at Pier 1"
+        }
+      ]
+    },
+    {
+      "image_name": "b01f3f69f170f58f9ab340dac96b8f5f.png",
+      "central_focus": "Bearings over Pier 3, Span 4",
+      "image_description": "A general view of the bearings supporting the Span 4 girders on top of the Pier 3 pier cap. The bearings show varying degrees of corrosion. A silver car is visible on the highway below. The pier columns show some cracking and spalling.",
+      "edges": [
+        {
+          "connected_to": "ec66d17e1255c312d99e96675560bde4.png",
+          "description_of_connection": "is an overview_of components at Pier 3"
+        },
+        {
+          "connected_to": "3242d0c6b0aef998ff68eb336025cd82.png",
+          "description_of_connection": "is an overview_of the Beam 1 bearing"
+        },
+        {
+          "connected_to": "82cc1eb0dbcd9f60943569ef148c6415.png",
+          "description_of_connection": "is an overview_of the Beam 2 bearing"
+        },
+        {
+          "connected_to": "4d051331725065980a17742228b8faed.png",
+          "description_of_connection": "is an overview_of the Beam 3 bearing"
+        }
+      ]
+    }
+  ]
+}
