@@ -66,11 +66,9 @@ The Research Agent uses bridge-aware retrieval so evidence remains associated wi
 👁️ Vision Analysis
 
 The Vision Agent uses:
-
 Salesforce/blip-vqa-base
 
 It provides supporting observations such as:
-
 Concrete cracking
 Rust / corrosion
 Spalling
@@ -106,7 +104,6 @@ Maximum: 7
 Higher-risk or unverifiable results are routed through an explicit human approval/rejection gate.
 
 Possible outcomes:
-
 AUTO_APPROVED
 HUMAN_APPROVED
 HUMAN_REJECTED
@@ -114,7 +111,6 @@ HUMAN_REJECTED
 🔍 LangSmith
 
 LangSmith provides observability for the inspection workflow, including:
-
 User inputs
 Retrieval activity
 Vision analysis
@@ -174,27 +170,19 @@ python rag/create_vector_db.py
 streamlit run app.py
 
 📦 Dataset
-
 This project uses a selective subset of the BridgeEQA dataset.
-
 Official dataset:
 https://huggingface.co/datasets/hoskerelab/bridge-eqa
 
 ⚠️ Safety Disclaimer
-
 AutoInspect is a research and portfolio prototype.
-
 It is not a replacement for certified structural inspection, professional engineering judgment, regulatory procedures, or real-world safety certification.
-
 AI-generated observations should be verified by qualified professionals before real-world maintenance, structural, or safety decisions.
 
 🎯 Project Goal
-
 AutoInspect demonstrates how agentic AI can combine retrieval, vision, autonomous analysis, observability, and human oversight in a practical infrastructure-inspection workflow.
 
 👩‍💻 Author
-
 Bhoomika Karri
-
 GitHub:
 https://github.com/BhoomikaKarri
