@@ -124,7 +124,9 @@ HUMAN_APPROVED
 HUMAN_REJECTED
 ```
 🔍 LangSmith Observability
+
 LangSmith provides observability for the inspection workflow, including:
+
 User inputs
 Retrieval activity
 Vision analysis
@@ -209,6 +211,7 @@ python rag/create_vector_db.py
 streamlit run app.py
 ```
 🔎 Example Inspection Workflow
+
 Input
 Bridge:
 BridgeInspRpt-PUTNEY-00001
@@ -231,39 +234,56 @@ Processing
 🏗️ Design Principles
 
 Evidence First
+
 Inspection conclusions should be grounded in available inspection evidence.
 
 Specialized Agents
+
 Each major capability has a dedicated responsibility.
 
 Bridge-Aware Retrieval
+
 Retrieved evidence is filtered to the selected bridge.
 
 Human Oversight
+
 Higher risk or uncertain conclusions require explicit human verification.
 
 Observable Execution
+
 LangSmith provides visibility into the multi-agent workflow.
 
 📦 Dataset
+
 This project uses a selective subset of the BridgeEQA dataset.
 
 Official dataset:
+
 https://huggingface.co/datasets/hoskerelab/bridge-eqa
 
 🎯 Project Goal
+
 AutoInspect demonstrates how agentic AI can combine retrieval, vision, autonomous analysis, observability, and human oversight in a practical infrastructure-inspection workflow.
 
 ⚠️ Safety Disclaimer
+
 AutoInspect is a research and portfolio prototype.
+
 It is not a replacement for:
+
 Certified structural inspection
+
 Professional engineering judgment
+
 Regulatory procedures
+
 Real world safety certification
+
 AI generated observations should be verified by qualified professionals before real-world maintenance, structural, or safety decisions.
 
 👩‍💻 Author
+
 Bhoomika Karri
+
 GitHub:
 https://github.com/BhoomikaKarri
